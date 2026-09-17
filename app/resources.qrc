@@ -1,0 +1,20 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/omegacat">
+    <file>icons/chevron-down.svg</file>
+    <file>icons/check.svg</file>
+    <file>icons/check-dark.svg</file>
+    <file>splash.png</file>
+    <file alias="appicon.png">appicon/omegacat.png</file>
+  </qresource>
+  <!-- The notices and the licence texts they cite, compiled in so the program
+       carries them however it is distributed. The files live in licenses/ at
+       the repository root, where the generator writes them and packaging
+       stages them; these are the same files, not copies. -->
+  <qresource prefix="/omegacat/licenses">
+    <file alias="THIRD_PARTY_NOTICES.md">../licenses/THIRD_PARTY_NOTICES.md</file>
+    <file alias="GPL-3.0.txt">../licenses/GPL-3.0.txt</file>
+    <file alias="LGPL-3.0.txt">../licenses/LGPL-3.0.txt</file>
+    <file alias="Apache-2.0.txt">../licenses/Apache-2.0.txt</file>
+  </qresource>
+</RCC>

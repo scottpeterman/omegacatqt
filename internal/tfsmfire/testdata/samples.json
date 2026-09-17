@@ -1,0 +1,5066 @@
+{
+"alcatel_aos_show_vlan": {
+"records": 4,
+"sha256": "57578fd8ffba94d9b955bc0bb7f0d43a2b1b78b000b70ad7f3ee41473a50150f"
+},
+"alcatel_sros_oam_mac-ping": {
+"records": 1,
+"sha256": "fa939f57f04df3512572ba271784657a21196c9ab5442db18f1cf315bc3916ab"
+},
+"alcatel_sros_show_router_bgp_summary_family": {
+"records": 6,
+"sha256": "8f637c05708899b1972b39b932b00f1eea59b5f17cef722281f6348ac47d17c3"
+},
+"alcatel_sros_show_router_interface": {
+"records": 6,
+"sha256": "d929e98cc1d5ee114bde990b39f6282d47a4a20fc3e02ca1d9dacd71d08f3291"
+},
+"alcatel_sros_show_router_isis_adjacency": {
+"records": 2,
+"sha256": "723b47e955dd37a89d714b4658a0474be6926285ef238e5624b9a5b6ee472be3"
+},
+"alcatel_sros_show_router_isis_interface": {
+"records": 3,
+"sha256": "11eef87ef2d6e2a2393e622ecd1ec57635da217b111b8e7f0978da952feb41a3"
+},
+"alcatel_sros_show_router_mpls_interface": {
+"records": 4,
+"sha256": "b45df76c5c34ac7af31289127e567a7917f587923fc990425a76116fe5c30ecb"
+},
+"alcatel_sros_show_router_mpls_lsp": {
+"records": 6,
+"sha256": "c0cb7b739a940b038bea1ecc27b51e1c78954e3324c0f299340bdbb4440eac69"
+},
+"alcatel_sros_show_router_ospf_interface": {
+"records": 4,
+"sha256": "2307afb199e8d9149a790a47d38514d6fe280369a8c10d71becc2195bfe43d40"
+},
+"alcatel_sros_show_service_id_base": {
+"records": 1,
+"sha256": "c02c85ccfe253ad60cae9005ee6c1c32a4da1fbdc34d2d088c28f9c9dc81c2d6"
+},
+"alcatel_sros_show_service_sap-using": {
+"records": 5,
+"sha256": "028bd5132a3dc9d12f2481b10e7286da9843a94658f0b99655539dd99928b492"
+},
+"alcatel_sros_show_service_sdp": {
+"records": 6,
+"sha256": "4d13c6890d628290c7437320c49c597d3728534df71b0937132c69a3d8a2279d"
+},
+"alcatel_sros_show_service_sdp-using": {
+"records": 5,
+"sha256": "0270d7a28a3d2ddeedf848f5fb9b762786434251fd9e51bcc36b0fc26315132c"
+},
+"alcatel_sros_show_system_cpu": {
+"records": 50,
+"sha256": "db6921afed3e86bb97fe54cfabd4853a272d88aaabf57c9bf2bba24a336945ef"
+},
+"allied_telesis_awplus_show_arp": {
+"records": 2,
+"sha256": "5a3e4a8dcc8d9ea886e5567289d7356028683ce667c3c8971bae0d2c040ac963"
+},
+"allied_telesis_awplus_show_etherchannel_summary": {
+"records": 2,
+"sha256": "1a424909f9e9ef6a2dcb58110fbed5922aae0f3e2469346aa902aeba3aad72c1"
+},
+"allied_telesis_awplus_show_interface": {
+"records": 4,
+"sha256": "639ae78530d08d6d17bacbc94e64ba4e9faf71d102191d3eee9194ff6724614b"
+},
+"allied_telesis_awplus_show_interface_switchport": {
+"records": 14,
+"sha256": "03bd346076d8a37a57dd43aadd9d7b5f6deec6361d8eea7c62e5897dce203959"
+},
+"allied_telesis_awplus_show_ip_route": {
+"records": 9,
+"sha256": "1858ecdeea01f4774e51ee13e80fcb018c60dbfb6641f98adeee57041002167a"
+},
+"allied_telesis_awplus_show_lldp_neighbors_detail": {
+"records": 3,
+"sha256": "ac44bb6e2fc70e3a7c6395d27bf8c4c158a5c5c75a091de272fa14bcdd276e48"
+},
+"allied_telesis_awplus_show_mac_address-table": {
+"records": 4,
+"sha256": "760364f603b9ec9c7e0fd599347e787755749d38a43385a29c81a58a0268200e"
+},
+"allied_telesis_awplus_show_static-channel-group": {
+"records": 2,
+"sha256": "3b84945f489e8002841cc33e93ef345a415a96e92617237d2c92153905ca8ac4"
+},
+"allied_telesis_awplus_show_system": {
+"records": 1,
+"sha256": "05229963cb9ed130b69a4acf070f4063b41910e98328326c650211d02fbb805e"
+},
+"allied_telesis_awplus_show_vlan_all": {
+"records": 8,
+"sha256": "016573153d1a805a839c36f9afb4e1573aef551b7e4a6b7f1e2a740f8e6274b0"
+},
+"arista_eos_bash_df_-h": {
+"records": 13,
+"sha256": "231ea5a74c5c5cb152be43dec3dc64bb6ef4ee78f41f7df4d51b04f2bab3a68c"
+},
+"arista_eos_dir_flash": {
+"records": 11,
+"sha256": "f52c9a888846cba52612bedc52a47d8f34f4aedb4a9f25d525dd19474db5a4cc"
+},
+"arista_eos_show_boot-config": {
+"records": 1,
+"sha256": "72c23bfeb3f4e337b11aa6aea15856a9e1343dcef1e76bd0c56dd111deb740df"
+},
+"arista_eos_show_clock": {
+"records": 1,
+"sha256": "1733f92bab8025ba7573ccb949d03edda733f5d5f573d56502c2d868c2051f48"
+},
+"arista_eos_show_environment_cooling": {
+"records": 38,
+"sha256": "7f1af32fc6c5b173ee28733a8241bbcf8115a96bff01481282fb2ed41e418e86"
+},
+"arista_eos_show_environment_power": {
+"records": 2,
+"sha256": "6b07efa1990e7da62a995f5f9aafe92e5e4cdd6f283bcec52bc2962505849725"
+},
+"arista_eos_show_environment_temperature": {
+"records": 16,
+"sha256": "154ebd118eaacbc0cc66205d9e66fe96d775c437e39126f0130afdd049a77680"
+},
+"arista_eos_show_hostname": {
+"records": 1,
+"sha256": "cf7bafa308c3590ee86fed57e74aa5118788e76829dc9b92ebe0d1cb6a3ab6bd"
+},
+"arista_eos_show_interfaces": {
+"records": 8,
+"sha256": "3f5dec95491c853fbd270857c06a996facddb39b2018634c2f299040cb090b63"
+},
+"arista_eos_show_interfaces_description": {
+"records": 20,
+"sha256": "ef14e11ad04226bb9559db8f5eb0522fbc61183e4fc8c2d698e486225ee460d4"
+},
+"arista_eos_show_interfaces_status": {
+"records": 6,
+"sha256": "5055a42ace4af892a83e02f309753e1aaf03943d6df82fdbaebf0c36cbb2cfec"
+},
+"arista_eos_show_interfaces_transceiver": {
+"records": 5,
+"sha256": "e2211d6aa22a683e3e23257f267e1df6789fcb839f208e222e57ec8f2b856d34"
+},
+"arista_eos_show_interfaces_transceiver_detail": {
+"records": 21,
+"sha256": "f2759aafcb4e54bc59d29d1ead1078c59a18d6f035f0ad6641c75e9edc8351ca"
+},
+"arista_eos_show_inventory": {
+"records": 13,
+"sha256": "525fb9be605ee18b45f1e12c317bdd0c00ccd2dbee53dcf361a415ba402a7f68"
+},
+"arista_eos_show_ip_access-lists": {
+"records": 12,
+"sha256": "a7598ebfe478403e59485e68b1a763ff32c735157f6a7f4c0e745a88314f925d"
+},
+"arista_eos_show_ip_arp": {
+"records": 4,
+"sha256": "a6dd42c5bb9f215c041be56e86c0b4f727408e32e72108ea0af8b07ba0215ccf"
+},
+"arista_eos_show_ip_bgp": {
+"records": 9,
+"sha256": "2cb04349fbd226cf363167ce08e074ab566235bcf8882231bb344f38b6f27a86"
+},
+"arista_eos_show_ip_bgp_detail": {
+"records": 11,
+"sha256": "de74603f3389f8e81e25ec06041b1e7e328f48dcbde8a8c05eb2ee5ae4b584d4"
+},
+"arista_eos_show_ip_bgp_summary": {
+"records": 3,
+"sha256": "f0da26c3133121bafab2efc37feb790e9b138ae2292bf7b07ec8dc51ec1668b1"
+},
+"arista_eos_show_ip_interface_brief": {
+"records": 5,
+"sha256": "43047a49b8a6cbb6118e5415d5893b3735b80fbcbc41ba5c84116d8bede7f78f"
+},
+"arista_eos_show_ip_ospf_database": {
+"records": 11,
+"sha256": "24c551b512c9e05ff1f1ad4ece53e7ecf522fb61ccff16112d31fe9535c079f6"
+},
+"arista_eos_show_ip_ospf_interface_brief": {
+"records": 7,
+"sha256": "3d648f64ac95036e200eba99e7cb34617f126c5f1da7668a3b6eb86ff0da3830"
+},
+"arista_eos_show_ip_ospf_neighbor": {
+"records": 2,
+"sha256": "41f44ecffd6d002ee0b670d78623dbf89c68814146fb797fead97c3fd988bbb2"
+},
+"arista_eos_show_ip_ospf_summary": {
+"records": 3,
+"sha256": "ec0cd6a31faf9e7ae07cb210298abe137033e91823efec5333d2d42db446f15b"
+},
+"arista_eos_show_ip_route": {
+"records": 2,
+"sha256": "a4fc3b600575b0e13ec3de6aa3eb62bb65660977d1931b7cd6c6e1d73fd31e10"
+},
+"arista_eos_show_ipv6_bgp_summary": {
+"records": 3,
+"sha256": "c936a59af5eb18fc8b72db46b4ef4f9edea0675390bf5a11839ef860a8c11b5b"
+},
+"arista_eos_show_isis_neighbors": {
+"records": 2,
+"sha256": "42c8a4eb87adff5c9245487c55f538932f3a8a9192a70547bf2ff8e549ce3720"
+},
+"arista_eos_show_lldp_neighbors": {
+"records": 4,
+"sha256": "d85d969ce27602634bba83515055f6810dd4b1065fd9a514d2072c6333f6e6ec"
+},
+"arista_eos_show_lldp_neighbors_detail": {
+"records": 20,
+"sha256": "2ff7f7b8ef0b74c24d0b1ac685d9bf5c8ca5e8f4466ea2cae69bd2752bb42411"
+},
+"arista_eos_show_lldp_neighbors_detail2": {
+"records": 20,
+"sha256": "2ff7f7b8ef0b74c24d0b1ac685d9bf5c8ca5e8f4466ea2cae69bd2752bb42411"
+},
+"arista_eos_show_mac_address-table": {
+"records": 23,
+"sha256": "d61a79f6d477bb6b0be1d66e11ad42df698c8f4baa6b8a902d6e033202e9c492"
+},
+"arista_eos_show_mac_security_interface": {
+"records": 8,
+"sha256": "d0d45388f1ae9ef718be3e1c0910b1577100a4efc1adeadfa0a3dbd9b442a446"
+},
+"arista_eos_show_mac_security_mka_counters": {
+"records": 12,
+"sha256": "cb7ef159389a14c956a483f592be8cd95c987a339929cd6b5aef240c68cba296"
+},
+"arista_eos_show_mac_security_participants_detail": {
+"records": 4,
+"sha256": "908c5199a62d75c0bdc1deca198f3e84af89c733e74019762892a0de1cf0bee5"
+},
+"arista_eos_show_mlag": {
+"records": 1,
+"sha256": "c5e77f19d2d2158f158a42862108afa28e5576bed02e491e90adee22522e6550"
+},
+"arista_eos_show_pim_ipv4_interface": {
+"records": 4,
+"sha256": "bf24cf45cf9bbdffe1392e2b0baa296335581c346fdb39bc9d6bcc7eb0df3e29"
+},
+"arista_eos_show_pim_ipv4_neighbor": {
+"records": 4,
+"sha256": "61c103c56777eacced70dd2765f12a4d3cc3b9783ac06c57207b410aa067ae78"
+},
+"arista_eos_show_port-channel_summary": {
+"records": 40,
+"sha256": "d995f74136b94246d7952422f8e3fe19ab777017496d1ad9aa6aae14226f556d"
+},
+"arista_eos_show_processes_top_once": {
+"records": 8,
+"sha256": "973c09a6f4134178ec86d140d804a044f101b96dd56089f0b8accaba6b528b2a"
+},
+"arista_eos_show_snmp_community": {
+"records": 5,
+"sha256": "2df755a9e657fec6c945ac0c9b4b06a9dee2aad470aa79bc825fcffa4af8a799"
+},
+"arista_eos_show_version": {
+"records": 1,
+"sha256": "802c249d4fdc80b46747fe36647c88b4569442a15807a218d1c994a923fa7b6f"
+},
+"arista_eos_show_vlan": {
+"records": 4,
+"sha256": "ce71625a9a99b2f2ba71bc67ee0bf53a3afb14ed7da4ac8f2e382b8ba6399c70"
+},
+"arista_eos_show_vrf": {
+"records": 2,
+"sha256": "ac3cbb6e68bf7cc37eb555956044a90cf2853df77705d0faa817fcbfc8567b5f"
+},
+"aruba_aoscx_show_bgp_all-vrfs_all_summary": {
+"records": 4,
+"sha256": "789b1125d46df7ca08375d4ebb94b19734a79c6327efbefdf6915221df407fda"
+},
+"aruba_os_show_ap_bss-table_details": {
+"records": 5,
+"sha256": "750fb33d64fc63122e51cee918957de00e7786669e68a8c948b617d12603a7e0"
+},
+"aruba_os_show_ap_database": {
+"records": 3,
+"sha256": "b4091322c917f0576165e266ba754c88ee851fb94499445f7e29c71acdd92956"
+},
+"aruba_os_show_ap_database_long": {
+"records": 3,
+"sha256": "47f673f03b8a8c48da1685166e4ef995bc8a15cce6e70a3c18fc304724d6f623"
+},
+"aruba_os_show_ap_radio-database": {
+"records": 3,
+"sha256": "e3af00f58c212894b22aa06b2ec6c9cd701c73d78941fef438bbe750402c113a"
+},
+"aruba_os_show_arp": {
+"records": 12,
+"sha256": "ae034de87506fc78417819f04e889616fc145f46f887deac23597422d56174c1"
+},
+"aruba_os_show_ip_interface_brief": {
+"records": 4,
+"sha256": "aeeb1a9de75c9da29f93bd89cc2c26b8f2d20951398e6675dda7ceccae2ec087"
+},
+"aruba_os_show_ipv6_interface_brief": {
+"records": 5,
+"sha256": "ec4b07c13c174b407352e65057d0dc4eeb53b0399573c1fe898f356482adbd16"
+},
+"avaya_ers_show_interface_name": {
+"records": 50,
+"sha256": "e973045bed872db5f03f1b1701467aa5523f7f7c391d368c3ea832b9addca66d"
+},
+"avaya_ers_show_logging_config": {
+"records": 1,
+"sha256": "406a6b8acdc94ba8824417b453c014cbc8065e83bf50ebf34a1d07a387c36e6b"
+},
+"avaya_ers_show_mac-address-table": {
+"records": 25,
+"sha256": "a148c55fa5cd8dc900a7656cf12984ba5b765778062b64dc00bf15af108ecd3b"
+},
+"avaya_ers_show_mlt": {
+"records": 32,
+"sha256": "92160feeb682d6430829852a8767d52319411eca3acda00cf010f8e636035cb3"
+},
+"avaya_ers_show_sys-info": {
+"records": 1,
+"sha256": "164158908fe016879e794ea19e9fc4b2c4d44a617242f4db9b7a0f2e4117f0fc"
+},
+"avaya_ers_show_vlan": {
+"records": 5,
+"sha256": "00cfde44822b40beeab941df510de6ef9f20e31a570db5da54ae902706919d0c"
+},
+"avaya_vsp_show_software": {
+"records": 1,
+"sha256": "27b3a271c7d7c52884660f1190604e04052ee8ab342a2bbe2c3fa8e7b2e342a9"
+},
+"bridge fdb show": {
+"records": 8,
+"sha256": "77158e15b71de607ff5f16033928348b8335aa600af2582205e6864ac597f8be"
+},
+"broadcom_icos_show_isdp_neighbors": {
+"records": 11,
+"sha256": "1e890f179668f402797796c8fec47d0dde18ec3856a66d9c3172c54c4211d9dc"
+},
+"broadcom_icos_show_version": {
+"records": 1,
+"sha256": "f5ccbaf04c0fdbaea2a33a97e66ee9feed561dc2b62ada6eac4cad981010cdb7"
+},
+"broadcom_icos_show_vlan_brief": {
+"records": 20,
+"sha256": "db28e91850493b96754c3ee267d91173b61d1efdd121060ef5553faa7dd435fc"
+},
+"brocade_fastiron_show_arp": {
+"records": 5,
+"sha256": "ff0c42072ab3d57984e82c5add2f10e6040c24497a2843d26a92f4d29bc03ffb"
+},
+"brocade_fastiron_show_interfaces": {
+"records": 85,
+"sha256": "8e0519a03a60723d4c8c417d8ce5c605b347d582d4a41880afde1918cdab24d4"
+},
+"brocade_fastiron_show_interfaces_brief": {
+"records": 394,
+"sha256": "92ef35627ee5d508a98554b693630415d313339011fb908238e3746385739a55"
+},
+"brocade_fastiron_show_lag_brief": {
+"records": 4,
+"sha256": "9f6e5646a8d9c36075a94dd887a095f933760e7f511a375d3697fa80ae7fcee9"
+},
+"brocade_fastiron_show_lldp_neighbors": {
+"records": 1,
+"sha256": "9571832b45d71852c4601e86804845be9fc1dc8827accc0dc3800989043f3e8b"
+},
+"brocade_fastiron_show_lldp_neighbors_detail": {
+"records": 3,
+"sha256": "a4ec0a7294cd1d8448e1365212dbd2d4a433dfe3564005f680f360c844214582"
+},
+"brocade_fastiron_show_mac-address": {
+"records": 3,
+"sha256": "fc96c718e855dcde9ce7dc14f29db00f8ff440e3b577f8c30e6f596b598b3fbf"
+},
+"brocade_fastiron_show_metro": {
+"records": 3,
+"sha256": "830f5752e0012bda2d7f2d6580740da20c93ced871b6f9922705c56d525eecf5"
+},
+"brocade_fastiron_show_monitor": {
+"records": 2,
+"sha256": "23df355334ed11d7b4ba3ebd25eba18633a40e18d8ab78ed8fe4d595fd5dc602"
+},
+"brocade_fastiron_show_running-config_vlan": {
+"records": 11,
+"sha256": "f58c25436fe1e14617027ba00fa4f140eaf17babce6f2386d1e2862106b30abc"
+},
+"brocade_fastiron_show_span": {
+"records": 1,
+"sha256": "9059dfd9f7c84020581fa4c366d58a6c0d472b5deb969d8bbfebb1fa0901730a"
+},
+"brocade_fastiron_show_topo": {
+"records": 3,
+"sha256": "7be4e54a1ec707c6e2eb9d65806092067917d60aa13c89e69d4607d5d95f841f"
+},
+"brocade_fastiron_show_trunk": {
+"records": 1,
+"sha256": "9a3454cf62315f3092c132b88a8766b25d141aa1e09476a7505e3e1c76f7a3f9"
+},
+"brocade_fastiron_show_version": {
+"records": 1,
+"sha256": "188f4689c3eb963a9677e5fb627362defdf38cdd4efcdc9277b77f727e3f8636"
+},
+"brocade_netiron_show_interfaces": {
+"records": 9,
+"sha256": "a78005080e96ea306300507f8b9fae7bb7d6569db4d6ade1ca39798b4a11744e"
+},
+"brocade_netiron_show_interfaces_brief": {
+"records": 11,
+"sha256": "f8bfb2db28e3020ee006f0af2df2ae3fdc1a40aaa12c85b8e33fe492b9ebdf80"
+},
+"brocade_netiron_show_lag_brief": {
+"records": 12,
+"sha256": "22db5c1fda179363bc6be9d9249080417bd0b61899fa26d002ff91f61e03f841"
+},
+"brocade_netiron_show_lldp_neighbors_detail": {
+"records": 5,
+"sha256": "03668e5d817b8b07a866b544927723e4dc8d1c312c44084a2e33394c9a6b52e6"
+},
+"brocade_netiron_show_metro": {
+"records": 11,
+"sha256": "993f9d01a56a638cea8f9f91509470749aa16ede84cefe7dc28b77b888f4c485"
+},
+"brocade_netiron_show_running-config_interface": {
+"records": 1,
+"sha256": "d7bf0df1434e07bd58f7bd04177cdb819343d903bdf7d5c5b48daaf25eee4fc2"
+},
+"brocade_netiron_show_running-config_vlan": {
+"records": 18,
+"sha256": "a60ee09a9f71794af93adafb053f4acb6e170bd30002e75b271e3ba93dee96b4"
+},
+"brocade_netiron_show_span": {
+"records": 1,
+"sha256": "104fa96fd4e07bf03420f101a617e4e070315781c5bfe1517efb8d6b3c22f553"
+},
+"brocade_netiron_show_topo": {
+"records": 6,
+"sha256": "46fe3fa07604e5196abe2169445464a46525b92968d6f40c6a01ec355fe7af67"
+},
+"checkpoint_gaia_fw_stat": {
+"records": 1,
+"sha256": "1268964771aaacf1c9cde934e182cbca6b483d144eab137a9734524317e4e18b"
+},
+"checkpoint_gaia_show_arp_dynamic_all": {
+"records": 6,
+"sha256": "e84126b88436dc3a39b66e54b154db68788c9a608a50fa816b95f25dd58b3479"
+},
+"checkpoint_gaia_show_asset_all": {
+"records": 2,
+"sha256": "3e340558557e24df0b88502ecfdfa74295365ab10213928244cc872a06690621"
+},
+"checkpoint_gaia_show_dns": {
+"records": 1,
+"sha256": "bc481dfc608326b0d7d11103fa8003212b7b45d86f5b0a873399e685e362c7d7"
+},
+"checkpoint_gaia_show_domainname": {
+"records": 1,
+"sha256": "aa01c4ecb6573bf7e3a2e5be58bc55ff9a4511fcd9c5e277348cc96decf19a47"
+},
+"checkpoint_gaia_show_interfaces_all": {
+"records": 3,
+"sha256": "a1c990f69b514e67d615fc914c38df10cb9f3664da36b28b647b9de6367639d4"
+},
+"checkpoint_gaia_show_ipv6_route": {
+"records": 3,
+"sha256": "6b67030ed774dfd8e3750b239158c1b26ab631953b68b6995924c911020a8580"
+},
+"checkpoint_gaia_show_lom": {
+"records": 1,
+"sha256": "b0b47818daa21e9d0c985581d18141dfcb7d600e8968044ce83f5bfef45eb940"
+},
+"checkpoint_gaia_show_ntp_servers": {
+"records": 2,
+"sha256": "728be166d055c12ca82879619daad945da2c495a8041b314e8a9bf358fdb0b47"
+},
+"checkpoint_gaia_show_route": {
+"records": 3,
+"sha256": "27d6fc6b5dc820da0e6c719de5ce8d3d668ce387f98f5a7bafbb14db3b373d4a"
+},
+"checkpoint_gaia_show_version_all": {
+"records": 1,
+"sha256": "4c932904745092b0b5c8a40a1dfd2ed83bd9e01a9f10234f2b40cb7315d9bc91"
+},
+"checkpoint_gaia_show_virtual-system_all": {
+"records": 3,
+"sha256": "94e3d2a96b4c5bd0d94311aa96b14154fdb45c1f0c890cba2fab5beff46a4090"
+},
+"ciena_saos_chassis_show_temperature": {
+"records": 1,
+"sha256": "87694c273f20becfae8b49a3bca1d7b00231f77c8deaf481af9f609750b516ec"
+},
+"ciena_saos_port_show": {
+"records": 27,
+"sha256": "85c9dd8140e5b19fca4d269e4518916ef337ab543bd1c169e0f376cbf915a8b5"
+},
+"ciena_saos_rstp_show": {
+"records": 27,
+"sha256": "4d86816078ef46a9156b21035b1f31524576d9fdd19d87f4d67e7fa3e6f80fd0"
+},
+"ciena_saos_software_show": {
+"records": 1,
+"sha256": "641ca1467e0ff11ae3743e5b08c6d58f25139f7c3644a5f8b7262b78b70a586e"
+},
+"ciena_saos_ssh_server_show_key": {
+"records": 2,
+"sha256": "bf94ae892edef7a73394cd2d4ed18be63502f9a39a0c7e3963ca8b4773506d2d"
+},
+"ciena_saos_traffic-profiling_standard-profile_show": {
+"records": 3,
+"sha256": "a58fd9d7e2bcf0d10b2beec556a701db3372ce5af18aa67daeb091485fabb190"
+},
+"ciena_saos_vlan_show": {
+"records": 5,
+"sha256": "9c89e710831d57b14c5e214b954294757bce27a74e7c6b6c3abfa42a9d239329"
+},
+"cisco_apic_fabric_show_vlan_extended": {
+"records": 4,
+"sha256": "ac9e97a49fd742eef3b63a49a22c0d381c45e391992b26641c1bb459d8a33bb5"
+},
+"cisco_asa_dir": {
+"records": 10,
+"sha256": "915e9539d0e95b571854881b4fad25531945139c45f9299096b19f1e2677849f"
+},
+"cisco_asa_ping": {
+"records": 1,
+"sha256": "d09a3849e2320b6f4ec635ef023b81f7ac44f16bc2bb06adc9e0d2332757548f"
+},
+"cisco_asa_show_access-list": {
+"records": 69,
+"sha256": "a1283799f6505f1d7f4c846489daa5decad67a0f0c98d0b9e3c1e40c7344a403"
+},
+"cisco_asa_show_access-list_brief": {
+"records": 3,
+"sha256": "ff2fe2dae1240d10d70f0ac8807327f190b83a3dd8de264518855e7a587e971f"
+},
+"cisco_asa_show_arp": {
+"records": 5,
+"sha256": "3bfc701f160726c668069b14fb458f3c1d8efc28b2f44bda9f8a64cd6b99e1e0"
+},
+"cisco_asa_show_asp_drop": {
+"records": 1,
+"sha256": "62b3481d3c09fd24b6bb2ca0aa205868954a2596ecee3159d83710c992faeb05"
+},
+"cisco_asa_show_asp_table_vpn-context_detail": {
+"records": 5,
+"sha256": "e63a4e582f3d92edb8a183d6dab2bcae91254704d6e563f3d63846dc2a0fbca9"
+},
+"cisco_asa_show_cpu_usage_detailed": {
+"records": 22,
+"sha256": "d0c132c861334f684a17dd1137cb34a9f721dae180d42fae3c654f0ab9a5c366"
+},
+"cisco_asa_show_crypto_ikev1_sa_detail": {
+"records": 4,
+"sha256": "eb99f232f26ac8dd3797d040b4fd4ac2bd2006889e4cfcdbe4c77577db26b4c7"
+},
+"cisco_asa_show_crypto_ipsec_sa": {
+"records": 3,
+"sha256": "ba1f23ee49befc57fc602b681e5e3ffed1bb7666f42af36314856bec71e8888c"
+},
+"cisco_asa_show_failover": {
+"records": 1,
+"sha256": "81a348865262bbbc7eb2c68a660ddc27963f457e2f568a87e63226a1c3b3d110"
+},
+"cisco_asa_show_interface": {
+"records": 6,
+"sha256": "5574a75723ed78e443d9eba15e7d6e34e78899cc4dc6770d2f7941e51de95c89"
+},
+"cisco_asa_show_interface_detail": {
+"records": 24,
+"sha256": "6223873aaa131c6895b702aeb7dc5fe9428f370658be618b563203acfd92b20c"
+},
+"cisco_asa_show_interface_ip_brief": {
+"records": 18,
+"sha256": "92922eecc113ed626fc4d66934f97f13733aa8d68c6c101625ae4232a184ab8f"
+},
+"cisco_asa_show_inventory": {
+"records": 2,
+"sha256": "950eb230822168db3450fe1d94c2612264e0864e8a81d35f262a8d8a14e4dbcf"
+},
+"cisco_asa_show_license_all": {
+"records": 1,
+"sha256": "6fb174b415cee721e95c7d1a6339dba4110225f157b2a2a1cbcff2b4d35b6a0d"
+},
+"cisco_asa_show_logging": {
+"records": 4,
+"sha256": "08d419d36f2c901e12fffb2c05c84c7b62355c9b2acb0785016cdcca20af5559"
+},
+"cisco_asa_show_module": {
+"records": 2,
+"sha256": "7b3676fe9f32874e27151940b80fa802ab9f6dde01a3b581f537a8d6a70e7b19"
+},
+"cisco_asa_show_name": {
+"records": 12,
+"sha256": "542d3f3bc7de9826a337cd3795b8a6866e47ed03d7df89309acde7ed194bf4a3"
+},
+"cisco_asa_show_nat": {
+"records": 58,
+"sha256": "540f0c0ab548982c53df807797ee1d1bd0a3b972ef29a261b779768796a53aad"
+},
+"cisco_asa_show_object-group_network": {
+"records": 14,
+"sha256": "9d2b23f41cc9bb954f1d6888890c85762a7640e1f4d000837ddb6a063e5ec78a"
+},
+"cisco_asa_show_ospf_interface_brief": {
+"records": 4,
+"sha256": "e8af4c9b029f133ec0772220e583dcdf07a6e54f2f5db9a0146c76a9fc118e0c"
+},
+"cisco_asa_show_ospf_neighbor": {
+"records": 4,
+"sha256": "5bcd6176633b2f22145f3859ece1bd28687863def8c2d809ac796b2282a41e27"
+},
+"cisco_asa_show_port-channel_summary": {
+"records": 2,
+"sha256": "079906a75a64dcdecb33247cb162589a58eb38cd2c8d1ea03664f0fb6ceb97d0"
+},
+"cisco_asa_show_resource_usage": {
+"records": 20,
+"sha256": "a36b95766bcf7a5040b61d451d874d469479a15ae24d3e7831fd57af9f979686"
+},
+"cisco_asa_show_route": {
+"records": 31,
+"sha256": "4b9e776f298c5337f650f9915a731b2a2850b521f38fa97cf6b697267e28e30c"
+},
+"cisco_asa_show_running-config_all_crypto_map": {
+"records": 11,
+"sha256": "684ec6c57b3f9f7d13b81bd7493b24b2a3182b66de570376b8c7946c88389380"
+},
+"cisco_asa_show_running-config_crypto_map": {
+"records": 6,
+"sha256": "13eac58b5626f6534cb99a3ee2b09e9f25dc0d6eb48821b60c06876a8d8db49a"
+},
+"cisco_asa_show_running-config_ipsec": {
+"records": 14,
+"sha256": "32d7eb59f701844b2d295c28724c05bfbd2dc436db61583f0538f2b32bf720f8"
+},
+"cisco_asa_show_running-config_object_network": {
+"records": 13,
+"sha256": "7dbd15935eb5a2aa2fb1dec623c22a33c0016780470edff9efb7853075e0c9ed"
+},
+"cisco_asa_show_running-config_tunnel-group": {
+"records": 3,
+"sha256": "a09a8355ae37833e75a407f8995dad2abdd3e9a60a8fcb8319c962df81e58d5b"
+},
+"cisco_asa_show_version": {
+"records": 1,
+"sha256": "7d9d39241b8c3061e4d1e607d991cd654e932c39efda5b46bdd411143f9216f8"
+},
+"cisco_asa_show_vpn-sessiondb": {
+"records": 1,
+"sha256": "9125b560e4d16ccf4898be11a4d8a61cb00dff40866f8544c7ea4ed77078cf4b"
+},
+"cisco_asa_show_vpn-sessiondb_anyconnect": {
+"records": 1,
+"sha256": "abe0af5505dc467a8ccac4f666056172bc1e463714c465c5ee3805d5ec4d4a80"
+},
+"cisco_asa_show_vpn-sessiondb_detail_l2l": {
+"records": 15,
+"sha256": "a173652064c1dd59c0ec78eac814ba69edc6256ee70c28e7f6e695dfe440f66b"
+},
+"cisco_asa_show_xlate": {
+"records": 6,
+"sha256": "a742aa9f1cd2a44cdc40809ced30778dcad06649df6e40cda5593ad13fea6994"
+},
+"cisco_ftd_show_vpn-sessiondb_anyconnect": {
+"records": 1,
+"sha256": "a7d2f36bd3ab822bc6bac39fa2a6478581ebb6254aeae987a6c6efc60bbaa274"
+},
+"cisco_ios_dir": {
+"records": 12,
+"sha256": "9f858fceaa3db25e8b62f70e59aa716583f8d5803acd909323d53f52df2f57b7"
+},
+"cisco_ios_ping": {
+"records": 1,
+"sha256": "b9fc839e11b6125f3ad5430bce1622a0ebffa6494596c4a760f1deb41038e2cd"
+},
+"cisco_ios_show_access-list": {
+"records": 19,
+"sha256": "da4f950c93be87cc71beff12b20a7ae003d7d3745d6ef33caa0cd1b4576be504"
+},
+"cisco_ios_show_access-session": {
+"records": 41,
+"sha256": "f5b9600f4b903270b563dcf4666743451a5bb262b84d5a88facbf9047969dd46"
+},
+"cisco_ios_show_alert_counters": {
+"records": 6,
+"sha256": "2ab28beca7bd519b94f99b7d0445dff882cb628dc6f6b6b1d67dd3020054d9df"
+},
+"cisco_ios_show_aliases": {
+"records": 11,
+"sha256": "ca71fe3226274640a4b527df7b2385eee50eee62722d637139f25f974e5d6b64"
+},
+"cisco_ios_show_ap_cdp_neighbors": {
+"records": 4,
+"sha256": "b933a176e18cb1f50bc88eef99f6f391f28bafee0c632c4c641fbc1f455fb7c2"
+},
+"cisco_ios_show_ap_summary": {
+"records": 6,
+"sha256": "97e55d056f3927e8f0c87330ca9ceaf73a54964ad72bbae79a985e8b6a55ca64"
+},
+"cisco_ios_show_archive": {
+"records": 1,
+"sha256": "7b2331eb5b89dcfc6b552936f5a777dc4dd8b8b3976580e7e5a5dc49c8f34be8"
+},
+"cisco_ios_show_arp": {
+"records": 5,
+"sha256": "7ccfe894f1bdae130be2034a39f20d92165279b34016f2892047cfbc81f69002"
+},
+"cisco_ios_show_authentication_sessions": {
+"records": 41,
+"sha256": "f5b9600f4b903270b563dcf4666743451a5bb262b84d5a88facbf9047969dd46"
+},
+"cisco_ios_show_bfd_neighbors_details": {
+"records": 6,
+"sha256": "1975d2f777e221d82b70dc5e80f723ff6783fcd21b1346864d73432db8c8a451"
+},
+"cisco_ios_show_boot": {
+"records": 1,
+"sha256": "e848cc3b64c90f2db0c1bd9bc8a964e444d02aa67257efdb056b9602de32df2e"
+},
+"cisco_ios_show_cdp_neighbors": {
+"records": 6,
+"sha256": "909f07b176122493145906c0edf2be7c16662b11b7b088e3c5fd346da5ef3a30"
+},
+"cisco_ios_show_cdp_neighbors_detail": {
+"records": 1,
+"sha256": "41f4c7dbbae1ca5546211b556dcd6f72e9d28a687d19ff1687b7a72e50e9ed3f"
+},
+"cisco_ios_show_clock": {
+"records": 1,
+"sha256": "753c3fca0fe65ea4928fb158248c635d09a31e12a1ada9523e6fc45f3968b23b"
+},
+"cisco_ios_show_crypto_ipsec_sa_detail": {
+"records": 4,
+"sha256": "a2659fa43487a9353211cab94dfd4fac14c64573cac9d98fa4311c93be64ed6f"
+},
+"cisco_ios_show_crypto_pki_certificates": {
+"records": 3,
+"sha256": "575d74dff2e1b8230957071649a02539fca5f5fbff6749b4c104334a5db460b9"
+},
+"cisco_ios_show_crypto_session_detail": {
+"records": 3,
+"sha256": "8e0c95d186184983bea12f875fc3dfc28de52562f2bd6f090f120e42a34cbe26"
+},
+"cisco_ios_show_dhcp_lease": {
+"records": 1,
+"sha256": "835467ac45b79d8486c8666c4f6ae21f94d9a284425423d58ed6e91632f84220"
+},
+"cisco_ios_show_dmvpn": {
+"records": 2,
+"sha256": "e0731ecf463085c108a9791a33b1fab7389e925c24af1c0db104cf7bc97268b7"
+},
+"cisco_ios_show_dot1x_all": {
+"records": 2,
+"sha256": "086e714859a34247c73cc111af879a361e7352f982184381d4a4de64cb43dc71"
+},
+"cisco_ios_show_environment_power_all": {
+"records": 6,
+"sha256": "df109cc987bc98bc2bd8b9b18792307813ab1c53693473ad193088316ae2ee3d"
+},
+"cisco_ios_show_environment_temperature": {
+"records": 2,
+"sha256": "988538710512d92b9c983b1ba7e11d53a9c62a4894b1a851109f34002b8936e3"
+},
+"cisco_ios_show_hosts_summary": {
+"records": 1,
+"sha256": "bd60ff1a81e2e4a1d7920f642549ca4bfe1a5d829c8f573f2084594d801d5e31"
+},
+"cisco_ios_show_interface_link": {
+"records": 43,
+"sha256": "f9086f632c7832eab261a8d9296c378dbe7fb390e36013aea7d6a1798f74fb5a"
+},
+"cisco_ios_show_interface_transceiver": {
+"records": 4,
+"sha256": "d55fce1af275644a386d53e119f0a350543b4c3e2683a5d3eeadf83348ce8a58"
+},
+"cisco_ios_show_interfaces": {
+"records": 56,
+"sha256": "64ce8890448021a9c6de9de152dd94f07005016674563f29f636b609ada1d6a4"
+},
+"cisco_ios_show_interfaces_description": {
+"records": 15,
+"sha256": "4ed2e69fdcac63ec342429e3a14a38d2b1633734558624b1f46b74cad3f0a5ec"
+},
+"cisco_ios_show_interfaces_status": {
+"records": 17,
+"sha256": "7f34cabca9055d198b7205cb43620525e4af247e9a4c22bb9a40f74a0b4c25eb"
+},
+"cisco_ios_show_interfaces_switchport": {
+"records": 2,
+"sha256": "ddd97eb66418ce7b5222cd758ceebc934e231eb6755a985de49a40a80e912e23"
+},
+"cisco_ios_show_inventory": {
+"records": 4,
+"sha256": "7166a32ee3f6d6ab3f2a5fa3c4d75dda82724233b983f5b97c490c15e6d95c8d"
+},
+"cisco_ios_show_ip_access-lists": {
+"records": 87,
+"sha256": "558941cc5060ad9531a5dfc1ecb0793d98ef60595f8c4f909d517ea748ebb204"
+},
+"cisco_ios_show_ip_arp": {
+"records": 7,
+"sha256": "daa469a7084a2a5a874c1493b1649717af2b089d9cb0931c4e390d437ff8916b"
+},
+"cisco_ios_show_ip_bgp": {
+"records": 8,
+"sha256": "eba089ad69711e5d5659d2f938e4940f55c2a0caf3d760b20690d4caf37f7e05"
+},
+"cisco_ios_show_ip_bgp_neighbors": {
+"records": 1,
+"sha256": "6d0996add62109b48a6a39b76586e99d5e6e87568950f8081029c1c322a26ff2"
+},
+"cisco_ios_show_ip_bgp_summary": {
+"records": 10,
+"sha256": "8d528b527a19fa188d596a1591afbab05871bcb87e5458ac824f01018e1ca44f"
+},
+"cisco_ios_show_ip_bgp_vpnv4_all_neighbors": {
+"records": 1,
+"sha256": "3afc85e43c8cbd4faa1989c693f50281a07cc0b9f799b78d682c820094dd33f5"
+},
+"cisco_ios_show_ip_device_tracking_all": {
+"records": 3,
+"sha256": "88c3df760b10eeee3f5b5f29ee90c4556003a6608703f4234071a1373fc4b390"
+},
+"cisco_ios_show_ip_dhcp_binding": {
+"records": 2,
+"sha256": "c168bdd3fac1afef4aa386766569fe76c56376f00188989f26b9f80291ec9a03"
+},
+"cisco_ios_show_ip_eigrp_interfaces_detail": {
+"records": 2,
+"sha256": "4a8976f1124e7ad732c124bb486f88ab4e46901db47385b7c702c1d13c439ace"
+},
+"cisco_ios_show_ip_eigrp_neighbors": {
+"records": 2,
+"sha256": "9359c69abe73d390322665c64f37429c3ddc90c5b07d86157cfc2e36cc0aca0b"
+},
+"cisco_ios_show_ip_eigrp_neighbors_detail": {
+"records": 2,
+"sha256": "cf433eb3fdf5969e346c6b5ac0250fcc960abbad7242f031643b509dda8bc762"
+},
+"cisco_ios_show_ip_eigrp_topology": {
+"records": 7,
+"sha256": "daf4e6a2b4f16f876d62c4835093848bd5d9540348fc095696f108ac8d96f6d1"
+},
+"cisco_ios_show_ip_flow_toptalkers": {
+"records": 2,
+"sha256": "c39eb6470cfbee6862250bb4b43d554788d2321af3b9f1529a911a2c6bb015b5"
+},
+"cisco_ios_show_ip_http_server_status": {
+"records": 1,
+"sha256": "cd67acf9fbba41d7e2eb1b7f57df5a2871c77cb1e75ca1d00fda1bb42bf27dfa"
+},
+"cisco_ios_show_ip_interface": {
+"records": 4,
+"sha256": "51df328521b7579801d678bd80f0be9e0c99d329fb6a55b81052817ad0071335"
+},
+"cisco_ios_show_ip_interface_brief": {
+"records": 6,
+"sha256": "ffabb5ae123e2767cea085dd0171d896aeeb95c77e25e24ae95d06ef366858b9"
+},
+"cisco_ios_show_ip_mroute": {
+"records": 1,
+"sha256": "9dfe466e499a22467dcd0999119b30f97e496d67a64a29359637d9e2e6f27257"
+},
+"cisco_ios_show_ip_ospf_database": {
+"records": 10,
+"sha256": "03f64aa1c0deae6afc5bc71efb496091515067bc876b2e0af0c2b5bfec1149d6"
+},
+"cisco_ios_show_ip_ospf_database_network": {
+"records": 6,
+"sha256": "75fbdff1ff5a3500b5e4256662630f312ca0e9ea501a3e719fe6cf57cee48868"
+},
+"cisco_ios_show_ip_ospf_database_router": {
+"records": 14,
+"sha256": "f398a1bb766c421531443d18c0d32b74b6d33a65e6fd539b7ac09e921a3dd4ca"
+},
+"cisco_ios_show_ip_ospf_interface_brief": {
+"records": 12,
+"sha256": "1fedfa732cbef8c0c51c1b69bebbffb64c8c11090c561d8d4238c89e7a2edabc"
+},
+"cisco_ios_show_ip_ospf_neighbor": {
+"records": 3,
+"sha256": "9b6dd12c8861eb0730c871a2cb149e4f705fe6f76ba1ec8e03a7c9508db3f7e2"
+},
+"cisco_ios_show_ip_ospf_neighbor_detail": {
+"records": 2,
+"sha256": "a3bd4dec9e59c716aad6e8fcda2c09fc95c8f85f5af793cc3b2f1b55bbf260b8"
+},
+"cisco_ios_show_ip_prefix-list": {
+"records": 3,
+"sha256": "90a01454aa0eb0e120cd89c6185d2cc06b7aeb2e4eaf21025937ceda22006e05"
+},
+"cisco_ios_show_ip_route": {
+"records": 2,
+"sha256": "29a365baa0c65b0c9db3c6496d14eac750a86536b4c6da9563a1435aa2d03fce"
+},
+"cisco_ios_show_ip_route_summary": {
+"records": 8,
+"sha256": "6c5b61f9477a3a96b463684a65be2c8541d61fb55b8e28067724355710f8257d"
+},
+"cisco_ios_show_ip_source_binding": {
+"records": 3,
+"sha256": "12d889f8ae2b354af99527c59f1f027c97aea016ab20578f3ff9f16a2f3de909"
+},
+"cisco_ios_show_ipv6_access-lists": {
+"records": 18,
+"sha256": "de3b2acf2d3b9e049529c15bf084baf2a4885e3db62d6cee8484b39837828293"
+},
+"cisco_ios_show_ipv6_interface_brief": {
+"records": 78,
+"sha256": "53b17a2af9dbf66056bfa9f75d4d480a88231b86bd5a1e50834ac2fe7b5660fb"
+},
+"cisco_ios_show_ipv6_neighbors": {
+"records": 10,
+"sha256": "07db3bfd80207fd18e282b32523a617a8b2746c096374774f937310cd4b64d14"
+},
+"cisco_ios_show_ipv6_route": {
+"records": 8,
+"sha256": "b4fe4f59985a1a32d47fcac014e62abfc3713c582b6f51610bc59bc5ae4ff896"
+},
+"cisco_ios_show_isdn_status": {
+"records": 3,
+"sha256": "33bbd8b2f024c069e361c1a97797b0762ad6aea81477808856ef4f717e8fc5ac"
+},
+"cisco_ios_show_isis_neighbors": {
+"records": 5,
+"sha256": "724c105cccb310ae391609dd2477cc7e13c67818f3ec9a594d94a2f05d92208b"
+},
+"cisco_ios_show_license": {
+"records": 10,
+"sha256": "962b96b6cd023e54c9c07d810cd5c259057a7ed456846733e541e610032b8218"
+},
+"cisco_ios_show_license_status": {
+"records": 1,
+"sha256": "82e953662d7e2a45b2f7752f8b7a1fd8bb6a70bf8b8632938d287f272ced63d3"
+},
+"cisco_ios_show_lldp_neighbors": {
+"records": 1,
+"sha256": "36a05a42fdfa5281853366692d1cbc62372328dc1b02125e0b30a835794ab806"
+},
+"cisco_ios_show_lldp_neighbors_detail": {
+"records": 3,
+"sha256": "e19e2369bf6dcb1bcb004de56d96d5fd317dc66d4376eb396d1ffa965271526c"
+},
+"cisco_ios_show_logging": {
+"records": 3,
+"sha256": "2b592c1b7bee1953c685a6218e9e19ba1311fe94b6331bdeab82277d8ab6e4fe"
+},
+"cisco_ios_show_mac-address-table": {
+"records": 17,
+"sha256": "f4bfd481667b61f06f9142a33676fd5b35c1703fc28aa18981bed9a7c5133221"
+},
+"cisco_ios_show_module": {
+"records": 2,
+"sha256": "80bc1542fbd544b22c71f7857b878f5b5d664535fae7c8ca32f3c564f37cfe89"
+},
+"cisco_ios_show_mpls_interfaces": {
+"records": 7,
+"sha256": "45e34b6615372adacdd76684daa0ccb66212d6be224b45cdfe86d6e9d43ea3b0"
+},
+"cisco_ios_show_mpls_l2transport_vc": {
+"records": 3,
+"sha256": "55bb4d061c9f241b2e42560070a36b7077ebfa6485ce0f60eb9315562c4a1beb"
+},
+"cisco_ios_show_nve_peers": {
+"records": 6,
+"sha256": "e34baec88ce9c93bfa0b5ea72313cea41b5b4466ce452b865ca0eb72627808d1"
+},
+"cisco_ios_show_nve_vni": {
+"records": 4,
+"sha256": "62e7d6effb5fbb2843c62c6c44de8c4bc713502d33b3802da96815fb470e2289"
+},
+"cisco_ios_show_object-group": {
+"records": 31,
+"sha256": "5b18bc5d0898cf675a42062c2b5e9e1f5ee309e1ea91bef0387b8b20ae989e81"
+},
+"cisco_ios_show_platform_diag": {
+"records": 2,
+"sha256": "4b9c18f57b04de1c33afb076a0f693e11da765cbcb3f727ada8b7f3d0c48d3f8"
+},
+"cisco_ios_show_policy-map": {
+"records": 10,
+"sha256": "7f8c4cbf6c7fa1c8ea014b88519d8191385aaa4162036515469dd87184f55035"
+},
+"cisco_ios_show_port-security_interface_interface": {
+"records": 1,
+"sha256": "f99b403c295b8f0754ce227a4b276744e29a1cbbf7f381f0731d233101902c8b"
+},
+"cisco_ios_show_power_available": {
+"records": 1,
+"sha256": "ca2694e4c679c1f8553fba595095215287912d57c326f2eeb8b7bdea98c7a513"
+},
+"cisco_ios_show_power_inline": {
+"records": 7,
+"sha256": "db727ca5df9f430d348dad10883a2baac449cc8f9d41d1e01ef8d91151bc501a"
+},
+"cisco_ios_show_power_status": {
+"records": 6,
+"sha256": "783aefa3ee4660d7f5f02ffe70e512f91b6c3e8d5ff8faa290553564db6641df"
+},
+"cisco_ios_show_power_supplies": {
+"records": 1,
+"sha256": "4eb134449307c8f2656470607d8ae86297fccd6ac09bb4878d093cd654a4b75f"
+},
+"cisco_ios_show_processes_cpu": {
+"records": 1,
+"sha256": "2144bad0daf51e0c67587a99ec5e38507871c2243662d36d151ba6c905619389"
+},
+"cisco_ios_show_processes_memory_sorted": {
+"records": 1,
+"sha256": "5f9ef6c58a88bf5e3c9272e7ebbd26bfe7eae160b4787dd03bd3248d39a67fae"
+},
+"cisco_ios_show_redundancy": {
+"records": 1,
+"sha256": "b1ee54892d4fa0d5e4a622b7ffbaa7870374a37ab50731ad361f6cc37be61526"
+},
+"cisco_ios_show_rep_topology": {
+"records": 2,
+"sha256": "7b1fa3de699d31d8b4467e878bb7cce63c34191db9cdacac0909e4debc641633"
+},
+"cisco_ios_show_route-map": {
+"records": 2,
+"sha256": "6ce47470571f19ea9be48f94afccd7b1dc6b1b96420fab18ab043b833d3c192d"
+},
+"cisco_ios_show_running-config_partition_access-list": {
+"records": 87,
+"sha256": "3bfef520ea506045404e8c7f1d8800c149034a62a0c6c1f13b5bf02c6aff5d43"
+},
+"cisco_ios_show_running-config_partition_route-map": {
+"records": 5,
+"sha256": "65a6336615748677cc778389510a16afb8fb652a774225ff5798cd9d1386d702"
+},
+"cisco_ios_show_snmp_community": {
+"records": 3,
+"sha256": "7c0dc303d1893027756a95599fc82e4e24e782502bfe779ffe805c18bd7db555"
+},
+"cisco_ios_show_snmp_group": {
+"records": 7,
+"sha256": "bc06f62577455c206e416e3e133986888392a7490aa8f720cf3c1a7ca37be1c3"
+},
+"cisco_ios_show_snmp_user": {
+"records": 3,
+"sha256": "f2bd50b63340d3c19b9cec1c8527918dee4d8ffcfcb1eddc9c59df23d08be12d"
+},
+"cisco_ios_show_standby": {
+"records": 4,
+"sha256": "1a603343f5e3ba7cbdb706b2887008085f1d754dd74b4de5e3b04fa91a8af45f"
+},
+"cisco_ios_show_standby_brief": {
+"records": 7,
+"sha256": "97c3f9a6cfd9f75ee598dde0dde50429a847b6f9c6c168cf777006cf63861672"
+},
+"cisco_ios_show_switch_detail": {
+"records": 4,
+"sha256": "5f3d72e3b617ed4aaea493b87f9bb6ae7b4b8f2a6c7e6b7ee46bbe51a9a47a61"
+},
+"cisco_ios_show_tacacs": {
+"records": 2,
+"sha256": "05c15a059e221b5c9d2c8df435e88cf78d068078d6c3b774cd1998d35939fd81"
+},
+"cisco_ios_show_users": {
+"records": 1,
+"sha256": "9f294a51c7b02d765960e6840d559f83db7d12217da12c3a3df589944d5797c3"
+},
+"cisco_ios_show_version": {
+"records": 1,
+"sha256": "3311612fe296c1fc9f6ae7517388dbcf22efe539a50926a08f66feb2effa91f4"
+},
+"cisco_ios_show_vlan": {
+"records": 8,
+"sha256": "7488dc67c0f94b426be39bee5724bfa870647198f47fc36630685b927e6a93fc"
+},
+"cisco_ios_show_vlans": {
+"records": 2,
+"sha256": "74ef0673b0a57b1f0203a2b6556b3e589ef6b85bc9dce7fa3924e969b74380ad"
+},
+"cisco_ios_show_vrf": {
+"records": 2,
+"sha256": "9995000778bf1f12eb81b96dde1100aea634b30b8df02c9927585e2a3cd5b812"
+},
+"cisco_ios_show_vrf_detail": {
+"records": 3,
+"sha256": "bf0b16ef53c31139e58f8d4c70830e3325be332d8a04a436fe56cf9fe9b25c69"
+},
+"cisco_ios_show_vrrp_all": {
+"records": 5,
+"sha256": "92568b6eeb5639b38779efaf8320f73d4ebca428ebc198ea62b9b57e8ec82de9"
+},
+"cisco_ios_show_vrrp_brief": {
+"records": 5,
+"sha256": "9c810726bea3bb394908d543aff536331bd2b816fa77429f79b5df37c0e104b2"
+},
+"cisco_ios_show_vtp_status": {
+"records": 1,
+"sha256": "f482f60b6aa4ed73f2431fc2fc644a26b856aac08701530dce78601398fc4984"
+},
+"cisco_ios_traceroute": {
+"records": 49,
+"sha256": "28a2fcbc44afc270e6bead889adcae1a4970cff83728e232c591e97cbb209db2"
+},
+"cisco_nvfis_show_bridge-settings": {
+"records": 2,
+"sha256": "d310d2289fc1217ef8d16ee14bc1d879fa7b4634dc8a76929e3a079fe6d99952"
+},
+"cisco_nvfis_show_configuration_commit_changes": {
+"records": 1,
+"sha256": "97d7cbdf050d337ab1965ed196871ba2448bd1ec1cc1e7e4dcc857ae7b580b8f"
+},
+"cisco_nvfis_show_nic": {
+"records": 2,
+"sha256": "ecc0ce5392c59fd0043e58babcfade3f0c8a032ce5d294aca0da6569ea92e334"
+},
+"cisco_nvfis_show_running-config_snmp_enable": {
+"records": 2,
+"sha256": "7482e352dac42112f2cf86cbda766e1fd29a2eeb9de3c37de9e16dcc78674a40"
+},
+"cisco_nvfis_show_running-config_snmp_group": {
+"records": 2,
+"sha256": "257c288f8315ccf295e2b6122b7cfdd636fb2ae44d9d745642877ed7c0bd56e3"
+},
+"cisco_nvfis_show_running-config_snmp_host": {
+"records": 1,
+"sha256": "0dff0a74b557dea42798baf552e1292f176ab816e805cafd2ef1ad68bced009d"
+},
+"cisco_nvfis_show_running-config_snmp_user": {
+"records": 2,
+"sha256": "5feccebc58d51ce184a5cb08c33dbfec662aef13c527ddeaeb069124fcc78978"
+},
+"cisco_nvfis_show_running-config_system_settings": {
+"records": 1,
+"sha256": "2051fe7d4d04803b9bafedebc56e3e532828e2e2248c457476807ae7b99f193e"
+},
+"cisco_nvfis_show_running-config_system_time": {
+"records": 1,
+"sha256": "255296970cbe6bbdcae528d6356b27b89cb34b1defc91367559fd00fa36fbcc8"
+},
+"cisco_nvfis_show_running-config_system_upgrade": {
+"records": 1,
+"sha256": "2b9694eaca7cd6ec7e6c0b94d1a6f2fa3b517b2969f183708880f46acb897951"
+},
+"cisco_nvfis_show_version": {
+"records": 1,
+"sha256": "b4e746699684ef9c36a8e2a55e0326907970da0928f91f7e25dd34bc12cb5538"
+},
+"cisco_nxos_dir": {
+"records": 17,
+"sha256": "86c7cca2ca5fab5112727b2136ea4a770b5e00fc0a25a9a30c61ee298801f791"
+},
+"cisco_nxos_show_access-lists": {
+"records": 29,
+"sha256": "1479f10391fcd5f6bec2b9a08b09949e78ac72732dff6eef9c7950eeac6bb04a"
+},
+"cisco_nxos_show_bfd_neighbors": {
+"records": 3,
+"sha256": "e11a19d234f92bd170ca3b338be8cf6dff018d1bb538ed8300e8d517ffe73b72"
+},
+"cisco_nxos_show_bgp_vrf_all_ipv4_unicast_neighbors_routes": {
+"records": 11,
+"sha256": "343382ce5ec8ba236d21da3e572ddc08378b1527e61b39982b48db942ac1d3d0"
+},
+"cisco_nxos_show_cdp_neighbors": {
+"records": 6,
+"sha256": "c77d2912e84b8ddfa88f063e9836196acd28e1610faff1bd112ac9cdea154165"
+},
+"cisco_nxos_show_cdp_neighbors_detail": {
+"records": 5,
+"sha256": "a2386555475a207190115ae65132e534e03c1657a571380f33bca02c5bf6dac4"
+},
+"cisco_nxos_show_clock": {
+"records": 1,
+"sha256": "753c3fca0fe65ea4928fb158248c635d09a31e12a1ada9523e6fc45f3968b23b"
+},
+"cisco_nxos_show_configuration_session_summary": {
+"records": 2,
+"sha256": "5a9efd6828268664c7e0a13b92de8cccf63bc0448a95fe31435a5b0d8be29880"
+},
+"cisco_nxos_show_cts_interface_all": {
+"records": 2,
+"sha256": "579ecf12488153d67993957c63767f123e710b16ae6b535211e32bc4a49432a7"
+},
+"cisco_nxos_show_cts_interface_brief": {
+"records": 1,
+"sha256": "0f11728be643e8b70e6927d101d01ec217bd708e563839f0ead65b1837be269d"
+},
+"cisco_nxos_show_environment": {
+"records": 12,
+"sha256": "eb540e210bb88d7bb4890cd7e5b8c6447ddbdfa868aa64ebf6a4aa5e05e1aa63"
+},
+"cisco_nxos_show_environment_temperature": {
+"records": 4,
+"sha256": "251c36f7c6c04b5148db340774f347a5687a9d4478d63c576c29fda076531808"
+},
+"cisco_nxos_show_feature": {
+"records": 62,
+"sha256": "7ebfdb8dce727ea61bb0b89492292c73704355c27ed0428e9f2577e3f89bdf66"
+},
+"cisco_nxos_show_fex": {
+"records": 9,
+"sha256": "5de82872e28a068f56030ac3a8e0dc8baa31680f1bcf66daab241a5c072a1d3d"
+},
+"cisco_nxos_show_fex_id": {
+"records": 1,
+"sha256": "136242099c24e582b5a38c9905648e643579545641ac09924b34c2fee302a67c"
+},
+"cisco_nxos_show_flogi_database": {
+"records": 21,
+"sha256": "32a00a69cc4248a6cb1a611dc28698cf0b646964c9b91c946f28ed8cb99a1a2c"
+},
+"cisco_nxos_show_forwarding_adjacency": {
+"records": 9,
+"sha256": "ffd6b3767966ed7fe4735f94c7ef6395142f8c1bceac53187d2f000c0e744dd3"
+},
+"cisco_nxos_show_forwarding_ipv4_route": {
+"records": 240,
+"sha256": "28d53f5555c8965e95a14b9a4e39cc6b8a6a72bc1842c5eddde3f3e495e9090d"
+},
+"cisco_nxos_show_hardware_internal_bigsur_all-ports_detail": {
+"records": 4,
+"sha256": "109c1f82bad21064a9120099dd7fde2fc139de3d43cff274ec1524efd5493a30"
+},
+"cisco_nxos_show_hsrp_all": {
+"records": 13,
+"sha256": "e7ec010459ce0b2647426e010d8d92000dfb7dbc6264f75718dc1680514a8163"
+},
+"cisco_nxos_show_interface": {
+"records": 3,
+"sha256": "3d8a71b0da1f0711447e9922e72d8b538608133a53819b778875ec25e01b6fa9"
+},
+"cisco_nxos_show_interface_brief": {
+"records": 111,
+"sha256": "5120571dd163aaa6b2780e20d9a93a6382e617dcaf49ac1609d187ecb308bc48"
+},
+"cisco_nxos_show_interface_description": {
+"records": 111,
+"sha256": "6beec78b8e513af498c2bea786f7b25f69631abaa44f121cb820989163afcffc"
+},
+"cisco_nxos_show_interface_snmp-ifindex": {
+"records": 23,
+"sha256": "2bc47ded99354174451fa1d21da64add589a0503a1b3e92f900ce5436fb60b9c"
+},
+"cisco_nxos_show_interface_status": {
+"records": 7,
+"sha256": "a75147ded6cf691c2b4d57e60af50b2d5fa76febdc46dcc867e6cb42c8df2d36"
+},
+"cisco_nxos_show_interface_transceiver": {
+"records": 60,
+"sha256": "065a724665afae1aada8c9fb9e8d6ccc20e88c37896464e7e4f2f1e40a65c14c"
+},
+"cisco_nxos_show_interface_transceiver_details": {
+"records": 6,
+"sha256": "cf77218ff2eb0b0da84352478e7f962d54078ae2b4aa1cd11a456aecbcff0734"
+},
+"cisco_nxos_show_interfaces_switchport": {
+"records": 3,
+"sha256": "eb9552b5788094760d0c333cdb30525af885c3c1dd87b1913c43d222d72b6679"
+},
+"cisco_nxos_show_inventory": {
+"records": 14,
+"sha256": "27d4558817c3108de4f5b5cfe38691ec765c4df7057c3857e08ba1343a2bedae"
+},
+"cisco_nxos_show_ip_arp": {
+"records": 23,
+"sha256": "cad2e6027423a79c4143261129eca9f29086c8fd42f645ca9815b3c6f5bd8810"
+},
+"cisco_nxos_show_ip_arp_detail": {
+"records": 841,
+"sha256": "4d546fe87d8ee37698c6c1dc1c1b58c8bc8e7e8fd9221264cfb4c9826aed2360"
+},
+"cisco_nxos_show_ip_arp_detail_vrf_all": {
+"records": 40,
+"sha256": "8ed0108ec1c8553003d0bcc9bb8e68e09e9ee0321f65273b8635e62e7def895b"
+},
+"cisco_nxos_show_ip_bgp": {
+"records": 41,
+"sha256": "0fbe5fa2f1e106d3b06e335f235c555360d222719b03c119db29c9d4ce5fa70e"
+},
+"cisco_nxos_show_ip_bgp_neighbors": {
+"records": 59,
+"sha256": "38e48679f6607b12e87f11b29bf2abcb6f06f09376ba4893fbce883c7642b2fc"
+},
+"cisco_nxos_show_ip_bgp_summary": {
+"records": 13,
+"sha256": "5e956f93280ef16b8ed2bacc9d60c46a9c925a78fdcbd2a1c59713dfb72494a0"
+},
+"cisco_nxos_show_ip_bgp_summary_vrf": {
+"records": 14,
+"sha256": "022eead000f482acb2704905d0e35dbc8fcc95ed346b2ca3a855c863709e4c89"
+},
+"cisco_nxos_show_ip_community-list": {
+"records": 6,
+"sha256": "da11799609ae5232062391f20b43da400e990ffd8a03aff11d55b2de36a3429f"
+},
+"cisco_nxos_show_ip_dhcp_relay_address": {
+"records": 10,
+"sha256": "a9a8519016594d05e8e39d246044a4bff3aaed2e7d2ac98fe8448bcb1dc4db12"
+},
+"cisco_nxos_show_ip_dhcp_snooping_statistics": {
+"records": 1,
+"sha256": "a3395eb8334154963df460ec1251cdae7571866a5d37a6f769355b225a50d47c"
+},
+"cisco_nxos_show_ip_eigrp_neighbors": {
+"records": 8,
+"sha256": "398fb9b8305aa862d5adb900b7678b9b927c6d5739d75d64ca57892cc3e7a2ab"
+},
+"cisco_nxos_show_ip_interface": {
+"records": 2,
+"sha256": "71076b2ce37b3e3ddddc4db373507331308e5746525caa82ab407aa7e80b68e1"
+},
+"cisco_nxos_show_ip_interface_brief": {
+"records": 8,
+"sha256": "40dbab873c42cb8db489b8029760ec7d6d37f445f1d08c0468fc8ff9f74e4747"
+},
+"cisco_nxos_show_ip_interface_vrf_all": {
+"records": 1,
+"sha256": "22c19bff15ec5048ccd63867f608aa1c8a8d09319f85958c5af510fb443093e1"
+},
+"cisco_nxos_show_ip_ospf_database": {
+"records": 11,
+"sha256": "332708a52ea6f64fee9e2012a9276b113827892d89536e53ce41976536abca3c"
+},
+"cisco_nxos_show_ip_ospf_interface_brief": {
+"records": 6,
+"sha256": "1087c8def6dce63cb7dddf20505c684ce0b178abf139fc55fc669748c2098cf1"
+},
+"cisco_nxos_show_ip_ospf_neighbor": {
+"records": 3,
+"sha256": "5ce31470cfcb8e43df9d4781c26ffe959b04c15f40709a6bc28f4f7f4a996295"
+},
+"cisco_nxos_show_ip_pim_group-range_vrf_all": {
+"records": 2,
+"sha256": "26931e6c773bfdbeebcdafd394e308e1a42ac1fbeab4648420dd5b8ca696fdf9"
+},
+"cisco_nxos_show_ip_pim_interface_brief_vrf_all": {
+"records": 3,
+"sha256": "007d6a6cc9715b870bf223d2719d4c28cb8b919b45e03a3444862c3a5212a520"
+},
+"cisco_nxos_show_ip_pim_neighbor_vrf_all": {
+"records": 2,
+"sha256": "d144122ec6addbdc4b24aed60e288944993b7910ba7fc88549c1105e1eef6efb"
+},
+"cisco_nxos_show_ip_pim_rp_vrf_all": {
+"records": 2,
+"sha256": "936142b14d6a644cadddc6588ba1f20807ee3d6ee5ac17f42fad398eec712447"
+},
+"cisco_nxos_show_ip_route": {
+"records": 37,
+"sha256": "06c3461f54ec52fd83a9f57398723255ac880a4880af24b85d67e5c59585d89e"
+},
+"cisco_nxos_show_ipv6_interface_brief": {
+"records": 7,
+"sha256": "2b966dee6808cf13c1930ef24b17d155be66a4a61d0b09c996a4dc8d89984bf4"
+},
+"cisco_nxos_show_l2rib_internal_permanently-frozen-list": {
+"records": 25,
+"sha256": "7bd926c8d469b3c5f8bf064ccd73677ef8af75fdc13685287fb1938e1ed07e17"
+},
+"cisco_nxos_show_license_usage": {
+"records": 11,
+"sha256": "317cb2f81421f598a7cbe3714a1ab9f3e0c0f0c49e4de6fed4309fda9f10e190"
+},
+"cisco_nxos_show_lldp_neighbors": {
+"records": 3,
+"sha256": "f907c91ac489074c2d0b7dd6ca5ccc0b33c6f887b72bd4b9c69750fbc38ba749"
+},
+"cisco_nxos_show_lldp_neighbors_detail": {
+"records": 4,
+"sha256": "0b0ac444c3a67ec07acc0cae38dcdb9140db0d64517144fa94b798830bc2677d"
+},
+"cisco_nxos_show_mac_address-table": {
+"records": 3,
+"sha256": "f26150cef582ada629100ec3d2b194532b07453e8d966947bdce2da3b01fb6ef"
+},
+"cisco_nxos_show_module": {
+"records": 4,
+"sha256": "efd1bbcd36643b9d716df03fc59ce265b6b4dc19216964d89a80fe73e803aa50"
+},
+"cisco_nxos_show_nve_peers": {
+"records": 5,
+"sha256": "260b69572e7ab7f6bb8eeafc343156865a32f3fb8117e50ec66913b77601dadd"
+},
+"cisco_nxos_show_nve_vni": {
+"records": 8,
+"sha256": "5046f56e4135f3c374e2df6c4942bcf29c3ec48c53d09b567d052c89630d48db"
+},
+"cisco_nxos_show_nve_vni_interface_nve_1_detail": {
+"records": 17,
+"sha256": "18e4927b8fb26d9df11c32f8e52a215cec5f6e2434ca7f35bb6df51a2b49cb0e"
+},
+"cisco_nxos_show_port-channel_summary": {
+"records": 20,
+"sha256": "d1eca4dde9b4ff6717a8f8df0e364fb5cd2fa6095306b16ab70c6e1c6bfe92e9"
+},
+"cisco_nxos_show_processes_cpu": {
+"records": 1,
+"sha256": "7bda4c7a37bbb6ab384e1b1c09ddfd14ae745feeaec0211c776b021cabc5df48"
+},
+"cisco_nxos_show_route-map": {
+"records": 16,
+"sha256": "0c741dde115c51ad1e685422af1cc6544b32f5d1c03a8e30040daeb023bcc5bc"
+},
+"cisco_nxos_show_spanning-tree_root": {
+"records": 4,
+"sha256": "e2ebaf7994a247273ecf5be67dbc8ccf997b8e7b89db9450ffc867207fda4bfb"
+},
+"cisco_nxos_show_vdc": {
+"records": 3,
+"sha256": "65304737038f8d576874934760162b4e0e4e024d096ef525f85a02330e54b0b5"
+},
+"cisco_nxos_show_version": {
+"records": 1,
+"sha256": "36f7c8d4f1ee57c7c9c3173dbf07cf63a786f53266d992f340eea333cbe55dad"
+},
+"cisco_nxos_show_vlan": {
+"records": 6,
+"sha256": "6b1539d6bff7717ad60f495318ba511852e7113f3aac559378361ea0642674bf"
+},
+"cisco_nxos_show_vpc": {
+"records": 2,
+"sha256": "07a0b75255f1103df68059d3828095305fe63abf4d12f538867d64a618d57091"
+},
+"cisco_nxos_show_vrf": {
+"records": 8,
+"sha256": "57400c71b3a484c7495d51593426d81fbcdf7d326eaa9fb29c8f9d3b22014c11"
+},
+"cisco_nxos_show_vrf_detail": {
+"records": 3,
+"sha256": "f60071ce409d946f3b571ba3498fd658188c56c430c00ccf119f5c867192a09f"
+},
+"cisco_nxos_show_vrf_interface": {
+"records": 18,
+"sha256": "0066b9d4ded734d5b7c0bdc6d915e58ef0f3ed8796fe9ab553b46ce97044266d"
+},
+"cisco_s300_show_interfaces_description": {
+"records": 36,
+"sha256": "265f7dc3f928f939de332e1e6b94bca80ce580e9c8750a21115e7ae74c554cf4"
+},
+"cisco_s300_show_interfaces_status": {
+"records": 28,
+"sha256": "4d363373ce0c233c0df170f1b3c15ceadbdae844e5800337a9c7be508219e6a7"
+},
+"cisco_s300_show_interfaces_switchport": {
+"records": 1,
+"sha256": "1f6dc18ec1dad31aa291a9aa70b7ead03eb171ad39a83dd0a308701c521cfbe4"
+},
+"cisco_s300_show_ip_interface": {
+"records": 1,
+"sha256": "32ce5eb754560306b4e2361a79b98c5ab211c8779f757168d524b85810f9af81"
+},
+"cisco_s300_show_lldp_neighbors": {
+"records": 2,
+"sha256": "9b068b9a2fa7d606210dd94cd5bbf41895841ecedaa66fc8a423988a4f16778f"
+},
+"cisco_s300_show_mac_address-table": {
+"records": 13,
+"sha256": "460ba4f3af486a0315b7a7c3c0c7118c3868e1baa382731104fa3a5b07e973b0"
+},
+"cisco_s300_show_version": {
+"records": 1,
+"sha256": "bb10c54bc8b53d3001857038c45f4b8472b05d6ab63bb6e6ae47f9e810c2d50b"
+},
+"cisco_s300_show_vlan": {
+"records": 7,
+"sha256": "65230e762e79f7e0d759e26d7da589c4988e2899463511fc1c921d7e56d55077"
+},
+"cisco_viptela_show_arp": {
+"records": 7,
+"sha256": "926c0c2fe169bded5be1ed1eacdf3198230fae504dd48559b365717d417de717"
+},
+"cisco_viptela_show_interface": {
+"records": 6,
+"sha256": "b5630b4bb775e6431d2ff926836ad0a8082e248593b86712b9b3af25fa4063a4"
+},
+"cisco_wlc_ssh_show_advanced_802.11a_channel": {
+"records": 1,
+"sha256": "7614657a83c83dc6c856e213d9753f0b22c634d319c86540ec7e9955ed9296c2"
+},
+"cisco_wlc_ssh_show_ap_config_general": {
+"records": 1,
+"sha256": "276aa4d6f8407eb2de4698d656a0fcdd51bf82251e97490a7a75b589bf0b885c"
+},
+"cisco_wlc_ssh_show_ap_image_all": {
+"records": 2,
+"sha256": "d97eb2740bf0403010c22564862337c25be20ad9b70cb908e87d92ce05f7f9e3"
+},
+"cisco_wlc_ssh_show_ap_summary": {
+"records": 2,
+"sha256": "33a73816e21d735f7359d136604ced098fb12be73d6c85ec1a9119f4e20e3929"
+},
+"cisco_wlc_ssh_show_band-select": {
+"records": 1,
+"sha256": "6e0461ac4e87c0771b873291b33b9f4ab914d9cb5587d222e1e0b060ec0f87e5"
+},
+"cisco_wlc_ssh_show_boot": {
+"records": 2,
+"sha256": "5da6ef383604cf1fd257a90a42afe8858a8d76f356c25998748b2db415635727"
+},
+"cisco_wlc_ssh_show_cdp_neighbors_detail": {
+"records": 3,
+"sha256": "4523b0a28407405044da09a7a17daade7170c020ad293bbd5f24749e953b0abc"
+},
+"cisco_wlc_ssh_show_exclusionlist": {
+"records": 4,
+"sha256": "6e49702aa3938fd9b5d1869b83861dcf3a3855a741481bcdb50c67abbe84b373"
+},
+"cisco_wlc_ssh_show_flexconnect_group_summary": {
+"records": 4,
+"sha256": "f463c58ee1c2b1ebe32327cea0670ef494f53f45c0502cf67e2897165eb39fd0"
+},
+"cisco_wlc_ssh_show_interface_detailed_id": {
+"records": 1,
+"sha256": "010d41e7e2b7708a4a479e73e213747e3a6b2510c9f4459fc7caf7e91918f723"
+},
+"cisco_wlc_ssh_show_interface_group_summary": {
+"records": 3,
+"sha256": "502245951a6d776bf31a37f93f1fa2cf8ebaf90cbbaad7de14ecba6828f497a1"
+},
+"cisco_wlc_ssh_show_interface_summary": {
+"records": 3,
+"sha256": "23ed8a0f04bfb07a068b2562e6d40332da9bc6509f18c0e579ae482e400a9a7f"
+},
+"cisco_wlc_ssh_show_inventory": {
+"records": 1,
+"sha256": "fbffb94c042ebbfe614aff058367d52ad827680fbddd69950b06a790a452a6ec"
+},
+"cisco_wlc_ssh_show_mobility_anchor": {
+"records": 5,
+"sha256": "7eec6b40d8a3f385b43eb7fa9e507f5a198eb6ffa05bcdf39af685bccdd4307d"
+},
+"cisco_wlc_ssh_show_mobility_sum": {
+"records": 2,
+"sha256": "dd44fed4b8b1d696245a539112028aad16be3c96e0542fd601152a327c85bb61"
+},
+"cisco_wlc_ssh_show_port_summary": {
+"records": 7,
+"sha256": "24b6c424607f17ae8f4170c6c6f0811c821ecb97d2e42e2f087eab85e22b3d44"
+},
+"cisco_wlc_ssh_show_radius_summary": {
+"records": 4,
+"sha256": "a360fb7001068dbb7714caa1bc64a1c179fdedfc4e633050a6e6594d9d9c70a2"
+},
+"cisco_wlc_ssh_show_redundancy_detail": {
+"records": 1,
+"sha256": "655f9ffed3fa40f06ab0040e1ea8426f48ab3a2a4466ff38f53c01fb2675a771"
+},
+"cisco_wlc_ssh_show_redundancy_summary": {
+"records": 1,
+"sha256": "fe434080c534999536c1f5a101b04dfae64a91c109f07fbb16e4a5dd9241bf28"
+},
+"cisco_wlc_ssh_show_rf-profile_summary": {
+"records": 3,
+"sha256": "dee0d45d0741fcfa50eaabc14ba39eb57044fbcca7bbe2c2c6d706b9f0857c78"
+},
+"cisco_wlc_ssh_show_stats_port_summary": {
+"records": 5,
+"sha256": "e5e46962bf0e4b0a2caa69695588134dda66029dc8a21de9ea81a3772278ced3"
+},
+"cisco_wlc_ssh_show_sysinfo": {
+"records": 1,
+"sha256": "4f28f7e98ed1f58ce880a0b2f03f3e07fa6049a2bce598617ac0fce6a6bb3a60"
+},
+"cisco_wlc_ssh_show_tacacs_summary": {
+"records": 9,
+"sha256": "81f35e8ef6504f19957ee75af5866b1115fed07b17f766a8fc5ae7930708d459"
+},
+"cisco_wlc_ssh_show_time": {
+"records": 2,
+"sha256": "21639aac770cd542de69a6a8a781f175fda9bf1ac971a64a4c9501350c3e8e26"
+},
+"cisco_wlc_ssh_show_wlan_sum": {
+"records": 3,
+"sha256": "98c6069baf780f9b1e86280e123f8ec58b1d22ca3ce2f0fd274204e48a2a9198"
+},
+"clock": {
+"records": 1,
+"sha256": "197977aed3cf7a6ac346c54be6d1a2edf58b9b6a1693efc9eb22fd1b7c0b2d60"
+},
+"clock show": {
+"records": 1,
+"sha256": "8c1b8004565b13cd5eb1e03165960faa8ea73894392c6064c039b6af5cab87c8"
+},
+"crypto pki certificates": {
+"records": 2,
+"sha256": "efb39d1193a624d2ac64f8b77b79370d7197761839eb26be51735e43fe4374fa"
+},
+"dell_force10_show_arp": {
+"records": 5,
+"sha256": "a9d458eb0cf25de9cd10b236eaf02fdb512e2b30f7f80daf222795435265df0a"
+},
+"dell_force10_show_ip_interface_brief": {
+"records": 54,
+"sha256": "d80d43c9e5172288034aa80b1c4ca745e1194a8202e2d7cc51674d9108858e1f"
+},
+"dell_force10_show_version": {
+"records": 1,
+"sha256": "763c5156efa19f636230a0441f2d159309052c7a33ce900889ae300f377ac87c"
+},
+"dell_force10_show_vlan": {
+"records": 9,
+"sha256": "8f3646968da28a1dbfdda1460e6e0b2ce3dbcad7824503a607e1dfb98481e00c"
+},
+"dell_force10_show_vlan_brief": {
+"records": 6,
+"sha256": "4d4b7cf54f1e0f5a730812be3202fa0687c403c9aa1b8935a6c5aaf62a82521a"
+},
+"dell_powerconnect_show_bridge_address_table": {
+"records": 26,
+"sha256": "5287277e2071349c53612c78df04770b72a5f063da574b49c8fe22b32bbde495"
+},
+"dell_powerconnect_show_interfaces_description": {
+"records": 48,
+"sha256": "a24c02003b195d00fad35ab87600ffa2faa6d7a0c67f57eb767cda2d27cdea11"
+},
+"dell_powerconnect_show_interfaces_status": {
+"records": 48,
+"sha256": "82e8882ed3d893e48c80aeb5813057b557eac306aeb1391789673556be35255f"
+},
+"df": {
+"records": 7,
+"sha256": "274492915b8d670a386db5a562ecdb91fa89ff9a37a346931bd981367d178aef"
+},
+"df -h": {
+"records": 4,
+"sha256": "4ce54da6993db95078de17e3cde651693c50815dc747f1a3f857b43b05190007"
+},
+"dir": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"dir /all": {
+"records": 5,
+"sha256": "fb67e59369e9c6264bd6fe66059e511fd4a1aac996b5aa2af7244308b5b06bc9"
+},
+"dir flash:": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"display ap all": {
+"records": 5,
+"sha256": "1b6bf9360b85387aabe25a4c4a116d640a9e10ab9e53243206d45db8fd637a8f"
+},
+"display dns resolved": {
+"records": 3,
+"sha256": "2803d745712e3ddebdfa82362aa228e0e49e862d8971115aab2d08fa60580c25"
+},
+"display interface brief": {
+"records": 6,
+"sha256": "8915349102775404496ff4e69061e0a5a469497cc530f82105463b47e82d7691"
+},
+"display ip interface brief": {
+"records": 5,
+"sha256": "283e3c2a8115d883745d431a253819c06177814aa79d8b454e2612864bc16d95"
+},
+"display ipv6 access-list": {
+"records": 4,
+"sha256": "06f6a01ff51d4f4d6f4e905431294e9d88fa7b2025bf4cf0ea408d0144359d6a"
+},
+"dlink_ds_show_arpentry": {
+"records": 4,
+"sha256": "ee40b3a1a9fa91e07ecc32f0ec2c980fc3fb3e6f30aba37661aa7ebdbaf377c6"
+},
+"dns host-example.com": {
+"records": 1,
+"sha256": "9409f7e8c0d72800bd50421e1c61a656aac7e53bc135367f81e29248d34df35e"
+},
+"dns lookup example.com": {
+"records": 2,
+"sha256": "a907d00dea198c79d1d12a70c216a50395469b4875e3706b7b508066bf6d30c4"
+},
+"dns query": {
+"records": 2,
+"sha256": "9359909f267078a8128bfce3da7645c9c2aad5fcca24abda6771f8f336137e4e"
+},
+"dns query domain example.com": {
+"records": 1,
+"sha256": "dd58f6fdaceda9a5f579d8918fcd58fde697487488b8b474d9290be33125bd18"
+},
+"dns query example.com": {
+"records": 5,
+"sha256": "d4b9f6d3dfd4b5de59381054f8b00722f1df12b34a25d2de75242371cdb30e9b"
+},
+"dns query google.com": {
+"records": 1,
+"sha256": "4b6887e0e09fafcbc76ee28a9c0638d1695c5f498f8282358fc32bbddc70b31b"
+},
+"dns query name server": {
+"records": 1,
+"sha256": "d28c6172caedcfebaaf31990da0fbce572d71c18c1cb46f1a042c286c60fdbb3"
+},
+"du": {
+"records": 4,
+"sha256": "6a0971d985434e9d0c797032b81c1ee0dcad650e859054618036dba5ae618644"
+},
+"du -ah --max-depth=": {
+"records": 11,
+"sha256": "5edd04eb7193c1e11af2f49e0cc9b84e1e37ab1bcf72faa377bb108f88af19b5"
+},
+"du -h": {
+"records": 3,
+"sha256": "bfb723ee184d1876ff3b727a76cf90aa844d2f8ccda1470a09371787cc4e2f26"
+},
+"du -h --max-depth=": {
+"records": 12,
+"sha256": "3755d2cd2b3ea6ae03e01553ed3e68cae96044604fe4161fd65ad805b128e821"
+},
+"du -h --max-depth=1 /": {
+"records": 18,
+"sha256": "c2d43e47419609ced08c9b6697d377c5b3cd53744ed68eed9bb02b796ab0a693"
+},
+"du -h /": {
+"records": 5,
+"sha256": "3a0acae43471efe6c9cb50b629ac19a66d4b9de6b24b47f506d88deb1bdc9289"
+},
+"du -h /home": {
+"records": 6,
+"sha256": "8b699eafa419e3a033467cc0d8f16f1e735ae2c04a8dfc73e592a84cd852e7a4"
+},
+"du -h /var/log": {
+"records": 5,
+"sha256": "faca2521cd233b4e198cc01fbb294c44b536d38f90f6f801363c811ff676a239"
+},
+"du -h | head -": {
+"records": 10,
+"sha256": "98e5b03e9b1ef0e56be7932a7726f66551b642140ca88549eb9b6c23135a627c"
+},
+"du -hs *": {
+"records": 5,
+"sha256": "72a5b17832fca1a6f46ffeb3ac6da0d77d05c82654ce6eb937fbc767989a1766"
+},
+"du -sh": {
+"records": 5,
+"sha256": "1d24d3556fc2928566438c3d1be91677e9eee0a13760bcc706c86fa98d4093f3"
+},
+"du -sh /*": {
+"records": 13,
+"sha256": "8ffdd8c86dd100b1e730050dd25520f3c0d3c9eca7bb919270cbd873d0856349"
+},
+"du -sh /var/log /home /tmp": {
+"records": 3,
+"sha256": "44dae07c56d8c0524a5c7322c5929549a0f34d1f22dc9145df5027ac7ab552be"
+},
+"du -sh /var/log/*": {
+"records": 8,
+"sha256": "ada1ad08716bb546f8c0202226dbabea79420a41e7f4491de02fe1c07d6ca1d0"
+},
+"du -shc /var/log/*": {
+"records": 11,
+"sha256": "0afd3862d1d5a88b28931c9c2338d6f89a85c3885653cf8620500fbc1e6e5e09"
+},
+"edgecore_show_interfaces_brief": {
+"records": 10,
+"sha256": "f0f88ee273b78ca4cf9239e92963dc654c1cd941397494e073efe88f9ee22fac"
+},
+"edgecore_show_interfaces_status": {
+"records": 13,
+"sha256": "43dd5ad95eaf8fcf11a87a591b5aeefbec2d60f044624d8a4327929f4cc8f63f"
+},
+"edgecore_show_interfaces_switchport": {
+"records": 10,
+"sha256": "8da3183c675871de911dfb9ccde2e41948f1b991ae63f02aaaf43c33e84f7781"
+},
+"edgecore_show_ip_interface": {
+"records": 1,
+"sha256": "1a72eb2329267bb0ef95c08fc2c598b9a897f6ad9582eb7b6a6fa4d3f9fd8605"
+},
+"edgecore_show_system": {
+"records": 1,
+"sha256": "e3dc61dd1dd4c5df78d4c0393396204174c089e97a75b9c5f2a04dd88e32cb95"
+},
+"edgecore_show_version": {
+"records": 1,
+"sha256": "06a0e71a0c1416940ef7d26af16fd79e3b78a60417621866608c0615215e099c"
+},
+"edgecore_show_vlan": {
+"records": 4,
+"sha256": "f14d3f1638cac36efc4b0522189fa10cc02dd0feaff997f3c8368e0387d0c337"
+},
+"ericsson_ipos_show_arp": {
+"records": 8,
+"sha256": "9a2c9a0c4afd9366475844462f773d2f1d712693334a2dd95fa3f9b603e6439a"
+},
+"ericsson_ipos_show_isis_adjacency": {
+"records": 4,
+"sha256": "c710ca0777970c2f86abd6e448ab1848d6c6ab01dfb4dc7ec9bd65155a2696a7"
+},
+"ericsson_ipos_show_version": {
+"records": 1,
+"sha256": "a92eed1489c3a76098da32169a8f99bd1ff8667a957f7fdae68f5f0cab938517"
+},
+"extreme_exos_show_ipconfig": {
+"records": 1,
+"sha256": "8f47a36f608a6dc29ea87aa777e7c8fae61b3437b1e8a659256d31949179e875"
+},
+"extreme_exos_show_ports_description": {
+"records": 48,
+"sha256": "b05d641d766a73defad3e651e76fc7a4f8fee164dc9a0148c694873e0a8efafc"
+},
+"extreme_exos_show_ports_information": {
+"records": 48,
+"sha256": "635ede4be79d4690a42479493cc122576be3e581d20e9d3023821e8cd3549766"
+},
+"extreme_exos_show_sharing": {
+"records": 4,
+"sha256": "3da440b8e80fc668b6c439447f3e388dbae7bc114a2b2318d37a9bb2ab749da3"
+},
+"extreme_exos_show_vlan_description": {
+"records": 40,
+"sha256": "f823b00565f9d7f1b7d8cdac0b8aa4e045b98693d5b56d01e679234082782e76"
+},
+"fortinet_diagnose_lldprx_port_neighbor_details_port-name": {
+"records": 1,
+"sha256": "3cc688f8a81b96fb6bfc553eff506c28c833d3f840a39070e49773407b3b8e4a"
+},
+"fortinet_diagnose_sys_top": {
+"records": 4,
+"sha256": "c1c3bb23835b0353655978f892db7a3df8bed9f537f1c04c203cffb42ff3b29f"
+},
+"fortinet_execute_date": {
+"records": 1,
+"sha256": "48f6256020f463440eee20d6a0ada0862499c56ce4b695f27b316ce8b97e6756"
+},
+"fortinet_execute_log_display": {
+"records": 3,
+"sha256": "edaec9bcd6eab3bf95e3a0a22db321b0e05e4eb1329058016183176455f40a19"
+},
+"fortinet_execute_ping": {
+"records": 1,
+"sha256": "876632b4c30bfad2dc1a9c6e92c4c2f22a22e5ed53db5b1c9dd20e6ff78f49f5"
+},
+"fortinet_execute_time": {
+"records": 1,
+"sha256": "32282c4bfce3a627e52f35b3ff78fdd92e6e8700e8940390dbd8fc0b0de10c57"
+},
+"fortinet_execute_traceroute": {
+"records": 6,
+"sha256": "86f316ea53d4275053d5723ec09b69e0f48f38065ce3dd2284e981d9a6ee2dd2"
+},
+"fortinet_fnsysctl_ifconfig": {
+"records": 11,
+"sha256": "8eb918bb6a6acf4bf657cc2961e48fa66c7ea6bc960d972ec2acfdf9db85b4ce"
+},
+"fortinet_get_hardware_nic": {
+"records": 8,
+"sha256": "faa70a16729b1cfcb02abdb489ebf0daf3ad82967a9176b543cf1359b2f1a8f9"
+},
+"fortinet_get_hardware_nic_nic-name": {
+"records": 1,
+"sha256": "fddf4ba18cb09d1fc98e8bdc0f81bccae20fa9703a3d461879e0c951f9ace2d9"
+},
+"fortinet_get_router_info_bgp_neighbors": {
+"records": 2,
+"sha256": "58de6dc40f27bf298c7f7b89133f4111acceea165bdffbd505562535461d8891"
+},
+"fortinet_get_router_info_bgp_summary": {
+"records": 4,
+"sha256": "7bc335836116dde23f500166f6b347e126fc0c0ccd118e43cb9056f5fded97c9"
+},
+"fortinet_get_router_info_ospf_status": {
+"records": 1,
+"sha256": "87eb6c1f3a0a1d64b788471cd4d97744caf38e513774c13ac6bd96a8c5189b99"
+},
+"fortinet_get_router_info_routing-table_all": {
+"records": 10,
+"sha256": "1177b9d98d2c0658c8304afbf4cea3900927a4ce14419fd8b57aeb2cfe7ce4c0"
+},
+"fortinet_get_system_arp": {
+"records": 4,
+"sha256": "5f108efec646554f0b09e5c9cb1696c36426bb7847e12cb94f19691342491e92"
+},
+"fortinet_get_system_interface": {
+"records": 25,
+"sha256": "245c45ae53bdf244b42ade4f6e227a072c2cd57cdbc50eeb94e92054017731ae"
+},
+"fortinet_get_system_status": {
+"records": 1,
+"sha256": "b7c02e7eeeed0f8548e32b0db083160b54c3bf18bcb349eaa54007b1ee3b296a"
+},
+"hostname": {
+"records": 1,
+"sha256": "15b1e43af0570d1d630f71cb16d5a8d9b8e88c6aebf571c3778601f2ee9f6d9a"
+},
+"hp_comware_display_arp": {
+"records": 3,
+"sha256": "77b22b83e2e909d1635d28e038d7bd81f79e1133a002eba51533aa554363aee2"
+},
+"hp_comware_display_clock": {
+"records": 1,
+"sha256": "4130b4616440e627b764b291f46483bc4731953f3470fee1265267bede6695fa"
+},
+"hp_comware_display_counters_bound_interface": {
+"records": 8,
+"sha256": "960cd977ba3216d536f1edebebb60127317fb6731d8ac3685d880123ca7d687c"
+},
+"hp_comware_display_device_manuinfo": {
+"records": 14,
+"sha256": "b031c5f97bf9727b52b15421f7aa16ebdee55aa917af836994f3ab5648017977"
+},
+"hp_comware_display_interface": {
+"records": 1,
+"sha256": "118bd3952bfc6748b78608459259e27603419c1462faade9140d6dd3ba6bf576"
+},
+"hp_comware_display_interface_brief": {
+"records": 11,
+"sha256": "2093366250f1b6835494f2351577c93b199aa86713188913f8b85f88b6ac09a6"
+},
+"hp_comware_display_ip_interface": {
+"records": 1,
+"sha256": "ba2c4e1ed708740635477c405ec92dcac0af675ba58e239473c407d8e331ccfa"
+},
+"hp_comware_display_ip_routing-table": {
+"records": 31,
+"sha256": "d4c935abfbf7be7f78b02d5cb656d84fdde96254ee1ff744f307f9b6f6a0570a"
+},
+"hp_comware_display_ip_vpn-instance": {
+"records": 4,
+"sha256": "463f77fc2a4d447747d76a73d265da7ca8d5cb7e44c6b1760a97d1003be67feb"
+},
+"hp_comware_display_ip_vpn-instance_instance-name": {
+"records": 1,
+"sha256": "022c260007c7f0b326981d439222836dd655aa66dded073ebe5acfc85ee8c8b5"
+},
+"hp_comware_display_link-aggregation_verbose": {
+"records": 3,
+"sha256": "d926c2c6cf4fdc53789fcf5c5acefea34fc04f99cde76d50507a71945d9829cd"
+},
+"hp_comware_display_lldp_neighbor-information_list": {
+"records": 2,
+"sha256": "4edb785e6924c1145c6019482861068b900dbc3d2bbb68cc7dc4da2a35027912"
+},
+"hp_comware_display_lldp_neighbor-information_verbose": {
+"records": 4,
+"sha256": "3211cf63df92ea618eb43342b8bb496dd6c37e14cfaa17e286eb3f1daf2756cc"
+},
+"hp_comware_display_mac-address": {
+"records": 4,
+"sha256": "77b01c0a144b38c27038be2b1da863071abe60504461e9cafca5f8e36ae8a6f0"
+},
+"hp_comware_display_vlan_all": {
+"records": 2,
+"sha256": "369c91e2d60e6c0e752b69d2d6bc0e7303772cc0e15cc83b142dfcc4b5591921"
+},
+"hp_comware_display_vlan_brief": {
+"records": 6,
+"sha256": "5afd803e63b1e891d54ce45437a1b86fa8b7f4577a441f31dc6e0decd5c2b854"
+},
+"hp_procurve_show_arp": {
+"records": 3,
+"sha256": "402da20187beb567d9942d758055a9f8d3fda7ed778e86c0013e1e7c0ea11f93"
+},
+"hp_procurve_show_cdp_neighbors_detail": {
+"records": 4,
+"sha256": "1354499d2a52d2f054ffdf1f28f6b309d6eb56fca1b0fbd7c5c0033ae1d7b333"
+},
+"hp_procurve_show_interfaces": {
+"records": 24,
+"sha256": "c887eeb1787bec3fe189a8380616cb48017b2c585914b070410bff4b3e8388d4"
+},
+"hp_procurve_show_ip": {
+"records": 2,
+"sha256": "e0bfd1d637ef47fcb04e4d4e2a3dab5a3e86319485f0dc2b5f0abaeed2812982"
+},
+"hp_procurve_show_ip_route": {
+"records": 4,
+"sha256": "bb3eeb1b0a6cdf576089d3b194f5b8613513f401a663d45f1b0b0f881b62b8de"
+},
+"hp_procurve_show_lldp_info_remote-device": {
+"records": 8,
+"sha256": "7abc9d9b99be90b19b74168904c5d4f433f84c5ab3f55a8300f00bf6e76656a1"
+},
+"hp_procurve_show_lldp_info_remote-device_detail": {
+"records": 8,
+"sha256": "47dbc05618a58481af27f9522227b4bbbda02ae66c2dddbb93dd44ace187d80e"
+},
+"hp_procurve_show_mac-address": {
+"records": 4,
+"sha256": "f60d8c671d45a8b66e6b9d9eb24e16249e925de8416deaacb01f5d192f8b9d9f"
+},
+"hp_procurve_show_port-security": {
+"records": 52,
+"sha256": "ae442301f0ef0b224b198401ae52c66e1b946a15c9e83434c0131a8a7973af71"
+},
+"hp_procurve_show_system": {
+"records": 1,
+"sha256": "f04c69dc973d9299059621a29d6d7fa47547480e4ad4b845def4aeaad54d9b58"
+},
+"hp_procurve_show_tech_buffers": {
+"records": 1,
+"sha256": "262d323d24d2dc4a46da47b67110af7b4c268760570d518e0e598592a4e4f376"
+},
+"hp_procurve_show_trunks": {
+"records": 2,
+"sha256": "eaf284f648743f478f56d1d7641c28be9c8e0e76b937d260b89c791b6c970d0a"
+},
+"hp_procurve_show_version": {
+"records": 1,
+"sha256": "384e844fbf2103d233d12b8efec74e6d9beeb168086750face4bf7d3bb79b354"
+},
+"hp_procurve_show_vlans": {
+"records": 5,
+"sha256": "218392f6bb1a83c592a19b50b7b257ba5799efc0df8807b6430524beb5a86134"
+},
+"huawei_smartax_display_board": {
+"records": 6,
+"sha256": "cb38fc8b31662a80d0ea87c652be64e3592228498aec24a638b1f7a3bc6b81fb"
+},
+"huawei_smartax_display_cpu": {
+"records": 1,
+"sha256": "dd3e48b3745b61f8afce88a706541396150cbbfe31084cee2df59a84623e25ac"
+},
+"huawei_smartax_display_mac-address": {
+"records": 10,
+"sha256": "4714e067ca09732f05f9c36fa35d8899638804200259982d7911a2bf0eaeee9e"
+},
+"huawei_smartax_display_mac-address_ont_0_1_2_0": {
+"records": 1,
+"sha256": "d1a155b5e72654a32d91540144f7c4d6b7f180c96b226af2e2dccfdd97289a33"
+},
+"huawei_smartax_display_mem": {
+"records": 1,
+"sha256": "b9aa96ac2ce76f8ea4db098a9e77388ca80b45081cf2ec41f93ef34585b58749"
+},
+"huawei_smartax_display_ont_autofind": {
+"records": 2,
+"sha256": "84f5600863121f7bb5daf84fd7afd234f529c6f616918045df92e6bddd6120fc"
+},
+"huawei_smartax_display_ont_info_summary_ont": {
+"records": 23,
+"sha256": "aad7ec8febd374598e98e5c7398c2992ed0973628e656b3a3f26c878fb877349"
+},
+"huawei_smartax_display_ont_optical-info_0_all": {
+"records": 10,
+"sha256": "4588b2b86640f92cee46f5135f9a85011c662199dc0c1ee598736a4cb4087f1f"
+},
+"huawei_smartax_display_ont_port_state_0_1_eth-port": {
+"records": 3,
+"sha256": "bcb595cf13ef08e5f1cb199094b8a12659ff000880509697dcd27272992604f2"
+},
+"huawei_smartax_display_ont_port_state_0_1_eth-state": {
+"records": 2,
+"sha256": "8c41079703184f01fdbe8bdb0b759c935da8d465aa4c064e484038acbd28b912"
+},
+"huawei_smartax_display_ont_snmp-profile_0_all": {
+"records": 1,
+"sha256": "2473c4f45e25cc797af29625533abc906c4055b4d35c087eb255fefc1182d7d7"
+},
+"huawei_smartax_display_port_info": {
+"records": 1,
+"sha256": "f5af7904a2f360f5eff8b9990e15e2b5f68633e4ed62c1b9ef879ab0de6d2a8d"
+},
+"huawei_smartax_display_service-port_all": {
+"records": 1,
+"sha256": "3a15ad8c9fe412e46a6d5b00ca44eabdf078ea4a52bacb701600d83834f2aed3"
+},
+"huawei_smartax_display_sysman_service_state": {
+"records": 20,
+"sha256": "9e5746691e2a233b659b2cb6b1a2f34444dd31114bb4f846bc0c03ff8b031666"
+},
+"huawei_smartax_display_sysuptime": {
+"records": 1,
+"sha256": "0e252f86e91c63c997d4be0858d1b53ad5a7fc8592f87c20f6fe87df9efb05af"
+},
+"huawei_smartax_display_temperature": {
+"records": 2,
+"sha256": "7672847f5194903f2de994e89dbf2afd5034f5a151ca9f133cc1084f6b66adb7"
+},
+"huawei_smartax_display_version": {
+"records": 2,
+"sha256": "d888452c8685b15c02938f11cab9bb187ab37abde160c2eef4475d860cdd0e0c"
+},
+"huawei_smartax_ont_add": {
+"records": 1,
+"sha256": "34c6c279f7504c35fdf11236d61fa64361e8498ecb034168982e0557d7e3bc63"
+},
+"huawei_smartax_port_vlan": {
+"records": 1,
+"sha256": "4be7269cbad17de28c601e67e98ae28c7d5a28965c5c6eae4b6f0dd8b9d3db9f"
+},
+"huawei_vrp_display_acl_all": {
+"records": 18,
+"sha256": "dfc421e42d8d922eb32c2314bc4e679a1df911cf7814b692375bba581bf1ecf6"
+},
+"huawei_vrp_display_arp_all": {
+"records": 5,
+"sha256": "c5bc531503e6298ac53dbd2c16aa81f9c5efde33f7bb0d7d834ad65448e4bbce"
+},
+"huawei_vrp_display_arp_brief": {
+"records": 3,
+"sha256": "a1f5436fb221b92cb93a4d84da57308f8c7e76eabc04efcbb3687a2928728bf0"
+},
+"huawei_vrp_display_device": {
+"records": 23,
+"sha256": "7f62911c8584fb23c584081d6f4b54306a9392cf1eea33fcc574b7a86ecd1fb0"
+},
+"huawei_vrp_display_http_server": {
+"records": 1,
+"sha256": "ceb344459574434d408a909d7bb57a57839598a0f5e23ee8aaef00a6f0eaa31a"
+},
+"huawei_vrp_display_interface": {
+"records": 38,
+"sha256": "b2ecc99ab1026aa797bf424de863dd9acf1367ebad58c70eec5d22e63c749e42"
+},
+"huawei_vrp_display_interface_brief": {
+"records": 17,
+"sha256": "df22291ead669f8cfb3f66fd00e6f33002cd162edff53eb8e8ed0101c9d2dfc4"
+},
+"huawei_vrp_display_interface_description": {
+"records": 30,
+"sha256": "4e7f8fa3cff1fa4a7f8b5405bfa1dea223689bb193004f6deca97244d7a728bd"
+},
+"huawei_vrp_display_ip_vpn-instance": {
+"records": 2,
+"sha256": "9e1766b93e807acec01f98913baec052f605854ee0d51f26680688a5e7bdd52e"
+},
+"huawei_vrp_display_ip_vpn-instance_interface": {
+"records": 3,
+"sha256": "e1f0f5ffd42c159d360d52b3e8c93b4c4f1c349737eea7fb7c26a3bc3e9db611"
+},
+"huawei_vrp_display_isis_peer": {
+"records": 4,
+"sha256": "2784ff280ed25f6d89633917bcd62e2a6d25503680c90131f83b04b7b4c4ceba"
+},
+"huawei_vrp_display_lldp_neighbor": {
+"records": 1,
+"sha256": "892c95c7ca1a133d8715db0f5f0ec22f04707a20973636f5456229b9eb9874dd"
+},
+"huawei_vrp_display_mac-address": {
+"records": 2,
+"sha256": "ac44c8debde11958a430417403896a9eaa21b6ac1cc9961a2b8a94b3394a3ec7"
+},
+"huawei_vrp_display_mpls_te_tunnel": {
+"records": 5,
+"sha256": "5f47d2b0e92996bff0ee5a22da15332f898524f01b47a842df7c771b06f975b6"
+},
+"huawei_vrp_display_service-set_all": {
+"records": 3,
+"sha256": "099fda9da9c92720ef4a92a86c89997b4a001f95c6ab1a046c392b374032c2be"
+},
+"huawei_vrp_display_snmp-agent_community_read": {
+"records": 2,
+"sha256": "014d1374c2c25088459cb1f3ae28719cb3448251dd20b6fcf07f15c168c8dc45"
+},
+"huawei_vrp_display_startup": {
+"records": 1,
+"sha256": "cabb617bc17ed4788aaf064aaff32cbda8d8604b78f11beef2fe185e88bf9666"
+},
+"huawei_vrp_display_telnet_server_status": {
+"records": 1,
+"sha256": "aa4e9efb1eb9f188ed10b4b3de036f7e1bb9acd9eb3e37ab6dc6a75d7b74516f"
+},
+"huawei_vrp_display_temperature": {
+"records": 9,
+"sha256": "62db79f81f072d48a66cd2376be126daca6a117884f4d814ea6a657977dbc66b"
+},
+"huawei_vrp_display_traffic-filter_applied-record": {
+"records": 8,
+"sha256": "3effb6b642da398b4af1f0df833a8b73f9f608bded632dd499cb0ca016c6ac51"
+},
+"huawei_vrp_display_version": {
+"records": 1,
+"sha256": "c873d8e4b8b5f5e93f85bc216ecf6402c3a3f2eac39a774fdaedc0a18b1480b8"
+},
+"huawei_vrp_display_vlan": {
+"records": 40,
+"sha256": "fae1a185f6d094183642fbe7e7ca2748d94ed5bfcb47394d0cee9162ee4de47c"
+},
+"ifconfig": {
+"records": 2,
+"sha256": "743700c7d6f5e96cd314e5e4ad3899372523da9d14ff8e7de606af7228f00861"
+},
+"ifconfig -a": {
+"records": 1,
+"sha256": "9623191e6563e66497ed3b223646ae99eae31e59dbecfba2cb2a2178ad3e9da3"
+},
+"ip helper-address": {
+"records": 5,
+"sha256": "b3c038ee29a9b1bcca398f37bfe77e00816c559b5972a183319bfeb9ada17b7f"
+},
+"ipinfusion_ocnos_show_lldp_table": {
+"records": 7,
+"sha256": "714282918bc3fd8647d1e581415f7d554c9a6d76aee72c97ea392b3a17307ee9"
+},
+"ipv6 access-list": {
+"records": 3,
+"sha256": "071a13b6affa2ff72a23b8e12c6fd0dc7751312fd9f4593a0fafe70b1e337cf2"
+},
+"juniper_junos_show_arp_no-resolve2": {
+"records": 9,
+"sha256": "c48cf36232362726a7770ef7bdba036891c97f1764e8693a5e2f3665b37a87c9"
+},
+"juniper_junos_show_chassis_cluster_interfaces": {
+"records": 10,
+"sha256": "04db61f508bb1f9660a4788bd23f2989d1aebfb4d8bd782ce0caee275ef7391b"
+},
+"juniper_junos_show_chassis_cluster_status": {
+"records": 3,
+"sha256": "54f2520ba18f14de7d87a9cd66f14c30502905d876190b21f2444c2951da082a"
+},
+"juniper_junos_show_chassis_hardware": {
+"records": 18,
+"sha256": "0e8901dcf12875e3fd450110ffffe7a6455055d4a7927121ce1495567866706d"
+},
+"juniper_junos_show_ethernet-switching_table": {
+"records": 2,
+"sha256": "e26a88da4b225fad3dd41579ed594ee750dd1dbd59e0dd7d23af606758bf6bad"
+},
+"juniper_junos_show_interfaces": {
+"records": 8,
+"sha256": "f1a161a5eba47ea4ba5cd488626f5ad5b58e26f80ef2fd32446e85b52ef7269c"
+},
+"juniper_junos_show_lacp_interfaces": {
+"records": 4,
+"sha256": "8e871f154a6cd36f7832871a43387a251839248c6eda19976e9bfecc8c859a53"
+},
+"juniper_junos_show_lldp_neighbors": {
+"records": 2,
+"sha256": "161a739ef4646380d82544076b82a4eba2c67560e00c5a092dae1fda1ac5bc56"
+},
+"juniper_junos_show_ospf_neighbor": {
+"records": 2,
+"sha256": "de5a79533a3a688b7bdc4f01ae2f1e634b9053becf684746e20bd69af878b9f3"
+},
+"juniper_junos_show_system_uptime": {
+"records": 1,
+"sha256": "7e0cbff7563785b3d370a46200e82dc71e9895669576c868af03632a1c8f0d72"
+},
+"juniper_junos_show_version": {
+"records": 1,
+"sha256": "2e0f742d3e4924fb1ca96893ebb34e337a41f4671b7a63054d2c55a46228ab41"
+},
+"juniper_junos_show_vlans": {
+"records": 3,
+"sha256": "3eb1195e9e087b2e48daa73d9952be421640bedcd4bb46cc27efe46286cd9406"
+},
+"juniper_screenos_get_route": {
+"records": 4,
+"sha256": "1a65dfb5ac43975170cae47644f90e5b230a095c427ed602b9d94547b05f2b93"
+},
+"linux_ip_address_show": {
+"records": 6,
+"sha256": "02b3f6439fb9c52211fc42e397c948b2b7da06d89273d600dbcf89f733e2d110"
+},
+"linux_ip_link_show": {
+"records": 8,
+"sha256": "f45e3a9c6163316d0d91096edc3005fcb3240b8cd4bdefc6c87f4016ddc26f1c"
+},
+"linux_ip_route_show": {
+"records": 3,
+"sha256": "f18a88877edd13665ef1f3d9281348636e462300e262d3650b9a33ca6a9686a3"
+},
+"linux_ip_vrf_show": {
+"records": 2,
+"sha256": "7f0335fc68551d72a63c685e6a966d5d386b9f20b5d311774f14a7e7b6ae3402"
+},
+"mikrotik_routeros_interface_bonding_print_detail": {
+"records": 1,
+"sha256": "8192cb47af501d230df149290b7fd950611e63106a0315a8279c3c875f22ef0b"
+},
+"mikrotik_routeros_interface_ethernet_monitor_name_once": {
+"records": 1,
+"sha256": "15c1893310cd1cf8073bf08bc3c46c37a59e87efd7a6fbf41370b56cefaa2581"
+},
+"mikrotik_routeros_interface_ethernet_poe_print_without-paging": {
+"records": 4,
+"sha256": "9d9dc0ddd6b859220d9eaf6588ee96bf722239dc03d36f1b974de53a5d9506f1"
+},
+"mikrotik_routeros_interface_ethernet_print": {
+"records": 5,
+"sha256": "b84a8472a728a5d2f9d6735249580ae76465a9c019f9101882bb89b79ee0650e"
+},
+"mikrotik_routeros_interface_print_brief": {
+"records": 8,
+"sha256": "e6fdde9afe8d031c443d314ea147392c34bb1ea6d141869ad1fe2638a9ebd47e"
+},
+"mikrotik_routeros_interface_print_detail": {
+"records": 9,
+"sha256": "d541d85d585d77041edbd46491eb80df4f057d196c9c861ea0334c3c90cc8bc6"
+},
+"mikrotik_routeros_interface_print_terse_without-paging": {
+"records": 11,
+"sha256": "9f995ec3f766d610ebc8cba327e287eadd38d7d11ab3935e391f23c31301b281"
+},
+"mikrotik_routeros_interface_vlan_print_detail": {
+"records": 8,
+"sha256": "f509f78f175a7ab4e032fe646e0b57d4f023e520db74ac561d876c941abe4cc4"
+},
+"mikrotik_routeros_ip_address_export_verbose": {
+"records": 2,
+"sha256": "eb0f57ab6f643d6dd513bbd32e50cb4447167e87351eab216e19070b1d32ba31"
+},
+"mikrotik_routeros_ip_address_print": {
+"records": 4,
+"sha256": "e7be26793cc264dd2286772da6befeb6cdb8d370534942952763fa9f70365f3b"
+},
+"mikrotik_routeros_ip_arp_print": {
+"records": 5,
+"sha256": "0618177577e3790ab9276394f68c1cfb19b33cc506fefb8032493cb7031c60fb"
+},
+"mikrotik_routeros_ip_arp_print_terse_without-paging": {
+"records": 2,
+"sha256": "fe028907fef2523ab624283e534683141624c72ecab6ff0fa8c564ddf141574f"
+},
+"mikrotik_routeros_ip_arp_print_without-paging": {
+"records": 2,
+"sha256": "bf7529a4186a2e92812a965648de268216c1c9d53d24941ef329827bf7af6620"
+},
+"mikrotik_routeros_ip_dhcp-server_lease_print": {
+"records": 4,
+"sha256": "468db38e2bd0eef60b9ccfac40a8e031747662c014cd93301fa03031322a941b"
+},
+"mikrotik_routeros_ip_dhcp-server_lease_print_terse_without-paging": {
+"records": 3,
+"sha256": "c5d57a2c9dcc095750fe759ea4000ff4990560a2b0b1903e37ce20704a63a149"
+},
+"mikrotik_routeros_ip_dhcp-server_lease_print_without-paging": {
+"records": 2,
+"sha256": "264ad0d5e83a8e689919d1d7eea9567c9e3514d863e6886ca7f7122bafd7c736"
+},
+"mikrotik_routeros_ip_firewall_filter_print_all_without-paging": {
+"records": 23,
+"sha256": "1ea7142e5154c2c9aa8d798a551f054d484266c66ec668167af8315190fa7f33"
+},
+"mikrotik_routeros_ip_firewall_nat_print_all_without-paging": {
+"records": 5,
+"sha256": "079eefa4572f664d518cb59a957bff1ced2e33e61f692793980d8cc0a47f691e"
+},
+"mikrotik_routeros_ip_neighbor_print_detail": {
+"records": 1,
+"sha256": "bf00ef4afed348c6609325ad2aa98c888291ef7eb1e75c657d6219b72d3b66d0"
+},
+"mikrotik_routeros_ip_route_print_detail": {
+"records": 7,
+"sha256": "71359e0075d596c96a8a10bccd1672314ee75bbc2dec106e17ecb279e8ecbe64"
+},
+"mikrotik_routeros_ip_route_print_terse_without-paging": {
+"records": 5,
+"sha256": "9e0192712e316e9edbd3bb8ed3596a93f98da595efbc3534e8f0051cf95f5b8c"
+},
+"mikrotik_routeros_ipv6_neighbor_print_without-paging": {
+"records": 4,
+"sha256": "4c1112578bd782123e11b96848661948d7a3c2f8124b4e82d1977d6163a5100c"
+},
+"mikrotik_routeros_log_print_detail_without-paging": {
+"records": 7,
+"sha256": "25ce7d58b9eaaca3b3e6d04b097cc6e59539543133572a1829bd561243059bbc"
+},
+"mikrotik_routeros_routing_bgp_peer_print_status": {
+"records": 1,
+"sha256": "9d7f7d3333ce19e3daceec62a4019e448658c7371c0e766e068fadcc616c0da9"
+},
+"mikrotik_routeros_routing_bgp_peer_print_status_without-paging": {
+"records": 2,
+"sha256": "9f76341e7c250c2f531da7df558ecd8bd73abd06b54b39470533783208f9d524"
+},
+"mikrotik_routeros_routing_ospf_neighbor_print": {
+"records": 2,
+"sha256": "df70f6246254e9454b3c0526a6b17acfd036111af5ed9a1c20867bf8bfec5824"
+},
+"mikrotik_routeros_routing_ospf_neighbor_print_terse_without-paging": {
+"records": 2,
+"sha256": "dc5ec16eb38ad511049608c08ce596c0127527c0e8f21cec3481d81c9c1f5080"
+},
+"mikrotik_routeros_snmp_community_print_without-paging": {
+"records": 1,
+"sha256": "4faf7c6a116da81374d3b95fa4241b6a8c8e6f143be03c11e0590dc752b282d0"
+},
+"mikrotik_routeros_system_clock_print": {
+"records": 1,
+"sha256": "53837d9b6340ed2240bd27a1fdd33e7a9dd1c8e6a5460a24e3b729aca46bf909"
+},
+"mikrotik_routeros_system_identity_print": {
+"records": 1,
+"sha256": "1daaf213be91ad7d4bdb02cfd2fb83dab69c63d2232523063868d3b5368ab279"
+},
+"mikrotik_routeros_system_resource_print": {
+"records": 1,
+"sha256": "ca2a19bd3824d06936afa3cd0fac358ae911675b4d8829688e37718fb15fbe16"
+},
+"mikrotik_routeros_system_routerboard_print": {
+"records": 1,
+"sha256": "eb53c1a469f9eb1a99866d76118bf552ad41420879a71b119e28f20d09804f19"
+},
+"mikrotik_routeros_tool_profile": {
+"records": 8,
+"sha256": "cdeaf3ffd428e8ad99a34f5054676d27b1fd8bc892d612c33cfec61bc1880e8f"
+},
+"mikrotik_routeros_tool_speed-test_address": {
+"records": 1,
+"sha256": "bd76d3d9ac0320afda494e638a53c9a5576f4001fb9220e7439175cbc3181402"
+},
+"mikrotik_routeros_user_active_print": {
+"records": 2,
+"sha256": "8b2b052f7b334f1cbe2e0d5e8001aad26591651a320dcac0e96f406c62b391f7"
+},
+"mikrotik_routeros_user_print": {
+"records": 2,
+"sha256": "33a4df75bc7cc7e367050abb6841594c9ab86e4bac08d667af54ec2f3bb5c47b"
+},
+"netstat": {
+"records": 7,
+"sha256": "5df80b0e8d5a2a071b4f2782ffcb08fab8c1d2ed2ecf287c52036995b2ec399c"
+},
+"netstat -a": {
+"records": 6,
+"sha256": "a8706983915acb3ec50bf4098e7ad2fd31c4e8ece302f979ec6c3ab7cdb1d9ed"
+},
+"netstat -ant": {
+"records": 7,
+"sha256": "2526bf37109729ba3c1749c566c4c41e9c0f41699306b7bca6a0ec693d88c312"
+},
+"netstat -i": {
+"records": 3,
+"sha256": "d8b52f4ec072afa34c4b88486e39a1d9dc3494781d6639f033e95af674e5163a"
+},
+"netstat -n": {
+"records": 6,
+"sha256": "af40058ee11f7792e13a66a9fca853a12a332349c380a05d748fce4720015bf5"
+},
+"netstat -nat": {
+"records": 7,
+"sha256": "49596c2829ec98b4f9b31909765fff87d4882204129254da0e52574e62ec6739"
+},
+"netstat -s": {
+"records": 1,
+"sha256": "99acb81dad1dba164729b0788f3006740d5fc148822d21bf6b136891d7829724"
+},
+"netstat -tn": {
+"records": 5,
+"sha256": "8a5a4c9737e72ae060386701d0c8be84199f3976da2ade13c6815d1b69c9afaa"
+},
+"netstat -tuln": {
+"records": 7,
+"sha256": "b39df910c3622efad2ccc3ffe1ae814b65805b3bcd240f23e9d38c9b3e06b711"
+},
+"netstat -tulnp": {
+"records": 5,
+"sha256": "e1ddc477a516b543515f57eadb7d04c44bb3fb1b3f72ab823a41632e199ff8bb"
+},
+"netstat -tunlp": {
+"records": 3,
+"sha256": "404119024c644be2755a6295286703b29e2d6ad5dd3a963d765368720eb38072"
+},
+"nslookup example.com": {
+"records": 1,
+"sha256": "3b1da3a79ec48aa673507101e4bf11c8e25f8036ceaf1dcc9adb2ed8c55dd3b2"
+},
+"paloalto_panos_debug_swm_status": {
+"records": 3,
+"sha256": "2c3d2992901e0a9f56025e0c75a2ba660bed2881be2490343f9c1e788923d595"
+},
+"paloalto_panos_show_arp_all": {
+"records": 4,
+"sha256": "f4484129d652864731a25c597ef10f32346c273550200f10d9c04c6f10653540"
+},
+"paloalto_panos_show_counter_global": {
+"records": 7,
+"sha256": "eac48396b10099cf0ccf930d3b0cd6b9a671d1c5bae7eaa10832d23139791035"
+},
+"paloalto_panos_show_high-availability_all": {
+"records": 1,
+"sha256": "7940f317b4bc2c0867eb2c11c651c3d117cc0bf627a4c2262d1296ef1bbf93c7"
+},
+"paloalto_panos_show_interface_hardware": {
+"records": 26,
+"sha256": "5767ba3e95d5172ea36f667fccea8d0ce1aabc9b21048ca448bc41c70cc7c6c2"
+},
+"paloalto_panos_show_interface_logical": {
+"records": 18,
+"sha256": "9a0931675dbd50053cf175a4b773d9452e1fe419586720b800f96ede8aef8ec5"
+},
+"paloalto_panos_show_jobs_all": {
+"records": 8,
+"sha256": "677df35474cfa3da85fb212ce16918fcde7822e383e9bfa06ab658924d6876ff"
+},
+"paloalto_panos_show_mac_all": {
+"records": 3,
+"sha256": "ef8b4eb496214a94203a5846d97874aa22a04a026cdd4500a43bb9fdb082360c"
+},
+"paloalto_panos_show_running_nat-policy": {
+"records": 2,
+"sha256": "d97390bbee1d53005448b7277857c6ac77ffbc1cb6df7c523991940ee0365fc8"
+},
+"paloalto_panos_show_running_security-policy": {
+"records": 7,
+"sha256": "af57e43fca83ce69e76863bb62f4a7b2498ae9bc8225843241298e1eda476b7e"
+},
+"paloalto_panos_show_system_info": {
+"records": 1,
+"sha256": "4bba8bd2d2c196a89de5aca9e9daf1876429be0ef9ad3482bab4bd1df1c28ce8"
+},
+"paloalto_panos_test_security-policy-match": {
+"records": 3,
+"sha256": "c420c8f184c500ccf495fae2e5a0b409dfff8263ccbf7337f6022c25c7714315"
+},
+"ping 10.0.0.": {
+"records": 1,
+"sha256": "b5415dddf93b2cbbbf04af91700919ca792ee3dcdcca01463ad95e7c41d65b0f"
+},
+"ping 192.0.2.": {
+"records": 5,
+"sha256": "9e26ec91d8f86a54bdc8f59701bbbee320dba2191fe845206f62b3afd19d8a56"
+},
+"ping 192.168.0.": {
+"records": 5,
+"sha256": "96e4aa0c1429e139ffdf54983d7a60c469ad3370d47e24a39ca0bb5c4d8d97b1"
+},
+"ping 192.168.1.": {
+"records": 4,
+"sha256": "ee9e7006e61e4511b9f48d3b34df8a24153fe44a0576e8eb3fd7c7b96803b459"
+},
+"ping 192.168.100.": {
+"records": 6,
+"sha256": "5bbfde12cbdee681d5d252d86eef0d4d74b678fa7e1b4870b854ecc9ca96df65"
+},
+"ping 8.8.8.": {
+"records": 5,
+"sha256": "dd45ff74c3d68972b934aaf690879bab6a69f2c108228120484e2e27aa4c2581"
+},
+"ps": {
+"records": 18,
+"sha256": "5ea8d3e3457e93bb5fa4a1614580b7e9bf528cd5df055614584ffa6b6c6dec91"
+},
+"ps -aux": {
+"records": 9,
+"sha256": "bda05e961a953945c97b6f6dad34627c0f3f270a48f68c3811ffd00cb03f49a4"
+},
+"ps -e": {
+"records": 4,
+"sha256": "2785238da3047b705441cdaf0fd2b7c6144664487be936ed7fbff57ff8b9a254"
+},
+"ps -ef": {
+"records": 10,
+"sha256": "812a1c3c10af49705fa99b95a1390b3d2b94aed467ef0b3e9dd5da82a6de3779"
+},
+"ps aux": {
+"records": 8,
+"sha256": "0e730c5c81266a4317623c366a1478b63f935df9c9b3fe2b905dd6fe25a6cb6d"
+},
+"ps ax": {
+"records": 9,
+"sha256": "7d193d8a26eb9fa3eb152227498e402a9e7f5b5ae6263cff743549b389ef89f1"
+},
+"redundancy status": {
+"records": 1,
+"sha256": "91f52bfb5de4b6e44d5c94d05ba6f173906ee65aa359653a7812a86609f04ce9"
+},
+"ruckus_fastiron_show_arp": {
+"records": 443,
+"sha256": "f21bb5f65db04d5f5e98e9e64f0859d27eb791d02eb4575b6172d7f3905895ed"
+},
+"show access-list": {
+"records": 4,
+"sha256": "c9a13a75f2e230dfea2bd0ea185cfca390a6e958e803f30d5034421e844e4c37"
+},
+"show access-lists": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show access-lists extended": {
+"records": 6,
+"sha256": "788a24dcc0396c00c80658824d9a0c8ffc58cc60d663ea7c9f8bc042d0e1c6ec"
+},
+"show access-lists summary": {
+"records": 5,
+"sha256": "b5c3a111286fd86b913c3489985f381994ab98028a34fc73f0dbc825d91851d0"
+},
+"show adjacencies": {
+"records": 5,
+"sha256": "ebcc03974dfa0f3e959b5c04d2af0253c52a32eaff388f607b064366ac85804b"
+},
+"show adjacency": {
+"records": 5,
+"sha256": "f0abb5facdfa33c3822e30aa346663243f184da0d761936a0b6bbb88db86e09e"
+},
+"show adjacency ato": {
+"records": 3,
+"sha256": "aec273fbfb0685067c1f8b0cafb2e31920b7f8713febc9e7c62148f3561049eb"
+},
+"show adjacency detail": {
+"records": 1,
+"sha256": "d9a9083a16788fa6374e9f925683cfc36ca67c88a9be4fe485e0e2702474cbd4"
+},
+"show adjacency forwarding": {
+"records": 4,
+"sha256": "140eebd798a3566e88813a410c66b67468a1f5e8bd9c0edc7b8085536f40f31d"
+},
+"show adjacency summary": {
+"records": 4,
+"sha256": "e5299cea44763e41dee98941cad5fab4e8fa54d01be46144b6836ff2aa9f757c"
+},
+"show alarm": {
+"records": 4,
+"sha256": "79e0870a633e9b1c6cdc153a992c0b993f1676327c8898fc7213148aee790ee8"
+},
+"show alarm all": {
+"records": 5,
+"sha256": "2ca2636ecac86ce97bc17ff372d764ca05b79301920897bb53e87808146075d6"
+},
+"show alarm count": {
+"records": 5,
+"sha256": "7df0314274bf241348e68f6191247ce8ae5c6ebcbbfb0ffc5b5c2ae9f209062e"
+},
+"show alarm counters": {
+"records": 4,
+"sha256": "9551a0495d81ca3213639d92aec21e1dd8be3efddf457d90309ae241e8616cd9"
+},
+"show alarm counters all": {
+"records": 5,
+"sha256": "67377972e334890798e973add797dbae3f58bc2be6d02f75b251fb5d9056fc13"
+},
+"show alarm counters brief": {
+"records": 6,
+"sha256": "695ca6dff6e59634f9e16cf6a841c191dd9e452145f27e81c39989492deb1986"
+},
+"show alarm list": {
+"records": 4,
+"sha256": "c66f8523c4b839090ebde03e481911f6079d74c58243d11d595137ce853719bb"
+},
+"show alarm log": {
+"records": 4,
+"sha256": "94781b0fa70744f9383ad2f94268b9922d1cc7312a21b95d5efd80a6b42cc2a3"
+},
+"show alarm statistics": {
+"records": 4,
+"sha256": "08aa9136e48e0f93ae7f03c2c77079aa288109553e9de2cd7620475d799c32fc"
+},
+"show alarm status": {
+"records": 4,
+"sha256": "7c35cf70d40127aac2985628dc1703d90143380f53dbb2979d1fe3bf2f242099"
+},
+"show alarm summary": {
+"records": 1,
+"sha256": "5a2f3a952c5369283b6715719b9342ecc35676433bcbb88b55677a5036de8c31"
+},
+"show alarm traffic profile": {
+"records": 3,
+"sha256": "5e9785e816557e1fca137ff0fcf5d22827d723c9c6c824201cabf7696dfe32fc"
+},
+"show alarm-counters": {
+"records": 5,
+"sha256": "08a745964660f338e9b9f4e36a13d4343fdb17554c90fc7301d9b775b292b8e3"
+},
+"show alarms": {
+"records": 4,
+"sha256": "b7eefefa02cc69dde526ff2a4f228138af60b1f39f41098f2d17363923f2f0d4"
+},
+"show alarms active": {
+"records": 4,
+"sha256": "8b145d1a1d7537e4307747b4c7b8fa9b42538e947724f74cb1504e73c63700cc"
+},
+"show alarms all": {
+"records": 5,
+"sha256": "33c9962b3b99bc27c0536c787d591b3e177dad81a0631a7f2f6720e0d3bd0665"
+},
+"show alarms brief": {
+"records": 5,
+"sha256": "3c787a4a972ba60df611670584b09fa35e1bcfb72899970099034ba46fb34a04"
+},
+"show alarms count": {
+"records": 4,
+"sha256": "8bd24a7cfd8597f6eebca46b7adfc392c17d41639f8cdcc0947ccea6f2357af6"
+},
+"show alarms counter": {
+"records": 5,
+"sha256": "ccecb12d82c78cffb2b9ed118cdc69573722d70859e303de6032e73160a771d8"
+},
+"show alarms counters": {
+"records": 6,
+"sha256": "607c21732a33b497c3c69404f20e5669a4c9d6b135ccb4d339f481b037c367bc"
+},
+"show alarms current": {
+"records": 8,
+"sha256": "28566dc91fe590bb1a617a1f3ad4013db8501266a6b253e4da4d0d579c7b9064"
+},
+"show alarms detail": {
+"records": 4,
+"sha256": "5f0103e2ae1c096a6fc5cf6b4ccc881f7d273a75c3414d2c410ffd8eb35e3359"
+},
+"show alarms log": {
+"records": 3,
+"sha256": "9d364329a72f11232271c3928435c2ed17581b34b3e37ca8cf91f45994e97bf0"
+},
+"show alarms summary": {
+"records": 4,
+"sha256": "bac982cb89cc6a060636d928327ee2c17a8ec30f707d6a5c62de002fd028e79e"
+},
+"show alert counters": {
+"records": 5,
+"sha256": "e3d1f0d6cd90c3737f77b5fe721812ed83837e80edcb00d09295391cd824300f"
+},
+"show alert counters summary": {
+"records": 5,
+"sha256": "b80a623c9c1e7854d8078064ae4ff11709862374fa8241e049de0653ed988abb"
+},
+"show alert-counters": {
+"records": 8,
+"sha256": "45eee6b34c667422c335c91b027ceeaea4499dbe243887af45f61fc1f328354c"
+},
+"show alerts counters": {
+"records": 5,
+"sha256": "8a979ed88545739490702d26d0cc51a119f23aac035b8e7cf187624ad876c19b"
+},
+"show ap database": {
+"records": 5,
+"sha256": "b8e5c3ed3242779a035bcde2de9cfe902e35a21944e5a26e5f140c36c2ecf7d0"
+},
+"show ap database summary": {
+"records": 4,
+"sha256": "15f67369c905e7d98f6b124b444a8866bf7203e240249746c55ba382321252c7"
+},
+"show ap summary": {
+"records": 5,
+"sha256": "f2e8d1ee10a3cbf526138523c7b16acd594bfe9baa21de5169faf4a10c3ff70c"
+},
+"show bfd neighbor": {
+"records": 4,
+"sha256": "29ce65947247cba8d79460edf267ebdd1332e6539e15cefa92d4a9a7c74d4317"
+},
+"show bfd neighbor detail": {
+"records": 3,
+"sha256": "d178e26eb91685185693a5ca9ce7c48590b4e6f083014fe8efdc2edfc0c856f7"
+},
+"show bfd neighbors": {
+"records": 3,
+"sha256": "36d69a2154fc55ddc9f00cc6211944c0a4ad7828be50182148b09c7b2c7d99c8"
+},
+"show bfd neighbors detail": {
+"records": 2,
+"sha256": "b57d4286b7229c71379b4664627bd04215af71e792e5e956c146d0f9b2959ba5"
+},
+"show bfd neighbors details": {
+"records": 4,
+"sha256": "f262c9e3bdeae678121d809a4920b98e4deb4584ccbf9244d6bbd3cec2619efe"
+},
+"show bgp ipv4 unicast": {
+"records": 6,
+"sha256": "da348a5cce16bd75f58ecc04fa5619da687dd3fa20e12b31c965991ece376902"
+},
+"show bgp ipv4 unicast summary": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show bgp summary": {
+"records": 3,
+"sha256": "a4e30f93e200e72d73b51d641d24fd514d4cb4f836bc703fde6e8b5c855d2bfd"
+},
+"show bgp vpnv4 unicast all summary": {
+"records": 5,
+"sha256": "ca8e5fd1d0bd5838a846d1ba574e84385083fd54c7b3d8877618d48b8423df0c"
+},
+"show bgp vpnv4 unicast vrf all": {
+"records": 1,
+"sha256": "39d1c1bd57645c39af8f16f4bbd39b56ae609b843be2b01ebd38120722009eb6"
+},
+"show bgp vpnv4 unicast vrf all summary": {
+"records": 4,
+"sha256": "5146abd3082b6979420827a47b163c2fe42abab3d844a57cb306465f6bd2b955"
+},
+"show bgp vrf all": {
+"records": 2,
+"sha256": "7b1aae65498ecaced84edfb0c04e8fc8efa0172d11ea0cc666eb6c355423cd31"
+},
+"show bgp vrf all all": {
+"records": 4,
+"sha256": "714fbc8cfc8bf26281d25cbca3c1d51a4176e194f690d1176bd5d975a6b8ffa8"
+},
+"show bridge address-table": {
+"records": 6,
+"sha256": "ba1d2c8e2b42eb5ee35b1deebe1b8e72f8daf42763db10888b3e39dfbe0aeb76"
+},
+"show bridge fdb": {
+"records": 6,
+"sha256": "3286db4a63c4a1d8270e837772bd5ae752f0a25421229212fec4381020cd15d6"
+},
+"show bridge fdb show": {
+"records": 5,
+"sha256": "fa89408207cc7ce0c5df6a6557b7c2a3a363cb9b1439690a13f7b64b0c932665"
+},
+"show cdp neighbor": {
+"records": 1,
+"sha256": "49fbaa65c841140adde6b48aab4340ee1a3f1fdad841d62a35da424d62d0ac8e"
+},
+"show cdp neighbor detail": {
+"records": 2,
+"sha256": "a0655b9414583385a65061c1da2c6111164c4365e1879f632171dc9c8ea67154"
+},
+"show cdp neighbors": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show cdp neighbors detail": {
+"records": 1,
+"sha256": "8db02ac72c757317a3564f251883be689c17d65938b60c70bebd85fa673839fc"
+},
+"show cdp neighbors details": {
+"records": 1,
+"sha256": "a9492aca1503ace781c8cba74ca187d1e010b88d5ce1ac8a006163237bdd8807"
+},
+"show chassis hardware": {
+"records": 9,
+"sha256": "0fe56d1c3873703cae3ae6c9818ba2969d9ff2f9b01f3ca81ca5fccd883fd2a6"
+},
+"show climate all": {
+"records": 5,
+"sha256": "885741d7304fc175121b5e55fdac0d873e2b86890b62f681dbce404f01a91b73"
+},
+"show connections": {
+"records": 5,
+"sha256": "be35524292392a615cd031c8af2f6ff5d574d4ebe7e9645dc091bcd6c7315a76"
+},
+"show control connections": {
+"records": 3,
+"sha256": "975f3de472dcb1beb4f175cdd88580f5def84604a09796e1af53555d2c08ec3e"
+},
+"show counters alert": {
+"records": 8,
+"sha256": "ce8111a2423a77ace7e4a93c9c030922ba1f0b8bfeedbd01dfe43cc8b951b314"
+},
+"show cpu utilization": {
+"records": 1,
+"sha256": "d54aae138ab3416116f5e9e7c28be9d7df2b80bd29128f33b2c46be4243f6b15"
+},
+"show crypto ipsec sa": {
+"records": 1,
+"sha256": "651368ff47db06f68bb240708e0fd28dd4f51a64c27134b3782ab7ab1fd46e43"
+},
+"show crypto ipsec sa brief": {
+"records": 2,
+"sha256": "05191e86d3c1d6874dd74f25a5a56ef04329d226a887044a7b7d56c9050402c3"
+},
+"show crypto ipsec sa detail": {
+"records": 1,
+"sha256": "c2ec76154f505448f8c8e9d31082c12b7515eded2a577c17a64ad41d34a37c21"
+},
+"show crypto pki certificate": {
+"records": 2,
+"sha256": "8711c5068cc3cb2dfa12cb0f0fc7e2e713e038be6f0e2fb73e54b414380e9724"
+},
+"show crypto pki certificates": {
+"records": 1,
+"sha256": "57ad80e5426fb73339fc6f830d0966c217c7e55226e0ba6f0d709987cbfe4898"
+},
+"show cts int": {
+"records": 4,
+"sha256": "2f06e5547e5b77c75881d1a930d85715a76a76c5865bd6b7f119350c0b6bd075"
+},
+"show cts interface": {
+"records": 1,
+"sha256": "44a362f224a33224eade657074b4743c86ad29c59319a451899477b8b2cce7ea"
+},
+"show cts interface all": {
+"records": 1,
+"sha256": "d6bb7a70a141dbc9a213de68a0225d2fdafe6f524d67b5f013ad98455a71bc70"
+},
+"show cts interface all brief": {
+"records": 5,
+"sha256": "04f907c01f43fc20897a9ef6e3bedbc1b6e4790caf1abeaa89db4e51a1692647"
+},
+"show cts interface details": {
+"records": 3,
+"sha256": "1ff70ce4298fb87b8278fb81c12c4f9a4a740957a89a7e2e07c38af6bea7e7de"
+},
+"show cts interface status": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show cts role-based enforcement interface all": {
+"records": 5,
+"sha256": "65f43bf50b54ae3f7d0e74602731058bf3d9408a58e02eb166e1b151dd2aae8a"
+},
+"show df": {
+"records": 4,
+"sha256": "6ec69e0b08b92ad2414a4cc933990386e49e537fa5a4b8d94a46c050c9e8571d"
+},
+"show df -h": {
+"records": 5,
+"sha256": "8669be07aca43e482451b6c73e4cb23ec29af3cbb57172e5f9b1826b528bf97b"
+},
+"show df CLI output": {
+"records": 7,
+"sha256": "e8f6fb5bb6f39cfc1d48aee56ad6602deabd96be600fb45c5420fa1c3d26a36c"
+},
+"show dhcp lease": {
+"records": 5,
+"sha256": "865d266c0860cbdbe757dfced253fc3ca80f43f0664258420ab80c7a9fd0d9cf"
+},
+"show dhcp leases": {
+"records": 5,
+"sha256": "232140dd1e4711124206f173d3632cc15434ec4e00f8be375ea0046de75f71af"
+},
+"show dhcp snooping statistics": {
+"records": 1,
+"sha256": "dedff7ff405b714a5fbbaac088c16a656c1810fed3ae8dd3d5a16b64f630a9f9"
+},
+"show dir": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show directory": {
+"records": 12,
+"sha256": "3ad4c013d681537bf8cfe3a3ca7e11077401c702d715042a84a609d78e63d569"
+},
+"show disk": {
+"records": 4,
+"sha256": "fc824dd509d0787be8940673f27fab9134079ac349679e248506c767cb7c521c"
+},
+"show disk details": {
+"records": 3,
+"sha256": "8ebe5b8bccce461095e16697b5a06afbf8edadce72da17363bf8fa0a17f08bfd"
+},
+"show disk info": {
+"records": 3,
+"sha256": "53b35a89fa2d2ebb89af1a457e0496367d7b6874b8a0b84ea6e213e4a719d24a"
+},
+"show disk usage": {
+"records": 4,
+"sha256": "c8cbcc7f3e15763ad8c15b45678ecaac5aac6a125b1c5f3051519e2ec2719871"
+},
+"show disk-usage": {
+"records": 4,
+"sha256": "f36122040b85a77a8dec2b5821638c623d806178d0658382350ad05b07127d9b"
+},
+"show diskvolume": {
+"records": 3,
+"sha256": "f5979f5cdb67889887baf652059bd8c17921f026e2717091666be4aae96e877e"
+},
+"show dns": {
+"records": 1,
+"sha256": "be14a8fe9ff160a8ec2caea9fce4d05beb2eb8c88346c974a632422e3b9f888e"
+},
+"show dns cache": {
+"records": 3,
+"sha256": "3a60c917999e9b977defbcce6f509aae6be85841f9544d0afcf29448e9b3901d"
+},
+"show dns dynamic status": {
+"records": 1,
+"sha256": "34e5e21933b06d13be4619314c4d1698001dd0fd0d59ddad5d708123061c5f75"
+},
+"show dns hosts": {
+"records": 3,
+"sha256": "e30e5c2de7fb66c2d00ffb4844e1e09351ef8666ca9387ac1471b97661e6c2d9"
+},
+"show dns lookups": {
+"records": 3,
+"sha256": "962fdcc7a6dfd4b9067458a75090c3e33423d3cacf97b7afc7ef2bdf2b7e58f8"
+},
+"show dns queries": {
+"records": 6,
+"sha256": "66b050a34cab23780ffe4a4a3ca8defe37da349e95a75a2aa5b1735e2137b41c"
+},
+"show dns query": {
+"records": 1,
+"sha256": "2d5603a44f4906a3f5b9397a467073f05cb3ab855a062ee8c64329b2edf5a70a"
+},
+"show dns query all": {
+"records": 4,
+"sha256": "b38bfd81eb3c632d8b94ee429e37d73eb30be88b3fccb90bbc7e2944ab34785c"
+},
+"show dns query detail": {
+"records": 2,
+"sha256": "8d6c5eb6ba4f97139bbe7e80339795b5e06767ad0433cfe988a450009f13025f"
+},
+"show dns query logging": {
+"records": 5,
+"sha256": "29a2ac5ba1b71b6001fbdfe7e5471f4eef797e718c1d6b6ecbc36611ae96a608"
+},
+"show dns query status": {
+"records": 4,
+"sha256": "98c46a6260755abd45217bfff7a8516cba801cd4fabcd4b6aebfd09fc07eb628"
+},
+"show dns query-host google.com": {
+"records": 1,
+"sha256": "51a887b65b7fc2ef3165c1a2777c3fb884f0675c5ff18f2dea950f2965aa97e9"
+},
+"show dns server query": {
+"records": 3,
+"sha256": "b2d17a577c75e1d548c8419f80a08791c1778cc2c0abab873a86aff5b4e2db5d"
+},
+"show dnszone query": {
+"records": 1,
+"sha256": "238e13210b8a81cffdfe96694fb0bb0cafe75cc50e6afc3cac429b306ea50737"
+},
+"show domain-name example.com": {
+"records": 1,
+"sha256": "3f9712e93928e1a985bdb94b39bbf977a86d91a11f4c786812c489e839e5c0ed"
+},
+"show du": {
+"records": 4,
+"sha256": "9a4c83d818c426a02a67b0816e331627e404c5346b4e3680173f5567825e20ca"
+},
+"show env all": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show environment": {
+"records": 11,
+"sha256": "207c0fdbf420bce61b3469fa2a856502bd503291c41e6d93f04957e5c6ed4dc5"
+},
+"show environment all": {
+"records": 4,
+"sha256": "b67f6c0bb6cdc6c45b257e10853dda59eb52b7b6bb6aadc641a029fde74af4fd"
+},
+"show environment cooling": {
+"records": 4,
+"sha256": "748dd0a82c2c4dbf49db3bb7db5f67743b435e1f70462250bb0c62d45d605815"
+},
+"show environment cooling detail": {
+"records": 1,
+"sha256": "149e06e6e50fc788604779299dcd05d0e76baa072f51d0891be5d79b26f42251"
+},
+"show environment cooling status": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show environment cooling-status": {
+"records": 4,
+"sha256": "05dc90a48900b6901c5b49ea409c07a3e2b26b8e19bd0abc806b2c335d3eb477"
+},
+"show environment fan": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show environment fan detail": {
+"records": 6,
+"sha256": "584ff5522d188ffd84804f26a41b6509fc6d873bdb0741b5c28c4da650a7eb65"
+},
+"show environment fan status": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show environment fans": {
+"records": 4,
+"sha256": "8e67dba7b09f555ab3ff53e76c7fc59731f43ea17e7b7767433478b0d72104cb"
+},
+"show environment power": {
+"records": 1,
+"sha256": "fa3935db366fd1df5e1b3a9b16fcd0851798c2d0d61d162a241d488d4391b960"
+},
+"show environment power-supply": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show environment temp": {
+"records": 3,
+"sha256": "6574e5d6333afc5923b74a8c4752801a273dd737dd36b3c9471931299e6708d8"
+},
+"show environment temperature": {
+"records": 4,
+"sha256": "c098c178320874333147ade5f4209d98679cb0bd0619288e1c23bc65b4419abe"
+},
+"show environment temperature status": {
+"records": 4,
+"sha256": "f18398440b9b3008a1058c8fea753e9eb5e3ec43dc60ce5217e093774692a260"
+},
+"show etherchannel summary": {
+"records": 3,
+"sha256": "f353e3d50090b97b25f2871bafb1b48545d3429f3704e26578384a37652753d8"
+},
+"show fan detail": {
+"records": 5,
+"sha256": "8e4a744f636c5f9b54c65db1c10d0af5d66bec3531314a0e84b19965e4710150"
+},
+"show feature fex": {
+"records": 4,
+"sha256": "c3aaabebb5f9e5a0f8fe7b1f38740098c21b06af503c91d6d64866c01af9aa4d"
+},
+"show feature | include fex": {
+"records": 5,
+"sha256": "8358170516065e13ed92968dc560a4fa805e269d458f81fc4ea2e571d812dd3e"
+},
+"show feature-set": {
+"records": 12,
+"sha256": "25af1a770da32702c0281674741c7535f51b4d2084afd30c5fe20fcd1cb7e656"
+},
+"show fex all": {
+"records": 6,
+"sha256": "6df8241e25d799d27b2d0e79687edeb7ea1b19db436d20c00b9e54439a5411c9"
+},
+"show fex detail": {
+"records": 3,
+"sha256": "ae24a83be40515ed8ba0314dff8874d9df1bac606cc261537d24c5525738a8d7"
+},
+"show fex id": {
+"records": 4,
+"sha256": "d8dafb6d1755b54de3717b48e12b124af80a4e56a1865731c5535aa6910dd51f"
+},
+"show file systems": {
+"records": 8,
+"sha256": "50f6cff9db2854a35ed36676b9f04a052b29b2df402f648c7686b039744f2188"
+},
+"show filesystem": {
+"records": 5,
+"sha256": "3159ba810a9babb26e35e9880676065212a1057d1cb00c2f24f424bad12a4ffa"
+},
+"show filesystems": {
+"records": 4,
+"sha256": "1a3a5dd0928ed042dae02b8a069b6f7b14821767b8541cb5d397b3a13ff21296"
+},
+"show firewall": {
+"records": 4,
+"sha256": "52eee9c4f53fed206a44ec0e39b1a98d8619a0ffc8188ed23e5e27ef68af35f1"
+},
+"show firewall all": {
+"records": 5,
+"sha256": "5ca6389f6863f0312168ae7b0f9124bf91fbe4be442e956c02c25b2307eab516"
+},
+"show firewall policies": {
+"records": 5,
+"sha256": "84a8daf85002708b5d9e70b6b0292992a3142f09942d683ec6623e65d827a2df"
+},
+"show firewall policy": {
+"records": 4,
+"sha256": "89794ae5151a2f66195546a5112f421ff864815de14f0a0f09cc28b14cb797b6"
+},
+"show firewall rule": {
+"records": 5,
+"sha256": "a669e123c69de91b9ee9683d28ef6ad139766b54a7b6bd07589a0fdd3dc11d6c"
+},
+"show firewall rule-list": {
+"records": 5,
+"sha256": "862449bc58d0fb98f6da4d4b0fca410985ba7e90e55f9e2f93f03c614d09be6b"
+},
+"show firewall rules": {
+"records": 5,
+"sha256": "7d57ada968b3da4b820fd04129b8341838b8f3e3ee1e19cd33e2847e20a5263f"
+},
+"show firewall rules detail": {
+"records": 5,
+"sha256": "571537fe6852dc1d27b9f1309c0f721620a6388f0457c9e2652e8daf19d9d4e1"
+},
+"show firewall rules summary": {
+"records": 5,
+"sha256": "f81d2563dfad9607ef2fbd8e62ee5dfadf631e4500dd993852a962c488d41f3a"
+},
+"show flash": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show flash:": {
+"records": 6,
+"sha256": "9c67b8f7158261db360721bd2dea157e371a03d546260938f9c59a624da6c0ab"
+},
+"show forwarding adjacencies": {
+"records": 3,
+"sha256": "f770870ec99092d0dd3e9d3592251c8caa30412554d36aec02c402df912d5bc3"
+},
+"show forwarding adjacency": {
+"records": 4,
+"sha256": "5df379f35c8e7efeb171b80ef55a2294469c712f0badf3cfcd289c2e56fa703d"
+},
+"show forwarding adjacency detail": {
+"records": 2,
+"sha256": "0c71799c0c09e6ed3b63b8ada122ed6b2b73b99777dbca26550a62261558811e"
+},
+"show forwarding-adjacency": {
+"records": 3,
+"sha256": "90cea53ab6fe0ba38ba8ca119d79409c862b8a470c2f4f49fc941fbe8215c955"
+},
+"show ha state": {
+"records": 1,
+"sha256": "127cb2a4944c662cf1549992b4a1b5c3e07e466378345d9f65358eeed45edb10"
+},
+"show ha status": {
+"records": 1,
+"sha256": "4dffaa1bb2a5730739793caa4a304a418bd2815e5dc6ffc2d6774a453999bf76"
+},
+"show ha-state": {
+"records": 1,
+"sha256": "cb497cbf865c103f5549215f72e06e16c13ef97bd97975e94870c2361e0f808d"
+},
+"show hardware alarms": {
+"records": 4,
+"sha256": "5b50abb6c9532118e50a6f4a94fa066d5105ee59a42c97579d11d9610111dfa8"
+},
+"show hardware details": {
+"records": 2,
+"sha256": "c06a22064eb65a8efd8a2781053c5c902791dca5bea4ba31f2aab3cd88cd2266"
+},
+"show hardware info": {
+"records": 1,
+"sha256": "aba6ef50a180b07ede248e1e99fa1799442276449d02cc285a40b62e624a260d"
+},
+"show hardware status": {
+"records": 4,
+"sha256": "70a0459320ef409e746268d97f6e0e5cb662189ad23548ec69da0004944edd24"
+},
+"show high-avail status": {
+"records": 3,
+"sha256": "a5306ae0ae028aa5c940b8ff08091580d48c09ed401169e2845099eec024d06c"
+},
+"show high-availability": {
+"records": 3,
+"sha256": "e48e0276d082bd98225f8e1af0393963e0a310d90f47e4506a383f177f301e89"
+},
+"show high-availability all": {
+"records": 1,
+"sha256": "b069adab4f835fb6b8e0015392b092998ca7f638d65384c1b0bfd9cc45fd19d3"
+},
+"show high-availability detail": {
+"records": 2,
+"sha256": "8454f20575b75973ffcfcf2cae3dcf5978f8589f7e329271aa4349e412767e71"
+},
+"show high-availability state": {
+"records": 1,
+"sha256": "31b097f661f75d91720f14b3bb53c39e058c875da7480da1f92e79732a02b04e"
+},
+"show high-availability status": {
+"records": 2,
+"sha256": "b3555a0036a6347997cee54b632e78c656d8e613e7947500e25ed0e8342d7840"
+},
+"show high-availability summary": {
+"records": 1,
+"sha256": "fc941028750245b62e905dbfaed307f55a6bb63cfd8317c66b24e9e70e5758de"
+},
+"show hostname": {
+"records": 1,
+"sha256": "2809cfcbd36b3e5dd4ee32276ec4b976af66a874d79bffb05c2b92c61f11122f"
+},
+"show hosts": {
+"records": 6,
+"sha256": "7e98333ce8f84907099d1ef577ffd9d84d28b1fc333074ba0cd9c0e987becd82"
+},
+"show hsrp brief": {
+"records": 3,
+"sha256": "ee4f6fb10b40ce1e4c2484cfb7185c5c2a4c2016b48d078971d064c21e1c5b04"
+},
+"show int brief": {
+"records": 4,
+"sha256": "4143704d6c559b36f40805642a7f5331416661931f47e1fbd45b4d3012ad5494"
+},
+"show int status": {
+"records": 4,
+"sha256": "83d6ba0ec1c4e392466af0af026bedc4d5160731880bd6c909a1ab547f517fad"
+},
+"show interface": {
+"records": 3,
+"sha256": "3b44d433f1cc881ebdb6075d8426bc5d710014bb7654b0d34b7c54bffcb352b1"
+},
+"show interface brief": {
+"records": 6,
+"sha256": "4d8c89149669dfe329d894d67290ba206a259a48a1569a58426dec5ba01f910e"
+},
+"show interface counters errors": {
+"records": 5,
+"sha256": "9e0e81d2b0e1fe418565c86a95b7a1482b10fe43634baa2b90220b9ae6b41867"
+},
+"show interface description": {
+"records": 5,
+"sha256": "9251af2c53bbe661d135fbab510046438e9fdf401fd9032b16f33e73c8c93b23"
+},
+"show interface ethernet brief": {
+"records": 6,
+"sha256": "59ed06920bfd7dcb37f327d3f7badcc6132de7529771fdbc83c91f638f935f60"
+},
+"show interface logical": {
+"records": 1,
+"sha256": "99e584ce5773b134d83346839dd9848aaeb1ed2ea6d6b89875f3cb2fa5c6ca48"
+},
+"show interface management": {
+"records": 1,
+"sha256": "99542198ef6794553ebbf1ded350029b8f0257dd0bd18b009c00296d80c977d9"
+},
+"show interface status": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show interface summary": {
+"records": 1,
+"sha256": "5d6e3ae51c86a9f00ee417adac341d169ba4719beea31f0198646aff05d1c30a"
+},
+"show interface terse": {
+"records": 2,
+"sha256": "b629b4dc59da17758110a27b8723553defa456235d0a87b6d760cf43d3e9c230"
+},
+"show interface transceiver": {
+"records": 4,
+"sha256": "6e94aee46c20defa8cdcc2d381e6506bf91a4dafb16776c921e57821a0016c1c"
+},
+"show interface transceiver detail": {
+"records": 4,
+"sha256": "ef71ce2ec87426120f488b49cd8128e51859d596bc267676cd72376570c7a733"
+},
+"show interface transceiver details": {
+"records": 5,
+"sha256": "1d69a66f27e550486d6cb6b36d84d67775e9c9c3782c80423d56112411a082d5"
+},
+"show interface transceivers": {
+"records": 5,
+"sha256": "5ab054e0b7867b75f2a6f03e230ca9afd3cfa9f1c49f1ecbac29de8479f7025e"
+},
+"show interfaces": {
+"records": 4,
+"sha256": "db0519f7e571d93700bf5f3f15aac23ef8331f24ca93004fcd8f7091439b5edc"
+},
+"show interfaces Ethernet brief": {
+"records": 4,
+"sha256": "f2dbc7b3ba682a8f684b4e6f2370fd72afc7d0f86df5bcd5f22885a51ca53ebb"
+},
+"show interfaces Gi0/0 status": {
+"records": 6,
+"sha256": "29c70b38182899f32e449864e6dee9147416a5619cf2216464c614ad8df5c33b"
+},
+"show interfaces brief": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show interfaces description": {
+"records": 4,
+"sha256": "8e0a2dfd221a998bda2426c4f419fcd8646f6c848c22a7ca2951b8b681372369"
+},
+"show interfaces descriptions": {
+"records": 5,
+"sha256": "f2e0d20b8ae3b36b521485d83a5d88aa2e9692cb204057f697ed4bfbbadafa80"
+},
+"show interfaces detail": {
+"records": 2,
+"sha256": "694336904a5364659fdc0377298f9eb39454f935782cd66d08e2a7fd44484180"
+},
+"show interfaces ethernet": {
+"records": 4,
+"sha256": "8680d1239a353a79fa65cdfa7f5b895d9435f48aca02cac1decb2ddd7f4f12ff"
+},
+"show interfaces extensive": {
+"records": 4,
+"sha256": "ebc82c0fe96f99e0d07422d1c5c015201aacbbca624853dba1676e53e39984cc"
+},
+"show interfaces fa": {
+"records": 4,
+"sha256": "fc10aaf805d3b813d9124b9dc370c12907ec3b2f32e4c61ae2e0a64e5f2fbada"
+},
+"show interfaces logical": {
+"records": 5,
+"sha256": "a9e0a25518a4b1fb0210fff285b5a09d5af8fb2f4a95c93009e1f87d98b30bcf"
+},
+"show interfaces media-type": {
+"records": 6,
+"sha256": "9fb144cd44306b78a8352df29fd7abb2374c63038559cf1ee0a321336a8ddfe1"
+},
+"show interfaces status all": {
+"records": 5,
+"sha256": "c6e493ab347df0ef840b00f6f26759249acb7ee9a19f6f6f6a7deb2a766cbc79"
+},
+"show interfaces summary": {
+"records": 4,
+"sha256": "267c99fcfb7d26b95529c53fbc354cc438f7e99badde2c021e9c23a14fa89b97"
+},
+"show interfaces switchport": {
+"records": 3,
+"sha256": "a0eb979233664da1e3600b92704083fde3481d0bade5ba90345f4ce0a8c664f9"
+},
+"show interfaces transceiver": {
+"records": 3,
+"sha256": "422a3d97a17f660b29b1358a4c2a96f601b89f2346bec8183eb6f33a428e854f"
+},
+"show interfaces transceiver detail": {
+"records": 4,
+"sha256": "04c34b6ebd89ea21eeecf5002efa6d0e1db54f64c3e0dbb97a197607b7952b31"
+},
+"show interfaces transceiver detailed": {
+"records": 4,
+"sha256": "2e3158fdd570e2bffdb3ac150598723d11f96f61cbf4f5c393f1f8f1d2184ad9"
+},
+"show interfaces transceiver details": {
+"records": 5,
+"sha256": "d3d0ab1b5accc29ce16c81140b97008ca42f5d1222355723356e0d4b09b16297"
+},
+"show interfaces transceiver diag": {
+"records": 5,
+"sha256": "44277fa56e40defacbbb98ecf482b460ebf635b18c6afc2092533c95f8eb44fd"
+},
+"show interfaces transceiver diagnostic": {
+"records": 4,
+"sha256": "2211401279b02221f713c4aecce949f6d291288ed22acb20db6399f7452f970a"
+},
+"show interfaces transceiver diagnostics": {
+"records": 6,
+"sha256": "88d69388fc0860a2f4c02ae723d0215611b78b7269ab035d0b9374d014ba8778"
+},
+"show interfaces transceivers": {
+"records": 5,
+"sha256": "fdff96114f8a5aed901b9ce189351ffebe57e76cb06443268ba6e801eed30cb7"
+},
+"show interfaces trunk": {
+"records": 4,
+"sha256": "919444c14a23c6491deaa25081a796e39034fd3125f32fb25462ce9e2a447235"
+},
+"show interfaces verbose": {
+"records": 3,
+"sha256": "807f076a9e6fe3f526158f9a2699ea60446704e56c22e2f734598538492b8b06"
+},
+"show inventory": {
+"records": 5,
+"sha256": "6e49e4428235b6b5a5bba1770090686cf837be94e06621010ea997a938f23e7b"
+},
+"show inventory all": {
+"records": 4,
+"sha256": "0d8e592ec6936888f8e7eaa5ce502388859634c5ec75438c31be7b5389688960"
+},
+"show inventory fan": {
+"records": 4,
+"sha256": "26388bd8b72b3fa1aff53630a90fd29bdbc583e73f3d9fc49f9e06ef2a7efb6c"
+},
+"show inventory transceiver detail": {
+"records": 2,
+"sha256": "6b622233841ef375f32b1aa0ea1a6fa00c10a1c5377abd81bdb1f4fd2e2810ac"
+},
+"show ip access-lists": {
+"records": 2,
+"sha256": "576a23519da53c572e5dc06be1da284286bb70bf3e899546bd71efcdda4d29d3"
+},
+"show ip adjacencies": {
+"records": 5,
+"sha256": "33f280cc54407d2f2d851818496f6c1d07fdfa904468a6b8baea9f93de96568f"
+},
+"show ip am adjacency": {
+"records": 3,
+"sha256": "1efb41d432be7e8d21a04a2b973a74000d058a259c78bd5b12112e37944259e2"
+},
+"show ip arp": {
+"records": 6,
+"sha256": "83869fac59ff6a57581e2c7951bb3478982aaa9999cb306c674857b027a27b0b"
+},
+"show ip bgp": {
+"records": 1,
+"sha256": "f50ef26a89bde0224391b08bbbbbc78be4fe535539add538238f6ad88988eaff"
+},
+"show ip bgp summary": {
+"records": 4,
+"sha256": "c41aabdc400eaaaca9308a2227c893aa0ad2a6cb2d5d29f54c9f68220d04c15f"
+},
+"show ip bgp vpnv4 all summary": {
+"records": 6,
+"sha256": "556287a978214b246305470beb9f304d7c0085e1b164d9c6b5e01541ab316faf"
+},
+"show ip bgp vpnv4 vrf all": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show ip bgp vpnv4 vrf all summary": {
+"records": 3,
+"sha256": "dc71347bc58a80beac301ee566ebdb74807a0c6f0886f6d39184b94c295b6cbb"
+},
+"show ip bgp vrf all": {
+"records": 1,
+"sha256": "d384edc18dd195881e3e432fb68cf6247c00c30a20cb3dfc85bda3582abcaaf6"
+},
+"show ip bgp vrf all summary": {
+"records": 2,
+"sha256": "9fd8d7ac47c31b5da6d080ccb74da97648ff9581e9cccdfdce9817a73c7592e7"
+},
+"show ip cef": {
+"records": 4,
+"sha256": "a65f133fccedc4e330223659d0c99b67a423f9ae697e5f8489ec78f2589f2487"
+},
+"show ip cef adjacency": {
+"records": 2,
+"sha256": "00cf0a4abe218963bee919378ba89964af57cc9e576a9f25c862467b722c4fd4"
+},
+"show ip cef adjacency detail": {
+"records": 3,
+"sha256": "b3949db4213b6c86d087cb27fb131c89588d1a41710f30ddb85326051d2dd1bf"
+},
+"show ip cef detail": {
+"records": 4,
+"sha256": "eccf31cd573a3b7f74539fcf730a09b8a22374b0ccbe13f8ee2b2bfd8aa37527"
+},
+"show ip dhcp binding": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show ip dhcp bindings": {
+"records": 4,
+"sha256": "d32e35ae3cebab1b3bdf9539d753ce9b61084458f45c3b7b8a2c61b264a57505"
+},
+"show ip dhcp lease": {
+"records": 3,
+"sha256": "b08e7f66cec9a9e2a7477b3da11acc8104c6e74b7124683295e702a5ae508dac"
+},
+"show ip dhcp relay": {
+"records": 4,
+"sha256": "cef8e1ad4de593a18f42f96719889285f3594fee52a957402dfe261e2d3433d4"
+},
+"show ip dhcp snooping": {
+"records": 1,
+"sha256": "651fc31562f41c1c846fa976d024b1b4db7d485dbf8115c685c107a368c00c0a"
+},
+"show ip dhcp snooping binding": {
+"records": 4,
+"sha256": "14b661071149ae63c73b3c44fa59e2631dd9a9bfa40ab1c66e98d352e1c8a2eb"
+},
+"show ip dhcp snooping statistics": {
+"records": 4,
+"sha256": "f69ee020ea084d7762155ecae84b8f6fe0e7fadf4aaa377309988715d598b025"
+},
+"show ip dns query": {
+"records": 4,
+"sha256": "7996be4931e7721aa8ee8adf86b0aea70c36b7c91a6076e9143e497a107133d7"
+},
+"show ip dns view": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show ip dns view all": {
+"records": 3,
+"sha256": "219385fa0e03366cb328126b54ccc4f5e15c24ab26d84f44237a544517ea7894"
+},
+"show ip dns view brief": {
+"records": 3,
+"sha256": "7a41ecc380ad9f07ff175ebadbbd32b1484cb9843bc13191df7563e2996085a8"
+},
+"show ip dns view cache": {
+"records": 5,
+"sha256": "36d64c0312b2aa9ec8d17d079aeef0e3ed434d6f56087b106e4eb0ccb86e9f0e"
+},
+"show ip dns view sample": {
+"records": 3,
+"sha256": "8546e01542e1a6ee5573435fd1aa56ee6a0d16cd17e06319c4cf24f9adb8fa79"
+},
+"show ip eigrp topology": {
+"records": 4,
+"sha256": "b9256a00d9548e925eb3cfd77710feb3d038b0837d40d82b867309bcc89c8311"
+},
+"show ip forwarding-adjacencies": {
+"records": 5,
+"sha256": "6a58bdcb4a38d2044122e4b3d43df23e185c32c5590be375e07a194a610211b7"
+},
+"show ip forwarding-adjacency": {
+"records": 4,
+"sha256": "1e69e4fe5b0b813a62fe60940dd1031ccb29948f407bc014086671e51debe806"
+},
+"show ip igmp groups": {
+"records": 4,
+"sha256": "4e34087832fde1405fd3df7574f406d6e7721ed9488a1510a36344826693bb8e"
+},
+"show ip int brief": {
+"records": 5,
+"sha256": "38a1a93622458adce16a0094d4c9f7825c4f64cdac10051d1d030a4f10becc8d"
+},
+"show ip interface": {
+"records": 4,
+"sha256": "859cea405640384cfc7f3c8805c056b548df27a68b7397f46298efec163cd4ff"
+},
+"show ip interface brief": {
+"records": 5,
+"sha256": "1033dce905076e94cc86a4bdb86a1a3bb664cb7af6d77f668b7b09b4055c5907"
+},
+"show ip interface terse": {
+"records": 2,
+"sha256": "7eff7c1cc66dec84ddd196a01d537a81b746d14b39ed32a45892e9037efd58e9"
+},
+"show ip interfaces": {
+"records": 4,
+"sha256": "217f932314c8e2b3cd19e68e55c089e3eb89cd9bd16467cc6ff70952548ee906"
+},
+"show ip interfaces brief": {
+"records": 6,
+"sha256": "3a5585b897bcc3b8e2e4210435326504fb47b49c553710038834b3a5cd69c2e6"
+},
+"show ip mpls forwarding-table": {
+"records": 4,
+"sha256": "cb278889cec0b6e057b26f4537c251d418c3d5a05ac44abdc1ac5a0cb461ad5c"
+},
+"show ip mroute": {
+"records": 3,
+"sha256": "0f778ca982446cb8439a906499d41e0e43f13f1aa6b65579b7c852d47497c53d"
+},
+"show ip msdp summary": {
+"records": 3,
+"sha256": "023b0c8aaa42ccabcfe0cfbf3e4f8507e37eb83105158a4e1aca007559db2bac"
+},
+"show ip multicast": {
+"records": 4,
+"sha256": "f00752b0d821f638d6d2265d67b413a5277775c495e1acf13a8177abd5ebda41"
+},
+"show ip multicast mroute": {
+"records": 4,
+"sha256": "943019cc7a9695142fd312a9203870d962cb13e72a389c206df630e050b47feb"
+},
+"show ip multicast route": {
+"records": 4,
+"sha256": "4eda174074ab49bc64f4487ef8ac16768f43db88aaf6b31286c91fbf546c6cce"
+},
+"show ip multicast routing": {
+"records": 4,
+"sha256": "41fe6c04f254e6ae7948038d01a40f4855591f63185adf3c1d1e34b01c86afaf"
+},
+"show ip nat translations": {
+"records": 4,
+"sha256": "bc637d04a3c4317e140a5e8087a85745f84f2863be87b0a4b249ab02fdecaf51"
+},
+"show ip ospf": {
+"records": 3,
+"sha256": "667fe0a766ea344d87241e62a4c6fdbb72da9a472e2f44848df7b9ea662f4c95"
+},
+"show ip ospf border-routers": {
+"records": 3,
+"sha256": "340a3d0c57df1606f7aa39f5900ec7e1c041c56467c94ba7713509a3552fc144"
+},
+"show ip ospf database": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show ip ospf interface brief": {
+"records": 5,
+"sha256": "a6aaa1d3b2a34a0e28dd46f08daf82a31a68c68c024415223a43091a5376694c"
+},
+"show ip ospf neighbor": {
+"records": 3,
+"sha256": "9c5d52d4386d1d67f2a5f70579409601f71a7ca540d04bfe8d26d25fe73e3762"
+},
+"show ip ospf route": {
+"records": 5,
+"sha256": "fab5572a601e788c300059101fad1ff2e5233b5badb0fb2ff1e42a33958d01b7"
+},
+"show ip pim interface": {
+"records": 6,
+"sha256": "474f1f688be3c4bec278bc9b7650c44aad37d7d1f08abcb5bbab2c4d999f89cb"
+},
+"show ip pim neighbor": {
+"records": 4,
+"sha256": "ea751a4a65f5baf20eae8844b8a4288a1838c61a8ce430655b3ae78588e8bdc8"
+},
+"show ip pim neighbor detail": {
+"records": 3,
+"sha256": "ad2104431a8a114b98d2b6ca2510dde746129eaf28dd57f01c8afb4f454eceed"
+},
+"show ip pim neighbors": {
+"records": 3,
+"sha256": "df237139605aca796de076d0d169de7533a78440e1ff1f685019b287631968e3"
+},
+"show ip pim sparse-mode rp-hash": {
+"records": 3,
+"sha256": "af68ae62874a945158d669d1abec45daf9219fa0b166410fb1e3ab617633c2a2"
+},
+"show ip prefix-list": {
+"records": 4,
+"sha256": "084e4416444aa69356dd5f69910150483610411a6a6ccbdaf343d19273994690"
+},
+"show ip prefix-list detail": {
+"records": 1,
+"sha256": "371f3a84e3a49f9271221e3e4c3d48430a037c88d81e6299743e967945ab1258"
+},
+"show ip prefix-list my-prefix": {
+"records": 3,
+"sha256": "a1b2d83ec721fd793df271eaf71c884b1fe138c6465e58cde29052a075eb1597"
+},
+"show ip rip database": {
+"records": 4,
+"sha256": "c44a61944ef57228bd35e46fbace40ec5b14e17914f3f52b4cbdf754fcd32756"
+},
+"show ip route": {
+"records": 4,
+"sha256": "b3a427b0416157b58adc525d7e461d714c26e4dbcd4d78f96a572a485cab4aea"
+},
+"show ip route adjacencies": {
+"records": 4,
+"sha256": "c02f2141899ebb8ededc32e156c1d777fc5b2ed62832c2508944e97232d2b454"
+},
+"show ip route summary": {
+"records": 1,
+"sha256": "2283514a2967a8ed91830819705fe314f63a70c9ead65afadc814e7795263bfd"
+},
+"show ip rpf": {
+"records": 3,
+"sha256": "0df7a8cba866e54bed32fe14e4fce30892b882cd8056e6f3020f2f1ac48c6aa6"
+},
+"show ip socket": {
+"records": 5,
+"sha256": "f436b3f0b7717fa8e254639411ba6cc260135369b412bba4e1dcacd85d56b755"
+},
+"show ip summary": {
+"records": 5,
+"sha256": "b2a9d838e6750a7d7105ce3b16e50c85ff87ebeae329b972151028736db7d5c0"
+},
+"show ip tcp brief": {
+"records": 6,
+"sha256": "a0f4c7af9bcbce35772981d8971e6aa488e7710fed920df912bf56fbf22441cb"
+},
+"show ip vrf": {
+"records": 3,
+"sha256": "958a8af94e36400efe0f8489e6867f3c499cab631db8ee2b82863434257549c1"
+},
+"show ip vrf int brief": {
+"records": 5,
+"sha256": "256973118673fba9e3da8f0106291290bfcd3760c657ef7c89b5bb01d862d168"
+},
+"show ip vrf interface": {
+"records": 3,
+"sha256": "b76ac3cce127ef23347b536423943ec7dcee00b63cd2256392e125f0297fb05b"
+},
+"show ip vrf interfaces": {
+"records": 5,
+"sha256": "80e411a363fec2cacc5b232df796f1168393231c4ddab849b61a5ea8c05a9d5f"
+},
+"show ipv4 forwarding-adjacency": {
+"records": 4,
+"sha256": "1f22acef742efefe157b075ed82301aa8a52154d973388d981fe85c76c038603"
+},
+"show ipv4 interface brief": {
+"records": 5,
+"sha256": "27db4cc62d893077afd8a2db5313c81eac18fad7d80b713abc61a0d105b6ae18"
+},
+"show ipv6 access-list": {
+"records": 5,
+"sha256": "fde13122d7f108622afbe8d9fd3703621cc7966ce26a8e2cba16966b8e9fe1a4"
+},
+"show ipv6 access-lists": {
+"records": 4,
+"sha256": "94c393ae3f2f87615a2c4880f91b03881a61014e5fef6e73c00c72c2c1d36480"
+},
+"show ipv6 interface": {
+"records": 1,
+"sha256": "9339e071df31e0996dc0563b47c819049fccec90fe96765fed8b1443dad551f9"
+},
+"show ipv6 interface brief": {
+"records": 5,
+"sha256": "c4154068d13226879dd22627636649cf2397f6d443c094338a2e8fadecbd2eb2"
+},
+"show ipv6 neighbors": {
+"records": 2,
+"sha256": "d6f5b4e05f510e3491e7115f7204b29ae42014d36ab06a6c2948e6910a791f88"
+},
+"show ipv6 route": {
+"records": 3,
+"sha256": "d848e6db94d383baf2816293198bd3015eb3bdb2a38c74e5af28ea62b6572904"
+},
+"show isis neighbors": {
+"records": 4,
+"sha256": "7b9446c6a80d647888ffd48d8b4ff386f9a8ad0bff69064a3fbbdc9fb302521b"
+},
+"show license": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show license all": {
+"records": 2,
+"sha256": "f8ecc0a2f902dfd40df632d09049f64b04344bebd37fa2cba92af1c61dec2ed2"
+},
+"show license status": {
+"records": 4,
+"sha256": "a475be728c9608a0af3736c1f8de91ace962d7119f123db90d508bd0ed35ce09"
+},
+"show license usage": {
+"records": 9,
+"sha256": "77d51012b23443eefeb81d1c64a4d60a780478877b9f58bf55c51dbd8bc0a55a"
+},
+"show licenses": {
+"records": 6,
+"sha256": "0614dc4c56133d8f1ec35beeed78f83aacff057f186e7a72a5d4c7d0dc60ed8d"
+},
+"show logging": {
+"records": 3,
+"sha256": "c94c7c517c613c458d4a414b3156855b41e778b744c2ff051115ff74620518a5"
+},
+"show logging configuration": {
+"records": 7,
+"sha256": "bda6de110f61c820c3000e0aa549233675a0f721351100fc5bb157904a7b4190"
+},
+"show logging counters": {
+"records": 7,
+"sha256": "8b69427b13560eef4ad9f1af678a08386c23ce4eab51ab0d24d13798c6bdaeb2"
+},
+"show logging info": {
+"records": 8,
+"sha256": "1298ff018f977d43cf413bf20779cc5290ad6a2211bb1143f212be907466b354"
+},
+"show logging settings": {
+"records": 2,
+"sha256": "f8aaf1b6d407ea4d5e5e9fb6482419869b1b16da82b9e0bfc6e77c0773c18a28"
+},
+"show logging status": {
+"records": 1,
+"sha256": "059a7ec4d0dab0cf59744f7a1971c4eefb623fcb033f833010777c86cd9f8a51"
+},
+"show logical interfaces": {
+"records": 3,
+"sha256": "31bee33b8391264c3456759fd76aca57a91dc173999153ec642e0f5d62e4a470"
+},
+"show logical system interfaces": {
+"records": 1,
+"sha256": "4c8e74ca2aa2adbe832c5bc393b5bcef5b7cf949fb7a1af31517f7a786387c9b"
+},
+"show logical-interface": {
+"records": 5,
+"sha256": "31a8f0ade51ff000cd07ddd7fcd5995a172facf911b92b470c6bb3ac38ca0bc6"
+},
+"show logical-interface brief": {
+"records": 5,
+"sha256": "16fca0954c4d59dbbaa8232a546c48c50f24ac2511dd420475c8f9a9e68a6e73"
+},
+"show logical-system interface": {
+"records": 6,
+"sha256": "e811ccd68618b738b3ad1d5c108ec86cfc3b76114559b2491238a7330cd1b759"
+},
+"show logical-system interfaces": {
+"records": 4,
+"sha256": "251b31a743498613f8fb49b46c9b414185f1e7bb4b06abec35852fb9c18ef4ab"
+},
+"show mac address-table": {
+"records": 6,
+"sha256": "90b0cf5a8801aab0a9c73117621bb8894b474355bfce5fc95fb8f681721ae3cf"
+},
+"show mac-address-table": {
+"records": 5,
+"sha256": "fd41aea61ce5eca60241f8ed2d61be31ba1d29a3f2a2d1ff1751efc23dd4f9c0"
+},
+"show memory": {
+"records": 3,
+"sha256": "7a11d160ec3ff86866f49e46f74e6dae32b69fbda5aad9fce3ea0225bae17167"
+},
+"show mlag": {
+"records": 1,
+"sha256": "4a37857ae0df9a212279f017b6b1111a6f81058defc8446fa381c39be023a9a2"
+},
+"show mlag brief": {
+"records": 4,
+"sha256": "97f6d2ac1b776dd07b0477d9a99de7d100d61dab728546e4d918b3c70feb81ec"
+},
+"show mlag detail": {
+"records": 3,
+"sha256": "b68943a4e3a3fc95fe97864f13c12c9b57faedfcb8d5c6caf2dcb9d795a1f34c"
+},
+"show mlag interface": {
+"records": 4,
+"sha256": "35c6fa0b18a3a4c6b6b1b775af60e4d4b76c18acb2b8d4b86a573a2e7ab3e314"
+},
+"show mlag status": {
+"records": 4,
+"sha256": "d2c5928bcd15fc6425aec4d4aa792d2d4248f81f746cef8eeb6325cd0c6817fc"
+},
+"show module": {
+"records": 6,
+"sha256": "514796456afeb6167aaa669e09af2194fe4491463982ec3d10c58c74fc1e0c2b"
+},
+"show mpls forwarding adjacency": {
+"records": 5,
+"sha256": "6f82015d3728bdeb7854897ba7130029784df6cccb2981fd2960d85b6b188dc9"
+},
+"show mpls forwarding-table": {
+"records": 1,
+"sha256": "8b93abde65b930f46263eb8d584d9ba206dd3fad37541eb17bf3469b4705522a"
+},
+"show mpls interface": {
+"records": 4,
+"sha256": "2acd01e79d0ffb8320c97f4f8dc0d7c5638cfbf51c05daee05d2e57a2f3fc281"
+},
+"show mpls interface brief": {
+"records": 5,
+"sha256": "322bff6687f5c2ebcd77d8c07930456c01a67589876d90341036df5e93eb116b"
+},
+"show mpls interfaces": {
+"records": 4,
+"sha256": "609e6784b0ef7ceda0c044cd1367e1608c2b2ec5f9752238126fb01aefd2ea2a"
+},
+"show mpls interfaces brief": {
+"records": 5,
+"sha256": "c34721abdb0183b1388e8b999d1a4d0b73ae74e8eaba0970046d17246cf2ff36"
+},
+"show mpls interfaces detail": {
+"records": 2,
+"sha256": "93e7c13a1617f8bce2fe51af50e143380be6709f24fd39bc63b2fbcd13b9d6a6"
+},
+"show mpls interfaces verbose": {
+"records": 4,
+"sha256": "c083e41db16d32b72df3748d8170bbc5682bbd23feb2fb87319d0e7b86367612"
+},
+"show mpls ip bindings": {
+"records": 4,
+"sha256": "8c761fa0406f9b1b942b9240316e2204c9f5572440a29b88150f8156b2945f3b"
+},
+"show mpls l2transport vc": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show mpls l2transport vc detail": {
+"records": 3,
+"sha256": "ea132043f645924c44cb2f7ee349cf53b82a88be10ed8d9f1912a85d500783a3"
+},
+"show mpls l3vpn vrf": {
+"records": 6,
+"sha256": "058ce809329fb3f9e51a6e8b6bb3e525a4b1b3639ebc72c3b63b98269916da5d"
+},
+"show mpls ldp bindings": {
+"records": 3,
+"sha256": "1af97f6a1b867da7e793998e5646ad80eda7fe376b0b76b0f25f9843afaf5533"
+},
+"show mpls ldp neigbors": {
+"records": 2,
+"sha256": "f4bb01836adb5cda6cbb0f9791f8e2c562176690d6d42873db2abfed7e0a7fda"
+},
+"show mpls ldp neighbor": {
+"records": 1,
+"sha256": "255ef5c5dd24cc06cc33fdb88ae8d636952c7d7ca28be989ddd6b3ceba717a50"
+},
+"show mpls ldp neighbor brief": {
+"records": 4,
+"sha256": "f74c8a34137d12a83aa6683ec298ea23060881b7fa057d98bc8dafd74d716d64"
+},
+"show mpls ldp neighbor detail": {
+"records": 2,
+"sha256": "7ccc12bab083bc835180e779f3944b9acafd2813f28754b89c203debbf13420d"
+},
+"show mpls ldp neighbors": {
+"records": 1,
+"sha256": "085b18d4a830f10987787b5ed462a0ac3da7efa8e48eeaa55f0af3ca4f358fb9"
+},
+"show msdp summary": {
+"records": 3,
+"sha256": "abb4a89ff30602ff3ed0283db983b319683720b7cba40a6ffd1bb6abca4867dd"
+},
+"show nat translations": {
+"records": 3,
+"sha256": "1b852a66c360f603d0bc7a33ca84f5cc51a9ca2a369f9a0afe4964d801b899bf"
+},
+"show netstat": {
+"records": 5,
+"sha256": "83ad044defaa5548acc6b10cc5b2fd54be86c409adf314833c1138e496de5da8"
+},
+"show netstat -an": {
+"records": 5,
+"sha256": "f93dc377b8da848fb43791d8ad1ee5f1acd6c992f89670212faa0fa8fdec3931"
+},
+"show netstat -tuln": {
+"records": 7,
+"sha256": "e8af42a5f7f7141169f3933e2e25f71431a1bcc4bee6239f8002022175ff2e36"
+},
+"show ntp associations": {
+"records": 4,
+"sha256": "27967b9b9dc0f5299a46fa3854c0576df6d290fb4f34bfba05edf2af345f6140"
+},
+"show ntp status": {
+"records": 1,
+"sha256": "9a61855f2d480f3a26d0b4025d1785df165013acc65f98323b4cba2bb4c79636"
+},
+"show nve peers": {
+"records": 3,
+"sha256": "e53e4707e46753a186e390ff5e9c75bb44528ebf568e5bdc5be4f70a8f88954d"
+},
+"show nve peers detail": {
+"records": 5,
+"sha256": "044961d983f5b685a4e573be360dbc54dfff2a39ec78117c4d57c39d8a389e67"
+},
+"show nve vni": {
+"records": 4,
+"sha256": "ed153493fc3fb128dff94cef1384157ec755fb9ca145d7c8bf87013154413ceb"
+},
+"show ospf database": {
+"records": 7,
+"sha256": "b0e24fd2f3f42883f0babd1b3c0afad3dd9b6a249696688ab1bc556c2835b258"
+},
+"show ospf database summary": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show ospf neighbor": {
+"records": 4,
+"sha256": "a3fe5d2c28175c4ab2cfa5fea0b3b8b952cdc7efb7420eb013d4d8b32f9bb71c"
+},
+"show pim interface": {
+"records": 4,
+"sha256": "5ff21a7ca0d4d0726ac4eecfca8a796cbbba0a8bcd7e1a8559a0cc588f8423ee"
+},
+"show pim neighbor": {
+"records": 4,
+"sha256": "9aacf49a961d1658fcef42cbb166cfc372faec4bf7602ca1a5b6d878400af11b"
+},
+"show pim neighbors": {
+"records": 8,
+"sha256": "d91f3e37cf9fdd914efe3d6105798035d8885a5410b5f0301cb49a8e80f977d8"
+},
+"show platform fex all": {
+"records": 4,
+"sha256": "db7fca8721f3107d8557d1a63cfe8ff339981bf2d270636d5c0d702a5f834d71"
+},
+"show policy qos": {
+"records": 5,
+"sha256": "309dbde01266465a15d2575665a2c52d72e566b6c8771bb8e141f827d9fa0d70"
+},
+"show policy-map": {
+"records": 6,
+"sha256": "9514bae0a8451641e62f3d85f061267cadb44aeba76b0b02841da2f3baeb8c34"
+},
+"show policy-map interface": {
+"records": 7,
+"sha256": "55a2cd532986d1f1bd0f0a79c91127f8ed1dbe0d5dc6777aa34bd221cea117ff"
+},
+"show policy-map interface brief": {
+"records": 6,
+"sha256": "01a1ed70aa5765ced71af38c84a485897ec0ac11cb59b728abd69b5c541860f0"
+},
+"show port": {
+"records": 4,
+"sha256": "edd6d9b25e2d9d7a0aac7590d49fd05bbcb23be03d39aed24216fcef45abf9ec"
+},
+"show port all": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show port detail": {
+"records": 8,
+"sha256": "fa41b29fd14841df71d122ff311fe4a479e09ff4cd6cf1776b334b41cbb3a0fd"
+},
+"show port link-status": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show port status": {
+"records": 6,
+"sha256": "559aa6eac604f6e6232a418ef9f3e77d89bf78b78c7b5f90db0789405585c175"
+},
+"show port summary": {
+"records": 4,
+"sha256": "a8d9366eee6e4befae91cfe696ae1e9529397e9123ab92801d5470fd86b21237"
+},
+"show port utilization": {
+"records": 4,
+"sha256": "368c95d36e1a31e613edd937598eff73264d6cdaa2a58518ede4e4703738eb6a"
+},
+"show port-channel summary": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show port-status": {
+"records": 2,
+"sha256": "4b8765cc270e18162155d523ae6d3f5cb0590884a4119fc23a36e4251a663a19"
+},
+"show power": {
+"records": 2,
+"sha256": "dd74e171ea4ab0e9e37dae88fc5cac588e20c63c445c0ab790fd334fa761a100"
+},
+"show power all": {
+"records": 2,
+"sha256": "0b2183adba8713769a571ddf27a7650d6ef9de87383edb37659f1262ce98154d"
+},
+"show power available": {
+"records": 4,
+"sha256": "c3db23cb74585e27a67f07ca843ecf9f3c7a0b465b5bad1c603f6ffd3c2cb4ea"
+},
+"show power detail": {
+"records": 2,
+"sha256": "599dfebe4c378d828cbda8c754c88ff483f149d5b8a4563011776aa30e700bb4"
+},
+"show power inline": {
+"records": 6,
+"sha256": "70668613c23b507f8228a71fd62196d6be124f04e91ecadc7b48cb489d8f065c"
+},
+"show power redundancy-mode": {
+"records": 2,
+"sha256": "77a29c24680c4486fb6ef2fad45cc4332698415e0fcaf7b4cff5e77792898e2f"
+},
+"show power status": {
+"records": 2,
+"sha256": "cfe0ec4c25439ba2f875c601c49324626cdde2afc7eb288b2b90c2f9d9ddd859"
+},
+"show power supplies": {
+"records": 2,
+"sha256": "0bc4c0cf1661708411172868ae132ad7aa72f1a620e3355e4610508668e0d18a"
+},
+"show power supply": {
+"records": 2,
+"sha256": "16618712097cbff023732b3c0fadf4ab8c9fdcdd45758ca0c504ef7115b9811a"
+},
+"show power supply detail": {
+"records": 3,
+"sha256": "50e23054870cc0bb4e4ebd252e0a47dd233d042bf9f71265e7f5c97746c91345"
+},
+"show power supply status": {
+"records": 3,
+"sha256": "cd0c4a5a2c08d2a3b827ced2ed5aa66fd50d2466e3dbe1b358b2e426e9809f8f"
+},
+"show power usage": {
+"records": 4,
+"sha256": "81d6bef47719f0bfd0e9d165670f6cdd6486fd0b98b86d0c6e5fa3419a3ed161"
+},
+"show power utilization": {
+"records": 4,
+"sha256": "bfefbfd86dcb0e43e364845d926ca54cc396beaefd4963452fb58f2584daeb9d"
+},
+"show power-supplies": {
+"records": 2,
+"sha256": "54efdc3b4c5f0512bbf3d7611e39f26833fe16c5c8553bd5ac44fae783e6e3b5"
+},
+"show power-supply": {
+"records": 2,
+"sha256": "7098f5026973ad08ef31f5ab51d8a0a66a948a686c98ea416f05a6077cd038c5"
+},
+"show power-supply status": {
+"records": 5,
+"sha256": "7433439ef72d5438bee60bbb3af7818301a049fbcf6bd82cdb5850e838bad310"
+},
+"show process": {
+"records": 10,
+"sha256": "51482a42af8cd5aea5c16ac33104b560de0b2ed0598e03c05f5f51d8c7f8ab02"
+},
+"show process cpu": {
+"records": 5,
+"sha256": "3d9a8cd62dcb4a297498c65f5debcfd5fe78122d2d018a9ce0aa21ad78800918"
+},
+"show process cpu history": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show process cpu | include CPU utilization": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show process list": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show process status": {
+"records": 5,
+"sha256": "156e8af944c33ac00d6ee1773f050a98d378a6794422a291f87d7ca6e567c924"
+},
+"show processes": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show processes all": {
+"records": 14,
+"sha256": "15be2463bdfafe8b4299f68238a845f91804d30ba784a7b2b5256a7acffbb25f"
+},
+"show processes cpu": {
+"records": 4,
+"sha256": "b204a365ff9f61a32372aa9ac69d1c280d1c58f39e61cf2c8d28afc34b07a216"
+},
+"show processes cpu history": {
+"records": 1,
+"sha256": "cda3be0de9649aa521b66df27f1ee6dc8c223b91f43e46e230585a32474d6645"
+},
+"show processes cpu sort": {
+"records": 5,
+"sha256": "47ff2aaa92b79a954d2d941c1d796754dcbe5251988654147fa71b98ab11404b"
+},
+"show processes cpu sorted": {
+"records": 5,
+"sha256": "ff2ab57ea06f645740e26bf28cb61a25236897f1ef71b0a849be29597598dff4"
+},
+"show processes cpu usage": {
+"records": 1,
+"sha256": "b3d85551c5e28b8156828e452eb4e9a4c7537e0d9d4f36896d39b5060cb94092"
+},
+"show processes cpu | include CPU utilization": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show processes memory": {
+"records": 5,
+"sha256": "33cca5828dbda9b2efd7b49a744c61caaf6aa521565857fc3f057a5ddc4a9809"
+},
+"show processes view": {
+"records": 8,
+"sha256": "fdbd53d82e54d059730796b51b7747aac36ec8f5c824381aefba4f3774a9176a"
+},
+"show processlist": {
+"records": 8,
+"sha256": "9469edb1890302519b3706f97767cb098c8ceba0da4440a08bbec46bf98a95bb"
+},
+"show qos policies": {
+"records": 1,
+"sha256": "05af711d0553e616f15cdfd52cd70397bd5a9cec1752f4d4fa98e38d079de039"
+},
+"show qos policy": {
+"records": 3,
+"sha256": "f7da14350dc6d4e5199c452da520f0feed79d1419a17f202942c30aa77a44f41"
+},
+"show redundancy": {
+"records": 2,
+"sha256": "f21e74a4c4468a013a330186c2f48db8eb980a456f0a6332fe3aab3a471f16d5"
+},
+"show redundancy state": {
+"records": 1,
+"sha256": "5d26e9a42e49a288f48b248f57519d24c5e7189c47cf03de619109b50323396d"
+},
+"show redundancy states": {
+"records": 1,
+"sha256": "8e45474045133dc264ba1f3971f7bb1612ddfaf8af500723f2525ea8c4a3f6af"
+},
+"show redundancy status": {
+"records": 1,
+"sha256": "c2176719cf80d00ad39726ac761b8036a3c5e53fa3b1382cf6329cec24235468"
+},
+"show redundancy summary": {
+"records": 1,
+"sha256": "c0fa8bf9408b6f3116e06902addcdb933cf6c0b3a137354890069b758efe27e1"
+},
+"show reload cause": {
+"records": 1,
+"sha256": "942ffde12938ab8269f39fdcb7b5798b699e469389c4de6b86f3a0fbb82db46d"
+},
+"show reload history": {
+"records": 4,
+"sha256": "a422883ad7ddb57b6e5c0d70275efb2e573b2621a969aa3ddfb568a2c5ebecfc"
+},
+"show reload in-progress": {
+"records": 1,
+"sha256": "0ff48f891ffa7f3000926ef83f34b61de4acee4768be73f75825d069b89a11f7"
+},
+"show reload reason": {
+"records": 2,
+"sha256": "4ea38d11396c5b331d0b26f3253e97e25be527566c4fff42a19c7730bba003d5"
+},
+"show reload-cause": {
+"records": 2,
+"sha256": "b93f71b69f5c58c8e9cd362a385406e3f8719032afba07877e78007afc9cc02c"
+},
+"show reload-cause detail": {
+"records": 1,
+"sha256": "c8ccd0502fd437c0070e04d993229f23c05efc38423edd7041f165764f8f7f00"
+},
+"show reload-causes": {
+"records": 3,
+"sha256": "970aac61edbfb4769a98721b78353f34c45c98c1c2d1a5d287d6662f501ec78c"
+},
+"show route": {
+"records": 2,
+"sha256": "737d93766022ac046dac7d753d0db53b0a55fcf517cc42713654c31c85d9752b"
+},
+"show route summary": {
+"records": 5,
+"sha256": "b5d92beeecd4f8126829afb54f19e916333be9f0fa963d9761fb2fe3c6fac985"
+},
+"show route-map": {
+"records": 1,
+"sha256": "5bf094ce1bf2d8e21f28623c6007e065dad4a8f123761f211fd8959fda741065"
+},
+"show route-map RM": {
+"records": 6,
+"sha256": "63e4870ff451c6495e932c5aa6b38507a3a785f8b51bdabb3cab2319ce0f22f6"
+},
+"show router adjacency forwarding": {
+"records": 5,
+"sha256": "d5fe3e41ef88f3090c24ba670a82b6f460a211fb3705faa12a24830833d2e9a1"
+},
+"show router interface": {
+"records": 5,
+"sha256": "c1ecfe4bdb547f89a573a07f377cdbf38ab16991292f0831516ebc646c331e8c"
+},
+"show routes": {
+"records": 4,
+"sha256": "eae562ed323050f7dbdadfdab36ea931aa4afea09bb6f822944c6cdd4f649bdc"
+},
+"show routing table": {
+"records": 1,
+"sha256": "ee2cba9ec6c9e80ecff8153251a9a6cd4062da02e606acd33fc37dd97e6d5a6f"
+},
+"show run interface": {
+"records": 3,
+"sha256": "3cacabdc4c700c480851b7c054a5565abd13d0588c042b27b4e65e09662ccdf4"
+},
+"show running-config": {
+"records": 2,
+"sha256": "95fcfe907c781117a033f59f6ef83c04ce5b5505e2b881ade616b982699158db"
+},
+"show running-config firewall": {
+"records": 4,
+"sha256": "795ad5e5af1f85e1ce854d12d5d4d42cc0274d4f69e8a8933727bcd1c01fb1af"
+},
+"show running-config firewall all": {
+"records": 4,
+"sha256": "1ae211915b64340ea3543c92d24fc5656125b395f7f3c5f0c382381e2e35a853"
+},
+"show running-config interface GigabitEthernet": {
+"records": 1,
+"sha256": "4e39f32d9bfd2dc314228d2bb27a572f38a80db2d8b4bcfc80bcc2b86b7e2328"
+},
+"show running-config interface vlan": {
+"records": 2,
+"sha256": "76aa1655dec1139ada325b829de9af2b0aa77b3d3d155504d557695f76b73a2b"
+},
+"show running-config nve vni": {
+"records": 1,
+"sha256": "3eba40701423ed01b06f363bd13728e6c64dbbbcc5917f4eb00e1535ce55b3ab"
+},
+"show running-config snmp": {
+"records": 2,
+"sha256": "eed60416c2d31571fe3fbe3ff68d326c5075f0855be9be36c2333ccdede7aa1f"
+},
+"show running-config | include hostname": {
+"records": 1,
+"sha256": "8d400ce9cf1325031d472bbe36ab39fc52a5ca12fc7e546f7d023015482f62d0"
+},
+"show running-config | include ip helper-address": {
+"records": 3,
+"sha256": "14c6d684497c27a1347e339fe74074a74f69fc07237ccc58037a85f245061978"
+},
+"show running-config | include snmp-server community": {
+"records": 2,
+"sha256": "a5f6107cb74967bcb80820e9446f2779fd660f9c340ed3a0f54dbed88279746e"
+},
+"show running-configuration section firewall": {
+"records": 4,
+"sha256": "fa9618eb21d6255567c8ccea18f5e5dbab2e911c9bc22b98f1fa9935f224e488"
+},
+"show session": {
+"records": 4,
+"sha256": "b764d068fc9405d8dcb5eaba60d4213ed8e37fc21ea71cb9ca42095be18cc4df"
+},
+"show session all": {
+"records": 3,
+"sha256": "8975b488090a9f650a3e330b7bf5d69499589de1c079dc7dafc97f776a6b0aad"
+},
+"show sessions": {
+"records": 5,
+"sha256": "080a1b4a63522869042b4453d3702dceae4c3ffb52c1a24a2c19910c6a4bb76d"
+},
+"show sessions all": {
+"records": 5,
+"sha256": "fbf78e5dc435b77458304a8b9b445569e89e9669fb09ee3d806e9778e4afe216"
+},
+"show sessions detail": {
+"records": 3,
+"sha256": "fd1e2894d414deaaa5bf9e2588f9f8440adc41f90bff6a7ebcdda62ded12d3c8"
+},
+"show sessions summary": {
+"records": 4,
+"sha256": "4b0502230e9d6cf14393925c307677ad5571e832b3ed239069452b95a899326b"
+},
+"show snmp": {
+"records": 5,
+"sha256": "1d525e383c3e9b86a75f4e96b25d304e6bfa4a05e6d6b58f079c4bca9181799e"
+},
+"show snmp group": {
+"records": 3,
+"sha256": "c5c7a693f2d8c06f4b5eaaf06ee52612575b90876cd449b85fe72be891ba6110"
+},
+"show snmp interface": {
+"records": 6,
+"sha256": "3db9cf9e41b56fa56b2ce23abea74b3ab94e884f403379afcc741a12818136b2"
+},
+"show snmp status": {
+"records": 1,
+"sha256": "b14d2f647c528e4e6b9b2859fc789495dea8935cbbcfc0bbfbf738a3de5d8ab1"
+},
+"show snmp v3 status": {
+"records": 4,
+"sha256": "c7a7ce7501790a92fd699ccf6651754b6f01a147d9359314195b8e41991268cd"
+},
+"show spanning-tree": {
+"records": 3,
+"sha256": "239d827696de883df2d2026017b994947ed3a0b8259b189af2add1daf10b8641"
+},
+"show spanning-tree active": {
+"records": 4,
+"sha256": "9639eb0224729bda5706849689019bf51fcd7507ef988493e6212b50a43da21d"
+},
+"show spanning-tree brief": {
+"records": 3,
+"sha256": "610a357ef87f97f173951084ad26993898b5b1b867a17d6866b32aea4155c9ff"
+},
+"show spanning-tree detail": {
+"records": 4,
+"sha256": "9711d0b2ffc22dc777c991a61e9ac346dcd2b5c442bcd89ffe89998e827d78e9"
+},
+"show spanning-tree summary": {
+"records": 1,
+"sha256": "84690d4e18c32a900b08a5bb5ef89d5f430783f15dcd2e4dd4e2673812631a06"
+},
+"show spanning-tree vlan": {
+"records": 1,
+"sha256": "2c68c696adfdc037c379975cf24a3b5da533afbb7f75efd21e31e14053295cf3"
+},
+"show standby": {
+"records": 2,
+"sha256": "f4969a44c8ecaf4cb2406632dd5250023228be9e9256806380e8d9aa817c8036"
+},
+"show standby brief": {
+"records": 3,
+"sha256": "3399fdf3f16878c83eef7c654c49dab6a590a6ab7c31a79ce3bd995a106248d1"
+},
+"show state-sync session status": {
+"records": 3,
+"sha256": "e4b36f165e91062a7f0ab57785772059387ac64be86f3a1e422fdcfd3939a118"
+},
+"show storage utilization": {
+"records": 6,
+"sha256": "243842cfc234469dad186437f9436967e7656f956e01c056a17a53b1a9850eb5"
+},
+"show switch": {
+"records": 4,
+"sha256": "1be00e9136afb55f84afc2c5dde38121922711102d14930b9426e73df605ff23"
+},
+"show switch interfaces status": {
+"records": 6,
+"sha256": "2499fbf4dbcfc9be17093125dafb0b11bf2d1dca990241053ba4747057143d23"
+},
+"show system": {
+"records": 1,
+"sha256": "3c4308307d0f0a44bff38fa76f0ad126990f1e8226484e3d4a76f8c610d3b6d9"
+},
+"show system alarm": {
+"records": 5,
+"sha256": "036615cfc0361bd076475d2b0988338e21a22b6d449ab9143e1fe648e83385eb"
+},
+"show system alarms": {
+"records": 5,
+"sha256": "59f58dccb9d6ac625d30afdb0e1dbafec2377d6adab17017cda5d5477b46412b"
+},
+"show system alarms status": {
+"records": 4,
+"sha256": "21d6bce0aba9586595d7ea3bf50fe168e04b023b760c6c64ef94b35e606511cd"
+},
+"show system alert all": {
+"records": 11,
+"sha256": "4e52f7b956af040ac18d048c9dc3480fab354c077be330131c5f3e883a2f0563"
+},
+"show system alert counters": {
+"records": 6,
+"sha256": "ddfa9bd13e057482a80e24a73b7941818b67d4d995a3ef35c1363e321d6034a3"
+},
+"show system alert-counters": {
+"records": 5,
+"sha256": "5c5316e71172bcdc89d7471e43087dea60423ff06ff2f46629779675a464b519"
+},
+"show system alerts": {
+"records": 5,
+"sha256": "a07f8c0f4a284f8282351aa2a1522b1460d81c6dfa1f245853e3f0c68ecedde6"
+},
+"show system availability": {
+"records": 1,
+"sha256": "f1c7af8cc944bac6c86ba40b81c348d5a4b61f337f45f0ba9717edf65e85a5a5"
+},
+"show system counters alerts": {
+"records": 5,
+"sha256": "fa253c60129a5a33119320f818f21e73ebf4f0db179873614b501e1feaea7057"
+},
+"show system cpu": {
+"records": 1,
+"sha256": "587b99579185d5f564fe39e71a4673af5f5934de2a14757bfd7e7d5249ae2182"
+},
+"show system df": {
+"records": 11,
+"sha256": "b804a64e897c3d61632e330fdbe0c6ab3be81a360c2d2c4d3240954342b384b7"
+},
+"show system disk": {
+"records": 3,
+"sha256": "fe45a852c8ee3b94a4fa915281e7678b654c5bf10dd2ab1b4430313dc8136591"
+},
+"show system disk space": {
+"records": 4,
+"sha256": "b4e681a2070a72938993eb6c5623178ba269266fcf5bcee36273ac1d209d6785"
+},
+"show system environment": {
+"records": 6,
+"sha256": "04a4943fef27af3f650dca9257b31d7ad66954120440757e1aafaa6219f036ae"
+},
+"show system environment all": {
+"records": 9,
+"sha256": "a727469d8944f527e62f584d0d734aed6263be64f69d497344dddbf7bda8581f"
+},
+"show system environment cooling": {
+"records": 5,
+"sha256": "f688a9e841e8e10a73e98ddcd86e80f017913bc9255ece8af395f4aab29ecd0c"
+},
+"show system environment fan": {
+"records": 4,
+"sha256": "be09901a497086935934acb7fec66f8f08df936a377823198c816e214a57862e"
+},
+"show system environment fans": {
+"records": 4,
+"sha256": "2d03d148879697a3da49445a39974f61269560ec7472fe499b5a41209c83e3af"
+},
+"show system environment power": {
+"records": 3,
+"sha256": "1271fd87ceb68d2d451e9e1133f308a17b428d4623cb042dc84c2cd85f39382b"
+},
+"show system environment temperature": {
+"records": 4,
+"sha256": "fe18a593b467e677bba8ad857000a12bd78dd27113378a2771267f2e73591284"
+},
+"show system fan detail": {
+"records": 4,
+"sha256": "0ca198cbc86d5d4e98bd645d20f5b0de76dac50bc4b0c967241c8111a6a78c27"
+},
+"show system fans": {
+"records": 3,
+"sha256": "7d4aacd4278b5f2dea355992c4265361ed2e00ec633b6e69cacb0b4823f2a3ce"
+},
+"show system hardware": {
+"records": 1,
+"sha256": "dfce571e8c722c6bbf001da62bc4543f6ca7a48d4fd31ee0ea23c5ad414ef07c"
+},
+"show system hardware info": {
+"records": 1,
+"sha256": "0287fc7c53480ec295cdb53074e35f64c4bc9d94e70b40d45e4310f8d7de65f0"
+},
+"show system high-availability": {
+"records": 3,
+"sha256": "70d61d05841b954597fc9d9e8694cb94ac7661682d178da035a565757af134a8"
+},
+"show system high-availability status": {
+"records": 1,
+"sha256": "ac09309726daca16876ac0fd0a2fd18f02077d7a08e3d957fc3869e6748090ac"
+},
+"show system info": {
+"records": 1,
+"sha256": "1d03b2b166bf42af822abc93cac62bb7f5b89d17000d15b931cafbb6192269d0"
+},
+"show system information": {
+"records": 1,
+"sha256": "01a743468a34aeb5bb5dee33a7c6beb38a18818ea40888f3d26568550919d839"
+},
+"show system interface": {
+"records": 5,
+"sha256": "dc382b94291f4c1c915ef63ae8586950f30fa8a1d81ac9c4e72dace937262973"
+},
+"show system internal processes | include CPU": {
+"records": 4,
+"sha256": "7ff13061c4744b4374042712bd57f39147c8ac1bbc44dbe23ba8253e2925bcf5"
+},
+"show system inventory": {
+"records": 5,
+"sha256": "195ec7816e2aa5abb426eecb1d7c148131ac7708a381a134d2e1ad556d8e4fb4"
+},
+"show system memory": {
+"records": 1,
+"sha256": "b451ca4e13830d00509d1fd581002033b1bc80b530c3181da1e273ebd1f065b2"
+},
+"show system power-supply": {
+"records": 4,
+"sha256": "6ce0b6eb8fd0298ad15d39706ac54002acf42b3b99922e1f011700907bb2ac1d"
+},
+"show system process": {
+"records": 6,
+"sha256": "a85998824cab813871f1435420a50db71f51fddfcc65c6838c887c694ce78d55"
+},
+"show system processes": {
+"records": 8,
+"sha256": "61c2776390081960867e4015e3c5a375dc9b048a2bcdeb91fbb6a77788207ae9"
+},
+"show system processes extensive": {
+"records": 12,
+"sha256": "e737bf5d770a1f9cde042fdfa576b8fa78f4b8049b14ac2354e941e71919c719"
+},
+"show system redundancy status": {
+"records": 2,
+"sha256": "c95e8af5d17af23d889215d351cbf22aba1611bbc3780a0b9fa53f4ed18472b2"
+},
+"show system resource": {
+"records": 2,
+"sha256": "e3431ecbd999e0c74edc60904ce2c5ee5404021e9faf1b027fbdac2d37808533"
+},
+"show system resource utilization": {
+"records": 3,
+"sha256": "a8d8785b3c26cc7b9b3be2e3302ff26ca342d156038e2a20382f2c263ddd7e84"
+},
+"show system resource-utilization": {
+"records": 4,
+"sha256": "9dd7447cd2845aab60a0c35d155f13248a3602c5e8ef45dd8ff547dedce9c04a"
+},
+"show system resources": {
+"records": 4,
+"sha256": "038b0b27c6dcaaf615751c5fe7ab0584a4d786cd8bf3f9b7a5ee246d2922989d"
+},
+"show system resources utilization": {
+"records": 1,
+"sha256": "203325a4384099432c8681851778e447eba468f325886d0da9fa33efb7a8b99e"
+},
+"show system statistics": {
+"records": 2,
+"sha256": "01c183a6155a01b83ba5c0807a806be8163fe5c57816224a136fa52bab578a39"
+},
+"show system status": {
+"records": 1,
+"sha256": "14a8490c4f70563f42e57df3a7241ffdb42159d5a68e4d9fc4aece0e196f8fcc"
+},
+"show system storage": {
+"records": 5,
+"sha256": "a7e433e3733eb3047f69d545b7d2007a30b5a541c0bc11e3bda057d9112f6c54"
+},
+"show system temperature": {
+"records": 5,
+"sha256": "f9a5672a5231285526bf93925205c5e17718e0b879579339a4d2f7d12117f050"
+},
+"show system uptime": {
+"records": 1,
+"sha256": "16234474b3c88787277de78e1b91b41ab1bd8c972f4ad883e7007331b49b5041"
+},
+"show system user": {
+"records": 3,
+"sha256": "dd89763e2a124ac4f587f169310d5ef426c889d597704ff02e483e031ddcbdde"
+},
+"show system users": {
+"records": 3,
+"sha256": "82998fc00b6f2bdc67b64f64f5589134306d0fc6932282b0808f6f2ec5108a50"
+},
+"show system utilization": {
+"records": 1,
+"sha256": "c350558154323fc0ae6135365eff3d1e5c848c98bb841a9ec317b72a5d0b4483"
+},
+"show system vmstat": {
+"records": 2,
+"sha256": "ac1257fcb7016fa7a06ab0b4a95d1dcb43d504602346262fa10c9eef8fa8803f"
+},
+"show tacacs": {
+"records": 3,
+"sha256": "f807732495bd523355788d58f6e8fcf2f99059ccdfc473b371d9ce7c7d313dc2"
+},
+"show tacacs server summary": {
+"records": 3,
+"sha256": "781b03544df37e60a8baaa3a14611a46cc76596bf57bd1429053130e63ea9969"
+},
+"show tacacs servers summary": {
+"records": 3,
+"sha256": "15d0099bfcf10d4b3db9b6aa9d155550ca46e668cf8f332de4f6d102e2f1d7b0"
+},
+"show tacacs status": {
+"records": 2,
+"sha256": "42ba012a55fc263f8019ec9f0d0ac8cf0aae61a759ded3d691000c990185b6d5"
+},
+"show tacacs summary": {
+"records": 3,
+"sha256": "7ce5a8b951e42e7f4b198a0e9f50d5f6282855096cefde4ee7cf3b0053597e2a"
+},
+"show tacacs+": {
+"records": 4,
+"sha256": "fc87206063ae7a6b373cc859e73b321e1611fa7904c95f07e71ad6948f4005bb"
+},
+"show tacacs-server": {
+"records": 1,
+"sha256": "aa0f2f204a503874297a6ab290c80f8186c94194493b85566901145272d72b89"
+},
+"show tacacs-server address": {
+"records": 3,
+"sha256": "6b62fca1844f9a7b0c418811c10f827d4000d770f4602eccc6794809ab1cd813"
+},
+"show tacacs-server host summary": {
+"records": 3,
+"sha256": "bee6bfb0d01da74e0a7a934963ad20994c426ef6da8998ce2dcf4dbc8e1e5239"
+},
+"show tacacs-server summary": {
+"records": 3,
+"sha256": "f13762e63821d46120b08ef2a8fbfcd24f66df19be221b6cf3bb760797829c07"
+},
+"show tcp brief": {
+"records": 7,
+"sha256": "9b250366c74121957bb9081402d58fa418cc1ce61124bcfa2b1990500d01b64f"
+},
+"show tcp brief all": {
+"records": 5,
+"sha256": "b8e0fc902b4bfa893a97bcea7fd6a12a29d3cc3d535705f34ffea41f54889936"
+},
+"show tcp connection": {
+"records": 4,
+"sha256": "1dc439d2f313597486684682d18768e51e5990be24a544125d3fff571c6c2796"
+},
+"show tcp connections": {
+"records": 6,
+"sha256": "d1137a06cbe6780636f2229abe109b08ce0278d0d9efa344738cc0aa1e5798d7"
+},
+"show tcp connections summary": {
+"records": 5,
+"sha256": "2040afb626240a5c8ab31a0186bb9dd904afceca2ff769cf8cfba6810044d0f5"
+},
+"show time": {
+"records": 1,
+"sha256": "b975ddd7e910a5a20735dbf0e1a7ed63d9674e0bba4b4997d7ce15ab772c7ea8"
+},
+"show topology": {
+"records": 4,
+"sha256": "45969e2a682a6cb11b0db8fab6fc98b67e2b16a8b6f03b0fb20b0bf7e53aa36e"
+},
+"show transceiver detail": {
+"records": 4,
+"sha256": "0994a6c1d376250b7c1ff3c181ec8f2a3452c1743d40f2829ee9b4e3b20dd46f"
+},
+"show transceiver detailed": {
+"records": 6,
+"sha256": "2958eb18d6210089122873baece9c5cc98fb162b13bf0e624e6afa7ad2f60b2b"
+},
+"show transceiver details": {
+"records": 3,
+"sha256": "79de114f70ba532b7b50fb3fc940a601e74c49945af12c4c80fc7a8e84c51576"
+},
+"show transceiver diagnostics": {
+"records": 4,
+"sha256": "ee7f74d06936d16f81344fa5859f685efe1044f227aea9d8c84ba6909c1a5342"
+},
+"show transceivers": {
+"records": 4,
+"sha256": "f7d61855ddd8753091e439da671161e7feac0ccf92590070394755e4170330a3"
+},
+"show transceivers detail": {
+"records": 4,
+"sha256": "7d48cabd2a828a39b1ff022800bd106b9502e220b3ed8011f6ca8d0725704f17"
+},
+"show transceivers detailed": {
+"records": 4,
+"sha256": "0d4808cb84e931e445fe8cf6a55b27b8e9495cc4418e3ea56e08b237dd5278d4"
+},
+"show uptime": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show usage": {
+"records": 1,
+"sha256": "9349332045305900ad44ad3c2e5efec39861fefb81e604b1c1f9b700cea1a348"
+},
+"show user sessions": {
+"records": 4,
+"sha256": "e565cef2859212b4d11b257e1285ee0ee64bf4cbc885fcf3470e4dd24ca5e808"
+},
+"show users": {
+"records": 4,
+"sha256": "a8a233a068339d99b7964ff7d9b0faaa451e2b7029ef6bcce5fa72a1f323f072"
+},
+"show users all": {
+"records": 4,
+"sha256": "7be1c5bf34258f826d7e1f3147d97c10bc6ea8f957e2ec9318205e227276f33b"
+},
+"show users sessions": {
+"records": 3,
+"sha256": "d8c6647d1a1a5131ba04cf130af550c5f252fe714abedb8ac00b58497d35d067"
+},
+"show ver": {
+"records": 3,
+"sha256": "858c09e262c993f40a90614a148d999eaccf4d5119b67960ab1e1bf190dd657c"
+},
+"show version inventory": {
+"records": 4,
+"sha256": "c2aaa693138b8881befc59583555c8bfc263f020051f37434c5aa02b8b0078aa"
+},
+"show version transceiver detail": {
+"records": 2,
+"sha256": "0b3584d37fc54364858e425706c087ac316e6b7e6342a00dab45b2cb30dfa7aa"
+},
+"show version | include reason": {
+"records": 1,
+"sha256": "8b36d76ce322933efec6b066045ce2841216504183d0320bf3b56c273628ddfa"
+},
+"show vlan": {
+"records": 4,
+"sha256": "d81f43d2051b5f296335f3fac9ed1efe20acbd4bfb9e3c76feec6b4d5761c30d"
+},
+"show vlan brief": {
+"records": 0,
+"sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+},
+"show vlan summary": {
+"records": 5,
+"sha256": "230519fac461a1569db900b045a16024e4f303ffe31476f7a1dbc5ee9c3f4826"
+},
+"show vlans": {
+"records": 5,
+"sha256": "a8ba7a9b88b314010b1d9c4573987f22bcbf9a31903982ad48c6b3d407d478d9"
+},
+"show vmstat": {
+"records": 2,
+"sha256": "d9719564e0d192dcda94c6b8489af30c61323916c1a4b5f1a7b5ece02d4a2346"
+},
+"show vpc brief": {
+"records": 4,
+"sha256": "3c54f57264b4603d6602286db5073041de310aafeee41da89c8dbb3323e5d274"
+},
+"show vrf all": {
+"records": 5,
+"sha256": "4d0685357b698c8a1e2e2b76f292b53b6137888a36ccf829b933858e0602e183"
+},
+"show vrf all interface": {
+"records": 7,
+"sha256": "836d54db9fae67a4a711e77651ce2e8e7e220cc42ee4d00f6e095e99887b783e"
+},
+"show vrf brief": {
+"records": 4,
+"sha256": "5c966a0811821ed278b1412b6f2d572974dfd52ca87b15027df00e44f664fffe"
+},
+"show vrf detail": {
+"records": 3,
+"sha256": "95d20e5c297a52423bc4d86cca2395e9568473e52e96b663ea7080572275d8ea"
+},
+"show vrf interface": {
+"records": 5,
+"sha256": "605db5f75c082c872ce0330fdfb276089b686271a4cf0f084670243849d5c18c"
+},
+"show vrf interface brief": {
+"records": 5,
+"sha256": "49bf1e08465b8cb3d0ec3f6381bd76161f32f9c25ec5de78f28e8f4466f9c36c"
+},
+"show vrf interface detail": {
+"records": 3,
+"sha256": "8dc2ca8add48a7a002adab34f511cd290d3ad04881d6113d6698199782f05449"
+},
+"show vrf interfaces": {
+"records": 5,
+"sha256": "e67da1bf09a4a38b24d087748f65958be64ec9763b6f7749d8d5b398e9ed110b"
+},
+"show vrfs": {
+"records": 4,
+"sha256": "1addbf57207361824fc44fb983510ae9e0064f02f33b6a89bec73f96b00dbd71"
+},
+"show vrrp": {
+"records": 3,
+"sha256": "69bfb594bbd506f1bae78187ef966f3643444dff10ab06346fbf8689f75ea5a7"
+},
+"show vrrp all": {
+"records": 3,
+"sha256": "da7664b86232b8202aa70731f2906e703534409678f4f455aa8b9600a8b3e0ab"
+},
+"show vrrp brief": {
+"records": 4,
+"sha256": "f25444b36c218e0c98e8d93ceea05df8f0a4974b23239f09e05bfefbe8298866"
+},
+"show vrrp detail": {
+"records": 2,
+"sha256": "b48f96fd13dcf604b273dddbd2afbe9ea27646c512268b5081a49adb58709b0c"
+},
+"show vrrp status": {
+"records": 5,
+"sha256": "fb3cf8cb11061a74a58285918af1728d401decd002a20cbdf9e9007db4ef696e"
+},
+"show vrrp summary": {
+"records": 4,
+"sha256": "be65385ac1d1a07f4413373235924667bf4e8089e9b6a71633504ad653301d7a"
+},
+"show who": {
+"records": 3,
+"sha256": "236187f2792d46b68c2e309f69d1872250a34931eab88adae4d8c40ff250bc8b"
+},
+"show whois": {
+"records": 1,
+"sha256": "6a56c8e176539492fae31cae7d5d755546052436bc364df8d3e54a23fba0101e"
+},
+"show whois 8.8.8.": {
+"records": 22,
+"sha256": "26233bdd9d7827e0db2ae9ef07a8585810218dced78d667dd526124b3693732b"
+},
+"show whois <domain>": {
+"records": 1,
+"sha256": "b7114d91a5b08029f60ae57436beb6698f90e20df5f4b30ecfdb25ea42f57527"
+},
+"show whois a10.com": {
+"records": 2,
+"sha256": "63f3cacd1b14e2b003d72ee3383f3e31ff78dfecd92e7f232828fe0080aae32c"
+},
+"show whois domain example.com": {
+"records": 1,
+"sha256": "a40d47961078438aab763045190c2d361b2e32d847341537b4ac96edacde02bf"
+},
+"show whois example.com": {
+"records": 1,
+"sha256": "5f1eeccae6c74543ab219e5a238de2b7e67c8f46697308b61beee73510d7c83c"
+},
+"show whois query example.com": {
+"records": 1,
+"sha256": "746fc0d7be62a980cb990b63b4f33a9dd418d4a5530f26d7e8779f948fc66c00"
+},
+"show xlate": {
+"records": 1,
+"sha256": "314f4f5cecbf3a6c58d7d0c3bb2e06450c4c65ae8d382fe509474f169e515f08"
+},
+"show_system_info": {
+"records": 1,
+"sha256": "6cb52b513ec45e8fc7f30d318b12047e52b4bb040405eacaf215de8e51764c6d"
+},
+"snmpwalk -v2c -c public 192.168.1.": {
+"records": 5,
+"sha256": "57c8847bbed4d99dcf23e3f902ab10da4629bdf919e1d32dca4557a0f368c551"
+},
+"traceroute": {
+"records": 18,
+"sha256": "aeb96d73d0a98bd9ccf66b80a98b3589ac0613ec67cfd1d942dcf5283c2ae1a4"
+},
+"traceroute 192.168.0.": {
+"records": 4,
+"sha256": "2b5cf52ad5830a072d00078ad0dfed4bddf42f5ddc178bf64d5ab0ae6ceaba07"
+},
+"traceroute 192.168.1.": {
+"records": 4,
+"sha256": "c4e8642e674906ac750f249b702180a1221ffdb6ace7e636078dbbe4d4c20692"
+},
+"traceroute 8.8.8.": {
+"records": 7,
+"sha256": "a7f64151f1157bc29512ba66a83a94152be86c5a7f5c8af1e6e36f24aef1fadb"
+},
+"traceroute google.com": {
+"records": 4,
+"sha256": "6ba314446d17d55b80821e05f44dc51b81bc5dc7cf7e1503e337eaab8c30105a"
+},
+"traceroute www.example.com": {
+"records": 7,
+"sha256": "6937b1cf2a6cc41a7780e5eaef7740d4a9a1749908614e10e68734668fc0746a"
+},
+"ubiquiti_edgerouter_show_arp": {
+"records": 7,
+"sha256": "2465ac0422a5277be9b6487cf42ff959a460cf245340c4a4581521da6ca5bec8"
+},
+"ubiquiti_edgerouter_show_dhcp_leases": {
+"records": 1,
+"sha256": "93c5699ba6cadd07883e09c9fb2de98552d4b73b99c48e719db27a40e3823cdd"
+},
+"ubiquiti_edgerouter_show_dhcpv6_server_leases": {
+"records": 6,
+"sha256": "cb47105ebef5aa3188d90d0557423c5388dd4016f4b15b9e32cc8bed91e3fd4b"
+},
+"ubiquiti_edgerouter_show_interfaces": {
+"records": 9,
+"sha256": "9e18236664f784c51ce05f47942815e0483fcb4b345b264b29410605f8d9c49f"
+},
+"ubiquiti_edgerouter_show_interfaces_ethernet_physical": {
+"records": 1,
+"sha256": "b8de2ee0d8150123b018b6209e4d851c8daf9992cad9e4977fcd6286de7d2e42"
+},
+"ubiquiti_edgerouter_show_ip_route": {
+"records": 9,
+"sha256": "683d209f78cb4538e96c5492ead3c25113c2692a7e9545cc5e9c52172421edc7"
+},
+"ubiquiti_edgerouter_show_ipv6_neighbors": {
+"records": 14,
+"sha256": "6c193b0331fd326628b5e6d0547c6a12492920a4904a3e6b2ffcc76a4dc395c9"
+},
+"ubiquiti_edgerouter_show_ipv6_route": {
+"records": 7,
+"sha256": "5578037ead07ff82a48f2fa571ee31b440f67c75e9c5c5719ab97015c09f73dc"
+},
+"ubiquiti_edgerouter_show_version": {
+"records": 1,
+"sha256": "a2c3e61936dc4c9c244ec9ee16eed82f971604278c24f19ef6a5242d09f240db"
+},
+"ubiquiti_edgeswitch_show_arp": {
+"records": 4,
+"sha256": "0d57e0a9b737c19810f62eaa52cc2c05c288835df1b517d40adbf38068114087"
+},
+"ubiquiti_edgeswitch_show_version": {
+"records": 1,
+"sha256": "51e6e5f79264df31c99cd345bfd9ae8eb538d826d11c7fb61c44f047f3112d00"
+},
+"ubiquiti_edgeswitch_show_vlan": {
+"records": 5,
+"sha256": "fec8e21239cec9f6f87eb7b3eb7d7b6446f1074e6982036c515f417f6461de77"
+},
+"vmstat -a": {
+"records": 6,
+"sha256": "29f52f71592980968f0366cfae6918876baa62308fcb229accff4abf16f5923e"
+},
+"vmstat -s": {
+"records": 1,
+"sha256": "984618b4b4491369be0e88952a4536d04ad8d53a6d1a0f939787931600a29b0b"
+},
+"vmware_nsxv_show_ip_bgp_neighbors": {
+"records": 2,
+"sha256": "7cdf5e8b33e2c233ad0a69daaaec8473c22b55c8ec51365d4affaba052ff4412"
+},
+"vmware_nsxv_show_ip_route": {
+"records": 4,
+"sha256": "76903fa47537dc891a2a64b3c1b39653da2d3496e5ccc047fb81f54a3a7c520d"
+},
+"vyatta_vyos_show_arp": {
+"records": 6,
+"sha256": "a018a3432cc67d79634b06e18193a3400c87a48546066f3c1c733b6484328bdb"
+},
+"vyatta_vyos_show_interfaces": {
+"records": 12,
+"sha256": "93adb4c5a75abf2e7cc12f376fb4c3b40adf832e9000295174833864045a581d"
+},
+"vyatta_vyos_show_ip_bgp_summary": {
+"records": 3,
+"sha256": "f6bb8eb0524f9e6150ea5eb9c52f8f1517f445817d69c3da25a18e1d5668e6bf"
+},
+"watchguard_firebox_show_arp": {
+"records": 6,
+"sha256": "dd687b1bb1eb4079cfd5bc4291cbcd4f458be1fca8bf47ca1f7241f967332df1"
+},
+"who": {
+"records": 2,
+"sha256": "98377643618b22c8227c8d692001423a3d21866cffb571294b6bceaf04e97aca"
+},
+"whois": {
+"records": 1,
+"sha256": "db3efd60fa3c96847d332f26d9665d1fe51caf7b913e848def5b3d59fa542cba"
+},
+"whois 8.8.8.": {
+"records": 1,
+"sha256": "3185c73b24710f2e294eaa0761acecbae8d9c15bba6c1eba640141972f26287d"
+},
+"whois google.com": {
+"records": 1,
+"sha256": "13b3fa641d2b146091f11d5d5995ae7348d9efccc3d9111854b39a90e0352fe7"
+},
+"whois net 8.8.8.": {
+"records": 27,
+"sha256": "038b9d0d5d2ab66688f5183afe7a718b0286f557e002533989824cddd4bedf76"
+},
+"whois.github.com": {
+"records": 4,
+"sha256": "a49efde7603c50286e5a08c90f278d50b29abdb049e3c47d257ebfbabe41661b"
+},
+"yamaha_show_environment": {
+"records": 1,
+"sha256": "8d17daf9c765eda34c6a2b58f6436188f60ad268a3eabfdf37f41b8b9c8610f2"
+},
+"yamaha_show_ip_route": {
+"records": 10,
+"sha256": "85acefbeca0cbf9447088e2e8e887e8aaeb0d447a5bf58c02f2f0e8a17ca8218"
+},
+"zte_zxros_show_arp": {
+"records": 17,
+"sha256": "6fd7397cbc633ec3fbe828f6b74c9c1bb9766626f416b4623a59662a158d75a9"
+},
+"zte_zxros_show_interface": {
+"records": 4,
+"sha256": "8f9bec52f182b67308a6ad667cfef2ab484f81c3d3bea1505602d76de9b54db1"
+},
+"zte_zxros_show_interface_brief": {
+"records": 36,
+"sha256": "c372cc3723350d434e1d135c5991a02f4b6c25dab818a4b49754e5976caaf0fb"
+},
+"zte_zxros_show_isis_adjacency": {
+"records": 4,
+"sha256": "03a951179f9b8699faf7ebbee494a0941ecfbde857acf432c3c30a6d427b509c"
+},
+"zte_zxros_show_mpls_traffic-eng_tunnels": {
+"records": 10,
+"sha256": "9423dba949304985d329b1e5f9664d91bd22e0a1d9ab39bbbe04ddf2d856be5e"
+},
+"zte_zxros_show_version": {
+"records": 1,
+"sha256": "23f0280d9595a659801ae77cb9c211753db6c1ddc02c339748b7a09f5d0ebab4"
+},
+"zyxel_os_cfg_firewall_acl_get": {
+"records": 7,
+"sha256": "ea5016b9fb22eb684a650fe57a097d1a95d4082c6ef66bd0c755d4f310d3e574"
+},
+"zyxel_os_cfg_intf_group_get": {
+"records": 3,
+"sha256": "4d7c16f83041daacbc7cafc4c13182be6bd0d77004d21048050322afa312555a"
+},
+"zyxel_os_cfg_ipalias_get": {
+"records": 3,
+"sha256": "085eea183cb8606404a75ae6e16248d990761d20d6ba564ac56556a58525169e"
+},
+"zyxel_os_cfg_lan_get": {
+"records": 2,
+"sha256": "d91b8e28bf8878acf8fd06e507176946fbf11f5471167a2665164095a480e6b9"
+},
+"zyxel_os_cfg_lanhosts_get": {
+"records": 1,
+"sha256": "cbb9d5f5a0b1ccd35d714b9d1950ac3e5fa0516a9d48bff063debfabc3636ceb"
+},
+"zyxel_os_cfg_nat_addr_map_get": {
+"records": 3,
+"sha256": "923d771c1d462ce6e5ba940e2863cc33ebde011d372270cdacfed82d70d2bb74"
+},
+"zyxel_os_cfg_nat_get": {
+"records": 7,
+"sha256": "2b42421521c69f6c7e7b387531f4d13024a87bded5a6c5617d68100af92124de"
+},
+"zyxel_os_cfg_snmp_get": {
+"records": 1,
+"sha256": "997efdcab9834782d7561aa0df3dc577e01b53b04f809928a33b5676a4aafde0"
+},
+"zyxel_os_cfg_static_dhcp_get": {
+"records": 3,
+"sha256": "9968eb69cc625e891f35bdf7b112220aa5dc4297771f036adc9a3b92f3879200"
+},
+"zyxel_os_cfg_static_route_get": {
+"records": 10,
+"sha256": "1efbbb3ac303572174bb0f15da64c948ae53d86dd699fee8f31acf3754fb1a3d"
+},
+"zyxel_os_cfg_wlan_get": {
+"records": 8,
+"sha256": "a4264054b7d0209ad72b038f036b756b1f196322b1f2527a24e37b418b624890"
+},
+"zyxel_os_sys_atsh": {
+"records": 1,
+"sha256": "d58c7b458696389f9bfa95531bee5e148969d9ce1d6451858a9bca5e87861935"
+},
+"zyxel_os_zycli_Ethctl_media-type": {
+"records": 1,
+"sha256": "d8ec2229021b1468f47a0f99875ffa605c57e1ec1bd447f458949bf7eaa4e231"
+}
+}

@@ -1,0 +1,1167 @@
+{
+ "db_rows": 1272,
+ "cases": [
+  {
+   "sample": "arista_eos_bash_df_-h",
+   "hint": "arista_eos",
+   "winner": "arista_eos_bash_df_-h",
+   "score": "150.0",
+   "records": 13
+  },
+  {
+   "sample": "arista_eos_dir_flash",
+   "hint": "arista_eos",
+   "winner": "arista_eos_dir_flash",
+   "score": "152.5",
+   "records": 11
+  },
+  {
+   "sample": "arista_eos_show_boot-config",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_boot-config",
+   "score": "60.0",
+   "records": 1
+  },
+  {
+   "sample": "arista_eos_show_clock",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_clock",
+   "score": "70.0",
+   "records": 1
+  },
+  {
+   "sample": "arista_eos_show_environment_cooling",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_environment_cooling",
+   "score": "152.5",
+   "records": 38
+  },
+  {
+   "sample": "arista_eos_show_environment_power",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_environment_power",
+   "score": "142.5",
+   "records": 2
+  },
+  {
+   "sample": "arista_eos_show_environment_temperature",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_environment_temperature",
+   "score": "152.5",
+   "records": 16
+  },
+  {
+   "sample": "arista_eos_show_hostname",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_hostname",
+   "score": "60.0",
+   "records": 1
+  },
+  {
+   "sample": "arista_eos_show_interfaces",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_interfaces",
+   "score": "145.9970238095238",
+   "records": 8
+  },
+  {
+   "sample": "arista_eos_show_interfaces_description",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_interfaces_description",
+   "score": "138.64583333333331",
+   "records": 20
+  },
+  {
+   "sample": "arista_eos_show_interfaces_status",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_interfaces_status",
+   "score": "84.04761904761905",
+   "records": 6
+  },
+  {
+   "sample": "arista_eos_show_interfaces_transceiver",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_interfaces_transceiver",
+   "score": "82.85714285714286",
+   "records": 5
+  },
+  {
+   "sample": "arista_eos_show_interfaces_transceiver_detail",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_interfaces_transceiver_detail",
+   "score": "152.5",
+   "records": 21
+  },
+  {
+   "sample": "arista_eos_show_inventory",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_inventory",
+   "score": "124.35897435897436",
+   "records": 13
+  },
+  {
+   "sample": "arista_eos_show_ip_access-lists",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_ip_access-lists",
+   "score": "148.33333333333334",
+   "records": 12
+  },
+  {
+   "sample": "arista_eos_show_ip_arp",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_ip_arp",
+   "score": "73.0952380952381",
+   "records": 4
+  },
+  {
+   "sample": "arista_eos_show_ip_bgp",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_ip_bgp",
+   "score": "154.63980463980462",
+   "records": 9
+  },
+  {
+   "sample": "arista_eos_show_ip_bgp_detail",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_ip_bgp_detail",
+   "score": "215.47979797979798",
+   "records": 11
+  },
+  {
+   "sample": "arista_eos_show_ip_bgp_summary",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_ipv6_bgp_summary",
+   "score": "145.1282051282051",
+   "records": 3
+  },
+  {
+   "sample": "arista_eos_show_ip_interface_brief",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_ip_interface_brief",
+   "score": "79.52380952380952",
+   "records": 5
+  },
+  {
+   "sample": "arista_eos_show_ip_ospf_database",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_ip_ospf_database",
+   "score": "150.7828282828283",
+   "records": 11
+  },
+  {
+   "sample": "arista_eos_show_ip_ospf_interface_brief",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_ip_ospf_interface_brief",
+   "score": "93.21428571428572",
+   "records": 7
+  },
+  {
+   "sample": "arista_eos_show_ip_ospf_neighbor",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_ip_ospf_neighbor",
+   "score": "81.875",
+   "records": 2
+  },
+  {
+   "sample": "arista_eos_show_ip_ospf_summary",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_environment_cooling",
+   "score": "141.78571428571428",
+   "records": 12
+  },
+  {
+   "sample": "arista_eos_show_ip_route",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_ip_route",
+   "score": "84.72222222222223",
+   "records": 2
+  },
+  {
+   "sample": "arista_eos_show_ipv6_bgp_summary",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_ipv6_bgp_summary",
+   "score": "145.1282051282051",
+   "records": 3
+  },
+  {
+   "sample": "arista_eos_show_isis_neighbors",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_isis_neighbors",
+   "score": "87.5",
+   "records": 2
+  },
+  {
+   "sample": "arista_eos_show_lldp_neighbors",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_environment_cooling",
+   "score": "141.78571428571428",
+   "records": 10
+  },
+  {
+   "sample": "arista_eos_show_lldp_neighbors_detail",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_lldp_neighbors_detail",
+   "score": "143.125",
+   "records": 20
+  },
+  {
+   "sample": "arista_eos_show_mac_address-table",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_ip_interface_brief",
+   "score": "146.66666666666669",
+   "records": 10
+  },
+  {
+   "sample": "arista_eos_show_mac_security_interface",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_mac_security_interface",
+   "score": "80.47619047619048",
+   "records": 8
+  },
+  {
+   "sample": "arista_eos_show_mac_security_mka_counters",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_ip_interface_brief",
+   "score": "146.66666666666669",
+   "records": 12
+  },
+  {
+   "sample": "arista_eos_show_mac_security_participants_detail",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_mac_security_participants_detail",
+   "score": "151.42857142857144",
+   "records": 4
+  },
+  {
+   "sample": "arista_eos_show_mlag",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_mlag",
+   "score": "66.66666666666667",
+   "records": 1
+  },
+  {
+   "sample": "arista_eos_show_pim_ipv4_interface",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_pim_ipv4_interface",
+   "score": "88.92857142857143",
+   "records": 4
+  },
+  {
+   "sample": "arista_eos_show_pim_ipv4_neighbor",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_pim_ipv4_neighbor",
+   "score": "83.92857142857143",
+   "records": 4
+  },
+  {
+   "sample": "arista_eos_show_port-channel_summary",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_port-channel_summary",
+   "score": "150.0",
+   "records": 40
+  },
+  {
+   "sample": "arista_eos_show_processes_top_once",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_processes_top_once",
+   "score": "157.14285714285714",
+   "records": 8
+  },
+  {
+   "sample": "arista_eos_show_snmp_community",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_snmp_community",
+   "score": "59.94047619047619",
+   "records": 5
+  },
+  {
+   "sample": "arista_eos_show_version",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_version",
+   "score": "145.35714285714286",
+   "records": 1
+  },
+  {
+   "sample": "arista_eos_show_vlan",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_vlan",
+   "score": "74.76190476190476",
+   "records": 4
+  },
+  {
+   "sample": "arista_eos_show_vrf",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_vrf",
+   "score": "70.0",
+   "records": 2
+  },
+  {
+   "sample": "arista_eos_show_lldp_neighbors_detail2",
+   "hint": "arista_eos",
+   "winner": "arista_eos_show_lldp_neighbors_detail",
+   "score": "143.125",
+   "records": 20
+  },
+  {
+   "sample": "juniper_junos_show_arp_no-resolve2",
+   "hint": "juniper_junos",
+   "winner": "juniper_junos_show_arp_no-resolve2",
+   "score": "80.23809523809524",
+   "records": 9
+  },
+  {
+   "sample": "juniper_junos_show_chassis_cluster_interfaces",
+   "hint": "juniper_junos",
+   "winner": "juniper_junos_show_chassis_cluster_interfaces",
+   "score": "193.75",
+   "records": 10
+  },
+  {
+   "sample": "juniper_junos_show_chassis_cluster_status",
+   "hint": "juniper_junos",
+   "winner": "juniper_junos_show_chassis_cluster_status",
+   "score": "87.5",
+   "records": 3
+  },
+  {
+   "sample": "juniper_junos_show_chassis_hardware",
+   "hint": "juniper_junos",
+   "winner": "juniper_junos_show_chassis_hardware",
+   "score": "191.35083713850838",
+   "records": 18
+  },
+  {
+   "sample": "juniper_junos_show_ethernet-switching_table",
+   "hint": "juniper_junos",
+   "winner": "juniper_junos_show_ethernet_switching_table_qfx",
+   "score": "76.66666666666667",
+   "records": 2
+  },
+  {
+   "sample": "juniper_junos_show_interfaces",
+   "hint": "juniper_junos",
+   "winner": "juniper_junos_show_interfaces",
+   "score": "73.78348214285714",
+   "records": 8
+  },
+  {
+   "sample": "juniper_junos_show_lacp_interfaces",
+   "hint": "juniper_junos",
+   "winner": "juniper_junos_show_lacp_interfaces",
+   "score": "78.0952380952381",
+   "records": 4
+  },
+  {
+   "sample": "juniper_junos_show_lldp_neighbors",
+   "hint": "juniper_junos",
+   "winner": "juniper_junos_show_lldp_neighbors",
+   "score": "76.66666666666667",
+   "records": 2
+  },
+  {
+   "sample": "juniper_junos_show_ospf_neighbor",
+   "hint": "juniper_junos",
+   "winner": "juniper_junos_show_ospf_neighbor",
+   "score": "80.0",
+   "records": 2
+  },
+  {
+   "sample": "juniper_junos_show_system_uptime",
+   "hint": "juniper_junos",
+   "winner": "juniper_junos_show_system_uptime",
+   "score": "140.0",
+   "records": 1
+  },
+  {
+   "sample": "juniper_junos_show_version",
+   "hint": "juniper_junos",
+   "winner": "juniper_junos_show_version",
+   "score": "218.91304347826087",
+   "records": 1
+  },
+  {
+   "sample": "juniper_junos_show_vlans",
+   "hint": "juniper_junos",
+   "winner": "juniper_junos_show_vlans",
+   "score": "73.33333333333334",
+   "records": 3
+  },
+  {
+   "sample": "arista_eos_bash_df_-h",
+   "hint": "arista",
+   "winner": "arista_eos_bash_df_-h",
+   "score": "150.0",
+   "records": 13
+  },
+  {
+   "sample": "arista_eos_dir_flash",
+   "hint": "arista",
+   "winner": "arista_eos_dir_flash",
+   "score": "152.5",
+   "records": 11
+  },
+  {
+   "sample": "arista_eos_show_boot-config",
+   "hint": "arista",
+   "winner": "arista_eos_show_boot-config",
+   "score": "60.0",
+   "records": 1
+  },
+  {
+   "sample": "arista_eos_show_clock",
+   "hint": "arista",
+   "winner": "arista_eos_show_clock",
+   "score": "70.0",
+   "records": 1
+  },
+  {
+   "sample": "arista_eos_show_environment_cooling",
+   "hint": "arista",
+   "winner": "arista_eos_show_environment_cooling",
+   "score": "152.5",
+   "records": 38
+  },
+  {
+   "sample": "arista_eos_show_environment_power",
+   "hint": "arista",
+   "winner": "arista_eos_show_environment_power",
+   "score": "142.5",
+   "records": 2
+  },
+  {
+   "sample": "arista_eos_show_environment_temperature",
+   "hint": "arista",
+   "winner": "arista_eos_show_environment_temperature",
+   "score": "152.5",
+   "records": 16
+  },
+  {
+   "sample": "arista_eos_show_hostname",
+   "hint": "arista",
+   "winner": "arista_eos_show_hostname",
+   "score": "60.0",
+   "records": 1
+  },
+  {
+   "sample": "arista_eos_show_interfaces",
+   "hint": "arista",
+   "winner": "arista_eos_show_interfaces",
+   "score": "145.9970238095238",
+   "records": 8
+  },
+  {
+   "sample": "arista_eos_show_interfaces_description",
+   "hint": "arista",
+   "winner": "arista_eos_show_interfaces_description",
+   "score": "138.64583333333331",
+   "records": 20
+  },
+  {
+   "sample": "arista_eos_show_interfaces_status",
+   "hint": "arista",
+   "winner": "arista_eos_show_interfaces_status",
+   "score": "84.04761904761905",
+   "records": 6
+  },
+  {
+   "sample": "arista_eos_show_interfaces_transceiver",
+   "hint": "arista",
+   "winner": "arista_eos_show_interfaces_transceiver",
+   "score": "82.85714285714286",
+   "records": 5
+  },
+  {
+   "sample": "arista_eos_show_interfaces_transceiver_detail",
+   "hint": "arista",
+   "winner": "arista_eos_show_interfaces_transceiver_detail",
+   "score": "152.5",
+   "records": 21
+  },
+  {
+   "sample": "arista_eos_show_inventory",
+   "hint": "arista",
+   "winner": "arista_eos_show_inventory",
+   "score": "124.35897435897436",
+   "records": 13
+  },
+  {
+   "sample": "arista_eos_show_ip_access-lists",
+   "hint": "arista",
+   "winner": "arista_eos_show_ip_access-lists",
+   "score": "148.33333333333334",
+   "records": 12
+  },
+  {
+   "sample": "arista_eos_show_ip_arp",
+   "hint": "arista",
+   "winner": "arista_eos_show_ip_arp",
+   "score": "73.0952380952381",
+   "records": 4
+  },
+  {
+   "sample": "arista_eos_show_ip_bgp",
+   "hint": "arista",
+   "winner": "arista_eos_show_ip_bgp",
+   "score": "154.63980463980462",
+   "records": 9
+  },
+  {
+   "sample": "arista_eos_show_ip_bgp_detail",
+   "hint": "arista",
+   "winner": "arista_eos_show_ip_bgp_detail",
+   "score": "215.47979797979798",
+   "records": 11
+  },
+  {
+   "sample": "arista_eos_show_ip_bgp_summary",
+   "hint": "arista",
+   "winner": "arista_eos_show_ipv6_bgp_summary",
+   "score": "145.1282051282051",
+   "records": 3
+  },
+  {
+   "sample": "arista_eos_show_ip_interface_brief",
+   "hint": "arista",
+   "winner": "arista_eos_show_ip_interface_brief",
+   "score": "79.52380952380952",
+   "records": 5
+  },
+  {
+   "sample": "arista_eos_show_ip_ospf_database",
+   "hint": "arista",
+   "winner": "arista_eos_show_ip_ospf_database",
+   "score": "150.7828282828283",
+   "records": 11
+  },
+  {
+   "sample": "arista_eos_show_ip_ospf_interface_brief",
+   "hint": "arista",
+   "winner": "arista_eos_show_ip_ospf_interface_brief",
+   "score": "93.21428571428572",
+   "records": 7
+  },
+  {
+   "sample": "arista_eos_show_ip_ospf_neighbor",
+   "hint": "arista",
+   "winner": "arista_eos_show_ip_ospf_neighbor",
+   "score": "81.875",
+   "records": 2
+  },
+  {
+   "sample": "arista_eos_show_ip_ospf_summary",
+   "hint": "arista",
+   "winner": "arista_eos_show_environment_cooling",
+   "score": "141.78571428571428",
+   "records": 12
+  },
+  {
+   "sample": "arista_eos_show_ip_route",
+   "hint": "arista",
+   "winner": "arista_eos_show_ip_route",
+   "score": "84.72222222222223",
+   "records": 2
+  },
+  {
+   "sample": "arista_eos_show_ipv6_bgp_summary",
+   "hint": "arista",
+   "winner": "arista_eos_show_ipv6_bgp_summary",
+   "score": "145.1282051282051",
+   "records": 3
+  },
+  {
+   "sample": "arista_eos_show_isis_neighbors",
+   "hint": "arista",
+   "winner": "arista_eos_show_isis_neighbors",
+   "score": "87.5",
+   "records": 2
+  },
+  {
+   "sample": "arista_eos_show_lldp_neighbors",
+   "hint": "arista",
+   "winner": "arista_eos_show_environment_cooling",
+   "score": "141.78571428571428",
+   "records": 10
+  },
+  {
+   "sample": "arista_eos_show_lldp_neighbors_detail",
+   "hint": "arista",
+   "winner": "arista_eos_show_lldp_neighbors_detail",
+   "score": "143.125",
+   "records": 20
+  },
+  {
+   "sample": "arista_eos_show_mac_address-table",
+   "hint": "arista",
+   "winner": "arista_eos_show_ip_interface_brief",
+   "score": "146.66666666666669",
+   "records": 10
+  },
+  {
+   "sample": "arista_eos_show_mac_security_interface",
+   "hint": "arista",
+   "winner": "arista_eos_show_mac_security_interface",
+   "score": "80.47619047619048",
+   "records": 8
+  },
+  {
+   "sample": "arista_eos_show_mac_security_mka_counters",
+   "hint": "arista",
+   "winner": "arista_eos_show_ip_interface_brief",
+   "score": "146.66666666666669",
+   "records": 12
+  },
+  {
+   "sample": "arista_eos_show_mac_security_participants_detail",
+   "hint": "arista",
+   "winner": "arista_eos_show_mac_security_participants_detail",
+   "score": "151.42857142857144",
+   "records": 4
+  },
+  {
+   "sample": "arista_eos_show_mlag",
+   "hint": "arista",
+   "winner": "arista_eos_show_mlag",
+   "score": "66.66666666666667",
+   "records": 1
+  },
+  {
+   "sample": "arista_eos_show_pim_ipv4_interface",
+   "hint": "arista",
+   "winner": "arista_eos_show_pim_ipv4_interface",
+   "score": "88.92857142857143",
+   "records": 4
+  },
+  {
+   "sample": "arista_eos_show_pim_ipv4_neighbor",
+   "hint": "arista",
+   "winner": "arista_eos_show_pim_ipv4_neighbor",
+   "score": "83.92857142857143",
+   "records": 4
+  },
+  {
+   "sample": "arista_eos_show_port-channel_summary",
+   "hint": "arista",
+   "winner": "arista_eos_show_port-channel_summary",
+   "score": "150.0",
+   "records": 40
+  },
+  {
+   "sample": "arista_eos_show_processes_top_once",
+   "hint": "arista",
+   "winner": "arista_eos_show_processes_top_once",
+   "score": "157.14285714285714",
+   "records": 8
+  },
+  {
+   "sample": "arista_eos_show_snmp_community",
+   "hint": "arista",
+   "winner": "arista_eos_show_snmp_community",
+   "score": "59.94047619047619",
+   "records": 5
+  },
+  {
+   "sample": "arista_eos_show_version",
+   "hint": "arista",
+   "winner": "arista_eos_show_version",
+   "score": "145.35714285714286",
+   "records": 1
+  },
+  {
+   "sample": "arista_eos_show_vlan",
+   "hint": "arista",
+   "winner": "arista_eos_show_vlan",
+   "score": "74.76190476190476",
+   "records": 4
+  },
+  {
+   "sample": "arista_eos_show_vrf",
+   "hint": "arista",
+   "winner": "arista_eos_show_vrf",
+   "score": "70.0",
+   "records": 2
+  },
+  {
+   "sample": "arista_eos_show_lldp_neighbors_detail2",
+   "hint": "arista",
+   "winner": "arista_eos_show_lldp_neighbors_detail",
+   "score": "143.125",
+   "records": 20
+  },
+  {
+   "sample": "juniper_junos_show_arp_no-resolve2",
+   "hint": "juniper",
+   "winner": "juniper_junos_show_arp_no-resolve2",
+   "score": "80.23809523809524",
+   "records": 9
+  },
+  {
+   "sample": "juniper_junos_show_chassis_cluster_interfaces",
+   "hint": "juniper",
+   "winner": "juniper_junos_show_chassis_cluster_interfaces",
+   "score": "193.75",
+   "records": 10
+  },
+  {
+   "sample": "juniper_junos_show_chassis_cluster_status",
+   "hint": "juniper",
+   "winner": "juniper_junos_show_chassis_cluster_status",
+   "score": "87.5",
+   "records": 3
+  },
+  {
+   "sample": "juniper_junos_show_chassis_hardware",
+   "hint": "juniper",
+   "winner": "juniper_junos_show_chassis_hardware",
+   "score": "191.35083713850838",
+   "records": 18
+  },
+  {
+   "sample": "juniper_junos_show_ethernet-switching_table",
+   "hint": "juniper",
+   "winner": "juniper_junos_show_ethernet_switching_table_qfx",
+   "score": "76.66666666666667",
+   "records": 2
+  },
+  {
+   "sample": "juniper_junos_show_interfaces",
+   "hint": "juniper",
+   "winner": "juniper_junos_show_interfaces",
+   "score": "73.78348214285714",
+   "records": 8
+  },
+  {
+   "sample": "juniper_junos_show_lacp_interfaces",
+   "hint": "juniper",
+   "winner": "juniper_junos_show_lacp_interfaces",
+   "score": "78.0952380952381",
+   "records": 4
+  },
+  {
+   "sample": "juniper_junos_show_lldp_neighbors",
+   "hint": "juniper",
+   "winner": "juniper_junos_show_lldp_neighbors",
+   "score": "76.66666666666667",
+   "records": 2
+  },
+  {
+   "sample": "juniper_junos_show_ospf_neighbor",
+   "hint": "juniper",
+   "winner": "juniper_junos_show_ospf_neighbor",
+   "score": "80.0",
+   "records": 2
+  },
+  {
+   "sample": "juniper_junos_show_system_uptime",
+   "hint": "juniper",
+   "winner": "juniper_junos_show_system_uptime",
+   "score": "140.0",
+   "records": 1
+  },
+  {
+   "sample": "juniper_junos_show_version",
+   "hint": "juniper",
+   "winner": "juniper_junos_show_version",
+   "score": "218.91304347826087",
+   "records": 1
+  },
+  {
+   "sample": "juniper_junos_show_vlans",
+   "hint": "juniper",
+   "winner": "juniper_junos_show_vlans",
+   "score": "73.33333333333334",
+   "records": 3
+  },
+  {
+   "sample": "juniper_screenos_get_route",
+   "hint": "juniper",
+   "winner": "juniper_screenos_get_route",
+   "score": "151.42857142857144",
+   "records": 4
+  },
+  {
+   "sample": "arista_eos_bash_df_-h",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_dir_flash",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_boot-config",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_clock",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_environment_cooling",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_environment_power",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_environment_temperature",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_hostname",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_interfaces",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_interfaces_description",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_interfaces_status",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_interfaces_transceiver",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_interfaces_transceiver_detail",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_inventory",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_ip_access-lists",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_ip_arp",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_ip_bgp",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_ip_bgp_detail",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_ip_bgp_summary",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_ip_interface_brief",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_ip_ospf_database",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_ip_ospf_interface_brief",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_ip_ospf_neighbor",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_ip_ospf_summary",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_ip_route",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_ipv6_bgp_summary",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_isis_neighbors",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_lldp_neighbors",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_lldp_neighbors_detail",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_mac_address-table",
+   "hint": "arista_eos_show_mac",
+   "winner": "arista_eos_show_mac_address-table",
+   "score": "140.65217391304347",
+   "records": 23
+  },
+  {
+   "sample": "arista_eos_show_mac_security_interface",
+   "hint": "arista_eos_show_mac",
+   "winner": "arista_eos_show_mac_security_interface",
+   "score": "80.47619047619048",
+   "records": 8
+  },
+  {
+   "sample": "arista_eos_show_mac_security_mka_counters",
+   "hint": "arista_eos_show_mac",
+   "winner": "arista_eos_show_mac_security_mka_counters",
+   "score": "146.66666666666669",
+   "records": 12
+  },
+  {
+   "sample": "arista_eos_show_mac_security_participants_detail",
+   "hint": "arista_eos_show_mac",
+   "winner": "arista_eos_show_mac_security_participants_detail",
+   "score": "151.42857142857144",
+   "records": 4
+  },
+  {
+   "sample": "arista_eos_show_mlag",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_pim_ipv4_interface",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_pim_ipv4_neighbor",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_port-channel_summary",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_processes_top_once",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_snmp_community",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_version",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_vlan",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_vrf",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "arista_eos_show_lldp_neighbors_detail2",
+   "hint": "arista_eos_show_mac",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "juniper_junos_show_arp_no-resolve2",
+   "hint": "juniper_junos_show_ethernet",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "juniper_junos_show_chassis_cluster_interfaces",
+   "hint": "juniper_junos_show_ethernet",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "juniper_junos_show_chassis_cluster_status",
+   "hint": "juniper_junos_show_ethernet",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "juniper_junos_show_chassis_hardware",
+   "hint": "juniper_junos_show_ethernet",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "juniper_junos_show_ethernet-switching_table",
+   "hint": "juniper_junos_show_ethernet",
+   "winner": "juniper_junos_show_ethernet_switching_table_qfx",
+   "score": "76.66666666666667",
+   "records": 2
+  },
+  {
+   "sample": "juniper_junos_show_interfaces",
+   "hint": "juniper_junos_show_ethernet",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "juniper_junos_show_lacp_interfaces",
+   "hint": "juniper_junos_show_ethernet",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "juniper_junos_show_lldp_neighbors",
+   "hint": "juniper_junos_show_ethernet",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "juniper_junos_show_ospf_neighbor",
+   "hint": "juniper_junos_show_ethernet",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "juniper_junos_show_system_uptime",
+   "hint": "juniper_junos_show_ethernet",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "juniper_junos_show_version",
+   "hint": "juniper_junos_show_ethernet",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  },
+  {
+   "sample": "juniper_junos_show_vlans",
+   "hint": "juniper_junos_show_ethernet",
+   "winner": "",
+   "score": "0.0",
+   "records": 0
+  }
+ ]
+}
